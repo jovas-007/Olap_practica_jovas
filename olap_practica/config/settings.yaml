@@ -13,7 +13,7 @@ day_map:
   S: {nombre: "Sábado", orden: 6}
 salon_regex: "^[0-9A-Z]+[0-9]?/[0-9]{3}$"
 db:
-  url: "postgresql+psycopg2://postgres:postgres@db:5432/horarios"
+  url: "mysql+pymysql://root:password@localhost:3307/horarios?charset=utf8mb4"
 app:
   host: "0.0.0.0"
   port: 8080

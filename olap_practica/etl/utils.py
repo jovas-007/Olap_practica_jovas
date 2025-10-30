@@ -12,6 +12,8 @@ import yaml
 from dotenv import load_dotenv
 from pydantic import BaseModel
 from slugify import slugify
+from sqlalchemy import create_engine, text
+from sqlalchemy.exc import SQLAlchemyError
 
 
 class DayInfo(BaseModel):
@@ -146,6 +148,29 @@ def ensure_directory(path: str | Path) -> Path:
     return directory
 
 
+def execute_sql_file(path: str | Path, settings: Optional[AppSettings] = None) -> None:
+    """Execute the SQL statements contained in ``path`` against the warehouse."""
+
+    if settings is None:
+        settings = load_settings()
+    sql_text = Path(path).read_text(encoding="utf-8")
+    database_url = get_database_url(settings)
+    engine = create_engine(database_url)
+    statements = [segment.strip() for segment in sql_text.split(";") if segment.strip()]
+    logger = get_logger()
+    with engine.begin() as conn:
+        for statement in statements:
+            try:
+                conn.execute(text(statement))
+            except SQLAlchemyError as exc:
+                message = str(exc).lower()
+                if "already exists" in message or "duplicate" in message:
+                    logger.warning("Sentencia omitida por duplicado: %s", statement)
+                else:
+                    raise
+    logger.info("Ejecución SQL completada desde %s", path)
+
+
 def validate_salon(value: str, pattern: str) -> bool:
     """Validate a classroom string against the expected regular expression."""
 
@@ -160,6 +185,7 @@ __all__ = [
     "get_database_url",
     "get_logger",
     "load_settings",
+    "execute_sql_file",
     "safe_title",
     "validate_salon",
 ]

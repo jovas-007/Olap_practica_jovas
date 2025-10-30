@@ -16,7 +16,7 @@ JOIN dim_docente d ON f.fk_docente = d.id
 JOIN dim_asignatura a ON f.fk_asignatura = a.id
 JOIN dim_tiempo t ON f.fk_tiempo = t.id
 JOIN dim_espacio e ON f.fk_espacio = e.id
-WHERE f.periodo = :periodo AND f.plan = :plan AND d.nombre_completo ILIKE :docente
+WHERE f.periodo = :periodo AND f.plan = :plan AND LOWER(d.nombre_completo) LIKE LOWER(:docente)
 ORDER BY d.nombre_completo, t.dia_codigo, f.inicio;
 """
 
@@ -26,7 +26,7 @@ FROM fact_clase f
 JOIN dim_docente d ON f.fk_docente = d.id
 JOIN dim_asignatura a ON f.fk_asignatura = a.id
 WHERE (:clave IS NOT NULL AND a.clave = :clave)
-   OR (:texto IS NOT NULL AND a.nombre ILIKE '%' || :texto || '%');
+   OR (:texto IS NOT NULL AND LOWER(a.nombre) LIKE LOWER(CONCAT('%', :texto, '%')));
 """
 
 QUERY_DOCENTES_EDIFICIO = """
@@ -34,7 +34,7 @@ SELECT DISTINCT d.nombre_completo
 FROM fact_clase f
 JOIN dim_docente d ON f.fk_docente = d.id
 JOIN dim_espacio e ON f.fk_espacio = e.id
-WHERE e.edificio = :edificio AND f.inicio <= :hora::time AND f.fin > :hora::time;
+WHERE e.edificio = :edificio AND f.inicio <= CAST(:hora AS TIME) AND f.fin > CAST(:hora AS TIME);
 """
 
 QUERY_DOCENTES_EDIFICIO_SLOTS = """
@@ -42,7 +42,7 @@ SELECT DISTINCT d.nombre_completo
 FROM fact_clase_slot s
 JOIN dim_docente d ON s.fk_docente = d.id
 JOIN dim_espacio e ON s.fk_espacio = e.id
-WHERE e.edificio = :edificio AND s.slot_inicio <= :hora::time AND s.slot_fin > :hora::time;
+WHERE e.edificio = :edificio AND s.slot_inicio <= CAST(:hora AS TIME) AND s.slot_fin > CAST(:hora AS TIME);
 """
 
 
