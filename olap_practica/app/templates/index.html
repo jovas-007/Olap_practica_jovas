@@ -1,0 +1,61 @@
+{% extends 'base.html' %}
+{% block title %}Consultas OLAP{% endblock %}
+{% block content %}
+<section class="card">
+    <h1>Consultas sobre horarios</h1>
+    <form action="{{ url_for('web.run_query') }}" method="post" id="query-form">
+        <label for="operation">Operación</label>
+        <select name="operation" id="operation" required>
+            <option value="horario_docente">Horario semanal de un docente</option>
+            <option value="docentes_por_materia">Docentes que imparten una materia</option>
+            <option value="docentes_en_edificio">Docentes en un edificio a una hora</option>
+        </select>
+        <div class="field" data-operation="horario_docente">
+            <label for="docente">Docente</label>
+            <input type="text" name="docente" id="docente" placeholder="Ej. Pérez" required>
+        </div>
+        <div class="field" data-operation="docentes_por_materia">
+            <label for="clave">Clave</label>
+            <input type="text" name="clave" id="clave" placeholder="Ej. MAT101">
+        </div>
+        <div class="field" data-operation="docentes_por_materia">
+            <label for="texto">Texto en nombre</label>
+            <input type="text" name="texto" id="texto" placeholder="Ej. Cálculo">
+            <small>Se prioriza la clave si se proporciona.</small>
+        </div>
+        <div class="field" data-operation="docentes_en_edificio">
+            <label for="edificio">Edificio</label>
+            <input type="text" name="edificio" id="edificio" placeholder="Ej. 1CCO4">
+        </div>
+        <div class="field" data-operation="docentes_en_edificio">
+            <label for="hora">Hora</label>
+            <input type="time" name="hora" id="hora" step="900" value="09:00">
+        </div>
+        <div class="field checkbox" data-operation="docentes_en_edificio">
+            <label>
+                <input type="checkbox" name="usar_slots"> Usar tabla de slots (si está disponible)
+            </label>
+        </div>
+        <button type="submit">Ejecutar consulta</button>
+    </form>
+</section>
+<script>
+const form = document.getElementById('query-form');
+const fields = document.querySelectorAll('.field');
+const operationSelect = document.getElementById('operation');
+
+function updateVisibility() {
+    const op = operationSelect.value;
+    fields.forEach(field => {
+        if (field.dataset.operation === op) {
+            field.style.display = 'block';
+        } else {
+            field.style.display = 'none';
+        }
+    });
+}
+
+operationSelect.addEventListener('change', updateVisibility);
+updateVisibility();
+</script>
+{% endblock %}
