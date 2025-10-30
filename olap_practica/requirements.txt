@@ -1,0 +1,13 @@
+pdfplumber
+pandas
+SQLAlchemy
+psycopg2-binary
+pydantic
+python-slugify
+python-dateutil
+Flask
+Jinja2
+PyYAML
+python-dotenv
+pytest
+Werkzeug
