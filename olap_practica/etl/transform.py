@@ -7,7 +7,18 @@ from typing import Dict, Iterable
 
 import pandas as pd
 
-from .utils import AppSettings, collapse_spaces, get_logger, load_settings
+try:  # pragma: no cover - allows ``python etl/transform.py``
+    from .utils import AppSettings, collapse_spaces, get_logger, load_settings
+except ImportError:  # pragma: no cover - fallback when executed as a script
+    import sys
+
+    sys.path.append(str(Path(__file__).resolve().parents[1]))
+    from etl.utils import (  # type: ignore  # pylint: disable=import-error
+        AppSettings,
+        collapse_spaces,
+        get_logger,
+        load_settings,
+    )
 
 OUTPUT_COLUMNS = [
     "nrc",

@@ -8,7 +8,18 @@ import pandas as pd
 from sqlalchemy import MetaData, Table, and_, create_engine, insert, select
 from sqlalchemy.engine import Engine, Connection
 
-from .utils import AppSettings, get_database_url, get_logger, load_settings
+try:  # pragma: no cover - allows script-style execution
+    from .utils import AppSettings, get_database_url, get_logger, load_settings
+except ImportError:  # pragma: no cover - fallback for ``python etl/load.py``
+    import sys
+
+    sys.path.append(str(Path(__file__).resolve().parents[1]))
+    from etl.utils import (  # type: ignore  # pylint: disable=import-error
+        AppSettings,
+        get_database_url,
+        get_logger,
+        load_settings,
+    )
 
 
 class DimensionCache:

@@ -1,7 +1,7 @@
 pdfplumber
 pandas
 SQLAlchemy
-psycopg2-binary
+PyMySQL
 pydantic
 python-slugify
 python-dateutil

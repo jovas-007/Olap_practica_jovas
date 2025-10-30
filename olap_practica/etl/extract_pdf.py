@@ -9,14 +9,27 @@ from typing import Iterable, List
 
 import pdfplumber
 
-from .utils import (
-    collapse_spaces,
-    ensure_directory,
-    get_logger,
-    load_settings,
-    safe_title,
-    validate_salon,
-)
+try:  # pragma: no cover - executed only when running as a script
+    from .utils import (
+        collapse_spaces,
+        ensure_directory,
+        get_logger,
+        load_settings,
+        safe_title,
+        validate_salon,
+    )
+except ImportError:  # pragma: no cover - fallback for ``python etl/extract_pdf.py``
+    import sys
+
+    sys.path.append(str(Path(__file__).resolve().parents[1]))
+    from etl.utils import (  # type: ignore  # pylint: disable=import-error
+        collapse_spaces,
+        ensure_directory,
+        get_logger,
+        load_settings,
+        safe_title,
+        validate_salon,
+    )
 
 EXPECTED_COLUMNS = [
     "nrc",
