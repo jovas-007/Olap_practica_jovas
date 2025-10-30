@@ -6,8 +6,6 @@ DATABASE_URL?=$(shell $(PYTHON) -c "import yaml; from pathlib import Path; \
 
 export DATABASE_URL
 
-install:
-	$(PIP) install -r requirements.txt
 
 extract:
 	$(PYTHON) etl/extract_pdf.py
