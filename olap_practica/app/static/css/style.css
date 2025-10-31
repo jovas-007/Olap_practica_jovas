@@ -1,0 +1,171 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    background-color: #f5f6fa;
+    color: #2f3640;
+}
+
+.navbar {
+    background-color: #273c75;
+    color: #fff;
+    padding: 1rem 2rem;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.brand {
+    font-weight: 600;
+    letter-spacing: 1px;
+}
+
+.container {
+    max-width: 960px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+.card {
+    background: #fff;
+    border-radius: 8px;
+    padding: 2rem;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+}
+
+.info-section {
+    margin-top: 2rem;
+}
+
+.info-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1.5rem;
+    margin-top: 1.5rem;
+}
+
+.info-section article {
+    background: #f7f9fc;
+    border-radius: 6px;
+    padding: 1rem 1.25rem;
+    box-shadow: inset 0 0 0 1px #dcdde1;
+}
+
+.info-section h3 {
+    margin-top: 0;
+}
+
+.info-section ul {
+    padding-left: 1.2rem;
+}
+
+.info-section li {
+    margin-bottom: 0.5rem;
+}
+
+.info-section .mini-note {
+    margin-top: 0.75rem;
+    font-size: 0.9rem;
+    color: #4b5563;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+input[type="text"],
+input[type="time"],
+select {
+    width: 100%;
+    padding: 0.6rem;
+    border: 1px solid #dcdde1;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+}
+
+button {
+    background-color: #273c75;
+    color: #fff;
+    border: none;
+    padding: 0.8rem 1.6rem;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+button:hover {
+    background-color: #192a56;
+}
+
+.field {
+    margin-bottom: 1rem;
+}
+
+.checkbox {
+    display: flex;
+    align-items: center;
+}
+
+.checkbox input {
+    margin-right: 0.5rem;
+}
+
+.table-wrapper {
+    overflow-x: auto;
+    margin-top: 1.5rem;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 0.75rem;
+    border-bottom: 1px solid #dcdde1;
+    text-align: left;
+}
+
+th {
+    background-color: #f0f1f6;
+}
+
+.flash-messages {
+    margin-bottom: 1rem;
+}
+
+.flash {
+    padding: 0.75rem 1rem;
+    border-radius: 4px;
+    margin-bottom: 0.5rem;
+}
+
+.flash.error {
+    background-color: #e84118;
+    color: #fff;
+}
+
+.flash.warning {
+    background-color: #fbc531;
+    color: #2f3640;
+}
+
+.back-link {
+    display: inline-block;
+    margin-top: 0.5rem;
+    color: #273c75;
+    text-decoration: none;
+}
+
+.back-link:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+    .card {
+        padding: 1.5rem;
+    }
+
+    .info-grid {
+        grid-template-columns: 1fr;
+    }
+}
