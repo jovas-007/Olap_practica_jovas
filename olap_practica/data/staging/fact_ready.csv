@@ -1,0 +1,1185 @@
+nrc,clave,materia,seccion,profesor,programa,edificio,aula,dia_codigo,dia_orden,inicio,fin,minutos,cruzada
+25966,IDDS 001,Administracion de Proyectos,101,Rodriguez - Pedroza Berenice,ICC,1CCO1,004,A,2,07:00:00,08:59:00,119,False
+25966,IDDS 001,Administracion de Proyectos,101,Rodriguez - Pedroza Berenice,ICC,1CCO1,004,J,4,07:00:00,08:59:00,119,False
+25978,IDDS 001,Administracion de Proyectos,102,Romero - Valdez Maria DEL Carmen,ICC,1CCO5,203,A,2,09:00:00,10:59:00,119,False
+25978,IDDS 001,Administracion de Proyectos,102,Romero - Valdez Maria DEL Carmen,ICC,1CCO5,203,J,4,09:00:00,10:59:00,119,False
+26005,IDDS 001,Administracion de Proyectos,103,Romero - Valdez Maria DEL Carmen,ICC,1CCO1,002,M,3,17:00:00,18:59:00,119,False
+26005,IDDS 001,Administracion de Proyectos,103,Romero - Valdez Maria DEL Carmen,ICC,1CCO1,002,V,5,17:00:00,18:59:00,119,False
+26030,IDDS 001,Administracion de Proyectos,104,Romero - Valdez Maria DEL Carmen,ICC,1CCO5,201,A,2,17:00:00,18:59:00,119,False
+26030,IDDS 001,Administracion de Proyectos,104,Romero - Valdez Maria DEL Carmen,ICC,1CCO5,201,J,4,17:00:00,18:59:00,119,False
+26065,IDDS 001,Administracion de Proyectos,105,Vera - Cervantes Eugenia Erica,ICC,1CCO1,001,M,3,11:00:00,12:59:00,119,False
+26065,IDDS 001,Administracion de Proyectos,105,Vera - Cervantes Eugenia Erica,ICC,1CCO1,001,V,5,11:00:00,12:59:00,119,False
+26082,IDDS 001,Administracion de Proyectos,106,Ambrosio - Vazquez Alma Delia,ICC,1CCO5,203,M,3,15:00:00,16:59:00,119,False
+26082,IDDS 001,Administracion de Proyectos,106,Ambrosio - Vazquez Alma Delia,ICC,1CCO5,203,V,5,15:00:00,16:59:00,119,False
+26104,IDDS 001,Administracion de Proyectos,108,Zenteno - Vazquez ANA Claudia,ICC,1CCO4,203,M,3,09:00:00,10:59:00,119,False
+26104,IDDS 001,Administracion de Proyectos,108,Zenteno - Vazquez ANA Claudia,ICC,1CCO4,203,V,5,09:00:00,10:59:00,119,False
+26119,IDDS 001,Administracion de Proyectos,109,Gonzalez - Flores Marcos,ICC,1CCO4,201,A,2,13:00:00,14:59:00,119,False
+26119,IDDS 001,Administracion de Proyectos,109,Gonzalez - Flores Marcos,ICC,1CCO4,201,J,4,13:00:00,14:59:00,119,False
+26125,IDDS 001,Administracion de Proyectos,110,Mendoza - Rojas Angel Omar,ICC,1CCO4,401,M,3,07:00:00,08:59:00,119,False
+26125,IDDS 001,Administracion de Proyectos,110,Mendoza - Rojas Angel Omar,ICC,1CCO4,401,V,5,07:00:00,08:59:00,119,False
+25094,ICCS 261,Administracion de Redes,OO1,Zenteno - Vazquez ANA Claudia,ICC,1CCO1,005,L,1,11:00:00,11:59:00,59,False
+25094,ICCS 261,Administracion de Redes,OO1,Zenteno - Vazquez ANA Claudia,ICC,1CCO1,005,M,3,11:00:00,12:59:00,119,False
+25094,ICCS 261,Administracion de Redes,OO1,Zenteno - Vazquez ANA Claudia,ICC,1CCO3,302,V,5,11:00:00,12:59:00,119,False
+25117,ICCS 261,Administracion de Redes,OO2,Romero - Hernandez Yeiny,ICC,1CCO3,302,L,1,13:00:00,13:59:00,59,False
+25117,ICCS 261,Administracion de Redes,OO2,Romero - Hernandez Yeiny,ICC,1CCO3,302,M,3,13:00:00,14:59:00,119,False
+25117,ICCS 261,Administracion de Redes,OO2,Romero - Hernandez Yeiny,ICC,1CCO4,303,V,5,13:00:00,14:59:00,119,False
+25138,ICCS 261,Administracion de Redes,OO3,Barrios - Gonzalez Erick,ICC,1CCO1,005,A,2,13:00:00,14:59:00,119,False
+25138,ICCS 261,Administracion de Redes,OO3,Barrios - Gonzalez Erick,ICC,1CCO3,302,J,4,13:00:00,14:59:00,119,False
+25138,ICCS 261,Administracion de Redes,OO3,Barrios - Gonzalez Erick,ICC,1CCO1,005,L,1,14:00:00,14:59:00,59,False
+25165,ICCS 261,Administracion de Redes,OO4,Zenteno - Vazquez ANA Claudia,ICC,1CCO4,202,A,2,13:00:00,14:59:00,119,False
+25165,ICCS 261,Administracion de Redes,OO4,Zenteno - Vazquez ANA Claudia,ICC,1CCO3,301,J,4,13:00:00,14:59:00,119,False
+25165,ICCS 261,Administracion de Redes,OO4,Zenteno - Vazquez ANA Claudia,ICC,1CCO3,301,L,1,14:00:00,14:59:00,59,False
+42753,ISCO 201,Analisis y Diseno de Algoritm,O1O,Vargas - Lomeli Miguel Angel,ICC,1CCO4,104,A,2,09:00:00,10:59:00,119,False
+42753,ISCO 201,Analisis y Diseno de Algoritm,O1O,Vargas - Lomeli Miguel Angel,ICC,1CCO3,104,J,4,09:00:00,10:59:00,119,False
+42753,ISCO 201,Analisis y Diseno de Algoritm,O1O,Vargas - Lomeli Miguel Angel,ICC,1CCO3,104,L,1,10:00:00,10:59:00,59,False
+26508,ISCO 201,Analisis y Diseno de Algoritm,OO1,Regino - Medina Luis Filiberto,ICC,1CCO1,001,L,1,09:00:00,09:59:00,59,False
+26508,ISCO 201,Analisis y Diseno de Algoritm,OO1,Regino - Medina Luis Filiberto,ICC,1CCO1,001,M,3,09:00:00,10:59:00,119,False
+26508,ISCO 201,Analisis y Diseno de Algoritm,OO1,Regino - Medina Luis Filiberto,ICC,1CCO1,001,V,5,09:00:00,10:59:00,119,False
+26535,ISCO 201,Analisis y Diseno de Algoritm,OO2,Marcial - Castillo Luis Rene,ICC,1CCO1,003,A,2,09:00:00,10:59:00,119,False
+26535,ISCO 201,Analisis y Diseno de Algoritm,OO2,Marcial - Castillo Luis Rene,ICC,1CCO1,003,J,4,09:00:00,10:59:00,119,False
+26535,ISCO 201,Analisis y Diseno de Algoritm,OO2,Marcial - Castillo Luis Rene,ICC,1CCO1,003,L,1,10:00:00,10:59:00,59,False
+26540,ISCO 201,Analisis y Diseno de Algoritm,OO3,Ayaquica - Martinez Irene Olaya,ICC,1CCO1,003,A,2,13:00:00,14:59:00,119,False
+26540,ISCO 201,Analisis y Diseno de Algoritm,OO3,Ayaquica - Martinez Irene Olaya,ICC,1CCO1,003,J,4,13:00:00,14:59:00,119,False
+26540,ISCO 201,Analisis y Diseno de Algoritm,OO3,Ayaquica - Martinez Irene Olaya,ICC,1CCO1,003,L,1,14:00:00,14:59:00,59,False
+26546,ISCO 201,Analisis y Diseno de Algoritm,OO4,Zacarias - Flores Fernando,ICC,1CCO1,003,A,2,11:00:00,12:59:00,119,False
+26546,ISCO 201,Analisis y Diseno de Algoritm,OO4,Zacarias - Flores Fernando,ICC,1CCO1,003,J,4,11:00:00,12:59:00,119,False
+26546,ISCO 201,Analisis y Diseno de Algoritm,OO4,Zacarias - Flores Fernando,ICC,1CCO1,003,L,1,12:00:00,12:59:00,59,False
+26553,ISCO 201,Analisis y Diseno de Algoritm,OO5,Bello - Lopez Pedro,ICC,1CCO4,307,A,2,11:00:00,12:59:00,119,False
+26553,ISCO 201,Analisis y Diseno de Algoritm,OO5,Bello - Lopez Pedro,ICC,1CCO4,401,J,4,11:00:00,12:59:00,119,False
+26553,ISCO 201,Analisis y Diseno de Algoritm,OO5,Bello - Lopez Pedro,ICC,1CCO4,401,L,1,12:00:00,12:59:00,59,False
+26558,ISCO 201,Analisis y Diseno de Algoritm,OO6,Toriz - Palacios Alfredo,ICC,1CCO1,005,A,2,07:00:00,08:59:00,119,False
+26558,ISCO 201,Analisis y Diseno de Algoritm,OO6,Toriz - Palacios Alfredo,ICC,1CCO1,005,J,4,07:00:00,08:59:00,119,False
+26558,ISCO 201,Analisis y Diseno de Algoritm,OO6,Toriz - Palacios Alfredo,ICC,1CCO1,005,L,1,08:00:00,08:59:00,59,False
+26565,ISCO 201,Analisis y Diseno de Algoritm,OO7,Montalvo - Montalvo Nancy,ICC,1CCO4,103,L,1,13:00:00,13:59:00,59,False
+26565,ISCO 201,Analisis y Diseno de Algoritm,OO7,Montalvo - Montalvo Nancy,ICC,1CCO4,103,M,3,13:00:00,14:59:00,119,False
+26565,ISCO 201,Analisis y Diseno de Algoritm,OO7,Montalvo - Montalvo Nancy,ICC,1CCO4,103,V,5,13:00:00,14:59:00,119,False
+26570,ISCO 201,Analisis y Diseno de Algoritm,OO8,Vilarino - Ayala Darnes,ICC,1CCO4,204,A,2,07:00:00,08:59:00,119,False
+26570,ISCO 201,Analisis y Diseno de Algoritm,OO8,Vilarino - Ayala Darnes,ICC,1CCO3,101,J,4,07:00:00,08:59:00,119,False
+26570,ISCO 201,Analisis y Diseno de Algoritm,OO8,Vilarino - Ayala Darnes,ICC,1CCO4,204,L,1,08:00:00,08:59:00,59,False
+26574,ISCO 201,Analisis y Diseno de Algoritm,OO9,Altamirano - Robles Luis Carlos,ICC,1CCO4,304,A,2,17:00:00,18:59:00,119,False
+26574,ISCO 201,Analisis y Diseno de Algoritm,OO9,Altamirano - Robles Luis Carlos,ICC,1CCO4,304,J,4,17:00:00,18:59:00,119,False
+26574,ISCO 201,Analisis y Diseno de Algoritm,OO9,Altamirano - Robles Luis Carlos,ICC,1CCO4,304,L,1,18:00:00,18:59:00,59,False
+25104,CCOS 609,Animacion por Computadora,OO1,Rivera - Martinez Marcela,ICC,1CCO3,114,A,2,09:00:00,10:59:00,119,False
+25104,CCOS 609,Animacion por Computadora,OO1,Rivera - Martinez Marcela,ICC,1CCO1,002,J,4,09:00:00,10:59:00,119,False
+25104,CCOS 609,Animacion por Computadora,OO1,Rivera - Martinez Marcela,ICC,1CCO3,114,L,1,10:00:00,10:59:00,59,False
+25114,CCOS 609,Animacion por Computadora,OO2,Mendoza - Olguin Gustavo Emilio,ICC,1CCO4,307,L,1,11:00:00,11:59:00,59,False
+25114,CCOS 609,Animacion por Computadora,OO2,Mendoza - Olguin Gustavo Emilio,ICC,1CCO4,204,M,3,11:00:00,12:59:00,119,False
+25114,CCOS 609,Animacion por Computadora,OO2,Mendoza - Olguin Gustavo Emilio,ICC,1CCO4,307,V,5,11:00:00,12:59:00,119,False
+25126,CCOS 609,Animacion por Computadora,OO3,Acosta - Ruiz Samantha,ICC,1CCO3,109,A,2,15:00:00,16:59:00,119,False
+25126,CCOS 609,Animacion por Computadora,OO3,Acosta - Ruiz Samantha,ICC,1CCO1,001,J,4,15:00:00,16:59:00,119,False
+25126,CCOS 609,Animacion por Computadora,OO3,Acosta - Ruiz Samantha,ICC,1CCO3,109,L,1,16:00:00,16:59:00,59,False
+25245,CCOS 701,Aplicaciones Multimedia,OO1,Castillo - Avila Arlem Aleida,ICC,1CCO1,004,A,2,11:00:00,12:59:00,119,False
+25245,CCOS 701,Aplicaciones Multimedia,OO1,Castillo - Avila Arlem Aleida,ICC,1CCO3,114,J,4,11:00:00,12:59:00,119,False
+25245,CCOS 701,Aplicaciones Multimedia,OO1,Castillo - Avila Arlem Aleida,ICC,1CCO3,114,L,1,12:00:00,12:59:00,59,False
+25182,CCOS 700,Aplicaciones Web,OO1,Castillo - Avila Arlem Aleida,ICC,1CCO2,208,L,1,09:00:00,09:59:00,59,False
+25182,CCOS 700,Aplicaciones Web,OO1,Castillo - Avila Arlem Aleida,ICC,1CCO2,208,M,3,09:00:00,10:59:00,119,False
+25182,CCOS 700,Aplicaciones Web,OO1,Castillo - Avila Arlem Aleida,ICC,1CCO2,208,V,5,09:00:00,10:59:00,119,False
+25223,CCOS 700,Aplicaciones Web,OO2,Mendez - Sanchez Luis Yael,ICC,1CCO4,303,A,2,11:00:00,12:59:00,119,False
+25223,CCOS 700,Aplicaciones Web,OO2,Mendez - Sanchez Luis Yael,ICC,1CCO4,307,J,4,11:00:00,12:59:00,119,False
+25223,CCOS 700,Aplicaciones Web,OO2,Mendez - Sanchez Luis Yael,ICC,1CCO4,307,L,1,12:00:00,12:59:00,59,False
+25236,CCOS 700,Aplicaciones Web,OO3,Bello - Lopez Pedro,ICC,1CCO4,308,L,1,17:00:00,17:59:00,59,False
+25236,CCOS 700,Aplicaciones Web,OO3,Bello - Lopez Pedro,ICC,1CCO4,308,M,3,17:00:00,18:59:00,119,False
+25236,CCOS 700,Aplicaciones Web,OO3,Bello - Lopez Pedro,ICC,1CCO1,001,V,5,17:00:00,18:59:00,119,False
+26288,ISCC 201,Arquitectura de Computadoras,OO1,Sanchez - Galvez Maria Eugenia Narciza Sully,ICC,1CCO5,202,L,1,11:00:00,11:59:00,59,False
+26288,ISCC 201,Arquitectura de Computadoras,OO1,Sanchez - Galvez Maria Eugenia Narciza Sully,ICC,1CCO5,202,M,3,11:00:00,12:59:00,119,False
+26288,ISCC 201,Arquitectura de Computadoras,OO1,Sanchez - Galvez Maria Eugenia Narciza Sully,ICC,1CCO3,309,V,5,11:00:00,12:59:00,119,False
+26304,ISCC 201,Arquitectura de Computadoras,OO2,Hurtado - Madrid Jose Miguel,ICC,1CCO1,003,A,2,17:00:00,18:59:00,119,False
+26304,ISCC 201,Arquitectura de Computadoras,OO2,Hurtado - Madrid Jose Miguel,ICC,1CCO3,309,J,4,17:00:00,18:59:00,119,False
+26304,ISCC 201,Arquitectura de Computadoras,OO2,Hurtado - Madrid Jose Miguel,ICC,1CCO1,003,L,1,18:00:00,18:59:00,59,False
+26319,ISCC 201,Arquitectura de Computadoras,OO3,Rubin - Linares Gustavo Trinidad,ICC,1CCO1,005,L,1,09:00:00,09:59:00,59,False
+26319,ISCC 201,Arquitectura de Computadoras,OO3,Rubin - Linares Gustavo Trinidad,ICC,1CCO1,005,M,3,09:00:00,10:59:00,119,False
+26319,ISCC 201,Arquitectura de Computadoras,OO3,Rubin - Linares Gustavo Trinidad,ICC,1CCO3,309,V,5,09:00:00,10:59:00,119,False
+26348,ISCC 201,Arquitectura de Computadoras,OO4,Hurtado - Madrid Jose Miguel,ICC,1CCO3,208,A,2,13:00:00,14:59:00,119,False
+26348,ISCC 201,Arquitectura de Computadoras,OO4,Hurtado - Madrid Jose Miguel,ICC,1CCO4,402,J,4,13:00:00,14:59:00,119,False
+26348,ISCC 201,Arquitectura de Computadoras,OO4,Hurtado - Madrid Jose Miguel,ICC,1CCO3,208,L,1,14:00:00,14:59:00,59,False
+26359,ISCC 201,Arquitectura de Computadoras,OO5,Barrios - Gonzalez Erick,ICC,1CCO4,303,L,1,13:00:00,13:59:00,59,False
+26359,ISCC 201,Arquitectura de Computadoras,OO5,Barrios - Gonzalez Erick,ICC,1CCO4,303,M,3,13:00:00,14:59:00,119,False
+26359,ISCC 201,Arquitectura de Computadoras,OO5,Barrios - Gonzalez Erick,ICC,1CCO3,114,V,5,13:00:00,14:59:00,119,False
+26401,ISCC 201,Arquitectura de Computadoras,OO6,Morales - Aguilar Luis Enrique,ICC,1CCO4,305,A,2,13:00:00,14:59:00,119,False
+26401,ISCC 201,Arquitectura de Computadoras,OO6,Morales - Aguilar Luis Enrique,ICC,1CCO3,208,J,4,13:00:00,14:59:00,119,False
+26401,ISCC 201,Arquitectura de Computadoras,OO6,Morales - Aguilar Luis Enrique,ICC,1CCO3,309,L,1,14:00:00,14:59:00,59,False
+25841,ICCS 256,Bases de Datos para Ingenieria,OO1,Perez DE Celis - Herrero Maria DE LA Concepcion,ICC,1CCO1,004,L,1,13:00:00,13:59:00,59,False
+25841,ICCS 256,Bases de Datos para Ingenieria,OO1,Perez DE Celis - Herrero Maria DE LA Concepcion,ICC,1CCO3,104,M,3,13:00:00,14:59:00,119,False
+25841,ICCS 256,Bases de Datos para Ingenieria,OO1,Perez DE Celis - Herrero Maria DE LA Concepcion,ICC,1CCO1,004,V,5,13:00:00,14:59:00,119,False
+25848,ICCS 256,Bases de Datos para Ingenieria,OO2,Beltran - Martinez Beatriz,ICC,1CCO2,207,L,1,09:00:00,09:59:00,59,False
+25848,ICCS 256,Bases de Datos para Ingenieria,OO2,Beltran - Martinez Beatriz,ICC,1CCO2,207,M,3,09:00:00,10:59:00,119,False
+25848,ICCS 256,Bases de Datos para Ingenieria,OO2,Beltran - Martinez Beatriz,ICC,1CCO3,104,V,5,09:00:00,10:59:00,119,False
+25853,ICCS 256,Bases de Datos para Ingenieria,OO3,Rodriguez - Bernal Fernando,ICC,1CCO3,109,A,2,17:00:00,18:59:00,119,False
+25853,ICCS 256,Bases de Datos para Ingenieria,OO3,Rodriguez - Bernal Fernando,ICC,1CCO1,001,J,4,17:00:00,18:59:00,119,False
+25853,ICCS 256,Bases de Datos para Ingenieria,OO3,Rodriguez - Bernal Fernando,ICC,1CCO1,001,L,1,18:00:00,18:59:00,59,False
+25858,ICCS 256,Bases de Datos para Ingenieria,OO4,Moyao - Martinez Yolanda,ICC,1CCO1,003,L,1,07:00:00,07:59:00,59,False
+25858,ICCS 256,Bases de Datos para Ingenieria,OO4,Moyao - Martinez Yolanda,ICC,1CCO2,207,M,3,07:00:00,08:59:00,119,False
+25858,ICCS 256,Bases de Datos para Ingenieria,OO4,Moyao - Martinez Yolanda,ICC,1CCO1,003,V,5,07:00:00,08:59:00,119,False
+25864,ICCS 256,Bases de Datos para Ingenieria,OO5,Contreras - Gonzalez Meliza,ICC,1CCO1,001,L,1,15:00:00,15:59:00,59,False
+25864,ICCS 256,Bases de Datos para Ingenieria,OO5,Contreras - Gonzalez Meliza,ICC,1CCO1,001,M,3,15:00:00,16:59:00,119,False
+25864,ICCS 256,Bases de Datos para Ingenieria,OO5,Contreras - Gonzalez Meliza,ICC,1CCO2,207,V,5,15:00:00,16:59:00,119,False
+25867,ICCS 256,Bases de Datos para Ingenieria,OO6,Ambrosio - Vazquez Alma Delia,ICC,1CCO3,109,A,2,11:00:00,12:59:00,119,False
+25867,ICCS 256,Bases de Datos para Ingenieria,OO6,Ambrosio - Vazquez Alma Delia,ICC,1CCO4,306,J,4,11:00:00,12:59:00,119,False
+25867,ICCS 256,Bases de Datos para Ingenieria,OO6,Ambrosio - Vazquez Alma Delia,ICC,1CCO2,207,L,1,12:00:00,12:59:00,59,False
+25524,ICCS 007,Circuitos Electricos,OO1,Mejia - Palafox Juan,ICC,1CCO5,202,L,1,07:00:00,07:59:00,59,False
+25524,ICCS 007,Circuitos Electricos,OO1,Mejia - Palafox Juan,ICC,1CCO3,309,M,3,07:00:00,08:59:00,119,False
+25524,ICCS 007,Circuitos Electricos,OO1,Mejia - Palafox Juan,ICC,1CCO5,202,V,5,07:00:00,08:59:00,119,False
+25527,ICCS 007,Circuitos Electricos,OO2,Chavira - Martinez Elsa,ICC,1CCO5,202,L,1,09:00:00,09:59:00,59,False
+25527,ICCS 007,Circuitos Electricos,OO2,Chavira - Martinez Elsa,ICC,1CCO3,309,M,3,09:00:00,10:59:00,119,False
+25527,ICCS 007,Circuitos Electricos,OO2,Chavira - Martinez Elsa,ICC,1CCO5,202,V,5,09:00:00,10:59:00,119,False
+25531,ICCS 007,Circuitos Electricos,OO4,Rodriguez - Pedroza Berenice,ICC,1CCO3,309,A,2,09:00:00,10:59:00,119,False
+25531,ICCS 007,Circuitos Electricos,OO4,Rodriguez - Pedroza Berenice,ICC,1CCO5,201,J,4,09:00:00,10:59:00,119,False
+25531,ICCS 007,Circuitos Electricos,OO4,Rodriguez - Pedroza Berenice,ICC,1CCO3,309,L,1,10:00:00,10:59:00,59,False
+25535,ICCS 007,Circuitos Electricos,OO5,Hurtado - Madrid Jose Miguel,ICC,1CCO4,402,L,1,17:00:00,17:59:00,59,False
+25535,ICCS 007,Circuitos Electricos,OO5,Hurtado - Madrid Jose Miguel,ICC,1CCO3,309,M,3,17:00:00,18:59:00,119,False
+25535,ICCS 007,Circuitos Electricos,OO5,Hurtado - Madrid Jose Miguel,ICC,1CCO4,402,V,5,17:00:00,18:59:00,119,False
+25543,ICCS 007,Circuitos Electricos,OO6,Camacho - Tellez Hugo,ICC,1CCO5,201,A,2,15:00:00,16:59:00,119,False
+25543,ICCS 007,Circuitos Electricos,OO6,Camacho - Tellez Hugo,ICC,1CCO3,309,J,4,15:00:00,16:59:00,119,False
+25543,ICCS 007,Circuitos Electricos,OO6,Camacho - Tellez Hugo,ICC,1CCO5,201,L,1,16:00:00,16:59:00,59,False
+25546,ICCS 007,Circuitos Electricos,OO7,Morales - Aguilar Luis Enrique,ICC,1CCO3,310,L,1,19:00:00,19:59:00,59,False
+25546,ICCS 007,Circuitos Electricos,OO7,Morales - Aguilar Luis Enrique,ICC,1CCO3,310,M,3,19:00:00,20:59:00,119,False
+25546,ICCS 007,Circuitos Electricos,OO7,Morales - Aguilar Luis Enrique,ICC,1CCO1,001,V,5,19:00:00,20:59:00,119,False
+25552,ICCS 250,Circuitos Electronicos,OO1,Rubin - Linares Gustavo Trinidad,ICC,1CCO3,309,A,2,11:00:00,12:59:00,119,False
+25552,ICCS 250,Circuitos Electronicos,OO1,Rubin - Linares Gustavo Trinidad,ICC,1CCO1,001,J,4,11:00:00,12:59:00,119,False
+25552,ICCS 250,Circuitos Electronicos,OO1,Rubin - Linares Gustavo Trinidad,ICC,1CCO1,001,L,1,12:00:00,12:59:00,59,False
+25558,ICCS 250,Circuitos Electronicos,OO2,Camacho - Tellez Hugo,ICC,1CCO5,201,L,1,15:00:00,15:59:00,59,False
+25558,ICCS 250,Circuitos Electronicos,OO2,Camacho - Tellez Hugo,ICC,1CCO3,309,M,3,15:00:00,16:59:00,119,False
+25558,ICCS 250,Circuitos Electronicos,OO2,Camacho - Tellez Hugo,ICC,1CCO5,201,V,5,15:00:00,16:59:00,119,False
+25564,ICCS 250,Circuitos Electronicos,OO3,Rodriguez - Pedroza Berenice,ICC,1CCO3,208,L,1,09:00:00,09:59:00,59,False
+25564,ICCS 250,Circuitos Electronicos,OO3,Rodriguez - Pedroza Berenice,ICC,1CCO3,208,M,3,09:00:00,10:59:00,119,False
+25564,ICCS 250,Circuitos Electronicos,OO3,Rodriguez - Pedroza Berenice,ICC,1CCO3,208,V,5,09:00:00,10:59:00,119,False
+25567,ICCS 250,Circuitos Electronicos,OO4,Lopez - Munoz Mauro Alberto,ICC,1CCO3,208,L,1,11:00:00,11:59:00,59,False
+25567,ICCS 250,Circuitos Electronicos,OO4,Lopez - Munoz Mauro Alberto,ICC,1CCO3,208,M,3,11:00:00,12:59:00,119,False
+25567,ICCS 250,Circuitos Electronicos,OO4,Lopez - Munoz Mauro Alberto,ICC,1CCO3,208,V,5,11:00:00,12:59:00,119,False
+25570,ICCS 250,Circuitos Electronicos,OO5,Cortez - . Ernest,ICC,1CCO3,208,A,2,17:00:00,18:59:00,119,False
+25570,ICCS 250,Circuitos Electronicos,OO5,Cortez - . Ernest,ICC,1CCO3,208,J,4,17:00:00,18:59:00,119,False
+25570,ICCS 250,Circuitos Electronicos,OO5,Cortez - . Ernest,ICC,1CCO3,208,L,1,18:00:00,18:59:00,59,False
+25574,ICCS 250,Circuitos Electronicos,OO6,Rubin - Linares Gustavo Trinidad,ICC,1CCO5,202,A,2,09:00:00,10:59:00,119,False
+25574,ICCS 250,Circuitos Electronicos,OO6,Rubin - Linares Gustavo Trinidad,ICC,1CCO3,208,J,4,09:00:00,10:59:00,119,False
+25574,ICCS 250,Circuitos Electronicos,OO6,Rubin - Linares Gustavo Trinidad,ICC,1CCO5,203,L,1,10:00:00,10:59:00,59,False
+26068,ICCS 258,Desarrollo de Aplicaciones Web,OO1,Toriz - Palacios Alfredo,ICC,1CCO4,102,L,1,07:00:00,07:59:00,59,False
+26068,ICCS 258,Desarrollo de Aplicaciones Web,OO1,Toriz - Palacios Alfredo,ICC,1CCO4,102,M,3,07:00:00,08:59:00,119,False
+26068,ICCS 258,Desarrollo de Aplicaciones Web,OO1,Toriz - Palacios Alfredo,ICC,1CCO3,101,V,5,07:00:00,08:59:00,119,False
+26074,ICCS 258,Desarrollo de Aplicaciones Web,OO2,Lopez - Poblano Gilberto,ICC,1CCO4,103,L,1,17:00:00,17:59:00,59,False
+26074,ICCS 258,Desarrollo de Aplicaciones Web,OO2,Lopez - Poblano Gilberto,ICC,1CCO4,403,M,3,17:00:00,18:59:00,119,False
+26074,ICCS 258,Desarrollo de Aplicaciones Web,OO2,Lopez - Poblano Gilberto,ICC,1CCO4,103,V,5,17:00:00,18:59:00,119,False
+26076,ICCS 258,Desarrollo de Aplicaciones Web,OO3,Lopez - Poblano Gilberto,ICC,1CCO1,002,A,2,15:00:00,16:59:00,119,False
+26076,ICCS 258,Desarrollo de Aplicaciones Web,OO3,Lopez - Poblano Gilberto,ICC,1CCO4,403,J,4,15:00:00,16:59:00,119,False
+26076,ICCS 258,Desarrollo de Aplicaciones Web,OO3,Lopez - Poblano Gilberto,ICC,1CCO4,403,L,1,16:00:00,16:59:00,59,False
+26083,ICCS 258,Desarrollo de Aplicaciones Web,OO4,Mendez - Sanchez Luis Yael,ICC,1CCO3,104,L,1,09:00:00,09:59:00,59,False
+26083,ICCS 258,Desarrollo de Aplicaciones Web,OO4,Mendez - Sanchez Luis Yael,ICC,1CCO3,104,M,3,09:00:00,10:59:00,119,False
+26083,ICCS 258,Desarrollo de Aplicaciones Web,OO4,Mendez - Sanchez Luis Yael,ICC,1CCO3,101,V,5,09:00:00,10:59:00,119,False
+26087,ICCS 258,Desarrollo de Aplicaciones Web,OO5,Toriz - Palacios Alfredo,ICC,1CCO4,306,A,2,09:00:00,10:59:00,119,False
+26087,ICCS 258,Desarrollo de Aplicaciones Web,OO5,Toriz - Palacios Alfredo,ICC,1CCO4,104,J,4,09:00:00,10:59:00,119,False
+26087,ICCS 258,Desarrollo de Aplicaciones Web,OO5,Toriz - Palacios Alfredo,ICC,1CCO4,104,L,1,10:00:00,10:59:00,59,False
+26093,ICCS 258,Desarrollo de Aplicaciones Web,OO6,Conde - Ramirez Juan Carlos,ICC,1CCO1,001,L,1,11:00:00,11:59:00,59,False
+26093,ICCS 258,Desarrollo de Aplicaciones Web,OO6,Conde - Ramirez Juan Carlos,ICC,1CCO4,307,M,3,11:00:00,12:59:00,119,False
+26093,ICCS 258,Desarrollo de Aplicaciones Web,OO6,Conde - Ramirez Juan Carlos,ICC,1CCO4,204,V,5,11:00:00,12:59:00,119,False
+25669,ICCS 253,Diseno Digital,OO1,Sanchez - Galvez Maria Eugenia Narciza Sully,ICC,1CCO1,003,A,2,07:00:00,08:59:00,119,False
+25669,ICCS 253,Diseno Digital,OO1,Sanchez - Galvez Maria Eugenia Narciza Sully,ICC,1CCO3,309,J,4,07:00:00,08:59:00,119,False
+25669,ICCS 253,Diseno Digital,OO1,Sanchez - Galvez Maria Eugenia Narciza Sully,ICC,1CCO1,003,L,1,08:00:00,08:59:00,59,False
+25680,ICCS 253,Diseno Digital,OO2,Cortez - . Ernest,ICC,1CCO3,309,A,2,15:00:00,16:59:00,119,False
+25680,ICCS 253,Diseno Digital,OO2,Cortez - . Ernest,ICC,1CCO1,002,J,4,15:00:00,16:59:00,119,False
+25680,ICCS 253,Diseno Digital,OO2,Cortez - . Ernest,ICC,1CCO1,002,L,1,16:00:00,16:59:00,59,False
+25743,ICCS 253,Diseno Digital,OO3,Mantilla - Narvaez Lilia,ICC,1CCO1,004,A,2,09:00:00,10:59:00,119,False
+25743,ICCS 253,Diseno Digital,OO3,Mantilla - Narvaez Lilia,ICC,1CCO3,309,J,4,09:00:00,10:59:00,119,False
+25743,ICCS 253,Diseno Digital,OO3,Mantilla - Narvaez Lilia,ICC,1CCO1,004,L,1,10:00:00,10:59:00,59,False
+25748,ICCS 253,Diseno Digital,OO4,Lopez - Munoz Mauro Alberto,ICC,1CCO1,004,A,2,13:00:00,14:59:00,119,False
+25748,ICCS 253,Diseno Digital,OO4,Lopez - Munoz Mauro Alberto,ICC,1CCO3,309,J,4,13:00:00,14:59:00,119,False
+25748,ICCS 253,Diseno Digital,OO4,Lopez - Munoz Mauro Alberto,ICC,1CCO1,004,L,1,14:00:00,14:59:00,59,False
+25752,ICCS 253,Diseno Digital,OO5,Mantilla - Narvaez Lilia,ICC,1CCO1,002,L,1,13:00:00,13:59:00,59,False
+25752,ICCS 253,Diseno Digital,OO5,Mantilla - Narvaez Lilia,ICC,1CCO1,002,M,3,13:00:00,14:59:00,119,False
+25752,ICCS 253,Diseno Digital,OO5,Mantilla - Narvaez Lilia,ICC,1CCO3,309,V,5,13:00:00,14:59:00,119,False
+25755,ICCS 253,Diseno Digital,OO6,Chavira - Martinez Elsa,ICC,1CCO4,103,A,2,11:00:00,12:59:00,119,False
+25755,ICCS 253,Diseno Digital,OO6,Chavira - Martinez Elsa,ICC,1CCO3,310,J,4,11:00:00,12:59:00,119,False
+25755,ICCS 253,Diseno Digital,OO6,Chavira - Martinez Elsa,ICC,1CCO4,103,L,1,12:00:00,12:59:00,59,False
+26206,ISCC 200,Dllo. de Aplicaciones Moviles,OO1,Mendez - Sanchez Luis Yael,ICC,1CCO3,109,L,1,11:00:00,11:59:00,59,False
+26206,ISCC 200,Dllo. de Aplicaciones Moviles,OO1,Mendez - Sanchez Luis Yael,ICC,1CCO3,109,M,3,11:00:00,12:59:00,119,False
+26206,ISCC 200,Dllo. de Aplicaciones Moviles,OO1,Mendez - Sanchez Luis Yael,ICC,1CCO4,308,V,5,11:00:00,12:59:00,119,False
+26214,ISCC 200,Dllo. de Aplicaciones Moviles,OO2,Sanchez - Lopez Abraham,ICC,1CCO4,102,L,1,13:00:00,13:59:00,59,False
+26214,ISCC 200,Dllo. de Aplicaciones Moviles,OO2,Sanchez - Lopez Abraham,ICC,1CCO4,102,M,3,13:00:00,14:59:00,119,False
+26214,ISCC 200,Dllo. de Aplicaciones Moviles,OO2,Sanchez - Lopez Abraham,ICC,1CCO4,404,V,5,13:00:00,14:59:00,119,False
+26227,ISCC 200,Dllo. de Aplicaciones Moviles,OO3,Mendez - Sanchez Luis Yael,ICC,1CCO4,305,L,1,15:00:00,15:59:00,59,False
+26227,ISCC 200,Dllo. de Aplicaciones Moviles,OO3,Mendez - Sanchez Luis Yael,ICC,1CCO4,303,M,3,15:00:00,16:59:00,119,False
+26227,ISCC 200,Dllo. de Aplicaciones Moviles,OO3,Mendez - Sanchez Luis Yael,ICC,1CCO3,101,V,5,15:00:00,16:59:00,119,False
+26248,ISCC 200,Dllo. de Aplicaciones Moviles,OO4,Vargas - Lomeli Miguel Angel,ICC,1CCO4,308,A,2,15:00:00,16:59:00,119,False
+26248,ISCC 200,Dllo. de Aplicaciones Moviles,OO4,Vargas - Lomeli Miguel Angel,ICC,1CCO4,304,J,4,15:00:00,16:59:00,119,False
+26248,ISCC 200,Dllo. de Aplicaciones Moviles,OO4,Vargas - Lomeli Miguel Angel,ICC,1CCO4,304,L,1,16:00:00,16:59:00,59,False
+26267,ISCC 200,Dllo. de Aplicaciones Moviles,OO5,Toriz - Palacios Alfredo,ICC,1CCO4,203,L,1,09:00:00,09:59:00,59,False
+26267,ISCC 200,Dllo. de Aplicaciones Moviles,OO5,Toriz - Palacios Alfredo,ICC,1CCO4,403,M,3,09:00:00,10:59:00,119,False
+26267,ISCC 200,Dllo. de Aplicaciones Moviles,OO5,Toriz - Palacios Alfredo,ICC,1CCO4,204,V,5,09:00:00,10:59:00,119,False
+25497,ICCS 006,Ecuaciones Diferenciales,OO2,Reyes - Garces LUZ DEL Carmen,ICC,1CCO4,305,A,2,07:00:00,08:59:00,119,False
+25497,ICCS 006,Ecuaciones Diferenciales,OO2,Reyes - Garces LUZ DEL Carmen,ICC,1CCO4,305,J,4,07:00:00,08:59:00,119,False
+25497,ICCS 006,Ecuaciones Diferenciales,OO2,Reyes - Garces LUZ DEL Carmen,ICC,1CCO4,305,L,1,08:00:00,08:59:00,59,False
+25503,ICCS 006,Ecuaciones Diferenciales,OO4,Hernandez - Hernandez Maria DEL Rosario,ICC,1CCO5,202,L,1,13:00:00,13:59:00,59,False
+25503,ICCS 006,Ecuaciones Diferenciales,OO4,Hernandez - Hernandez Maria DEL Rosario,ICC,1CCO5,202,M,3,13:00:00,14:59:00,119,False
+25503,ICCS 006,Ecuaciones Diferenciales,OO4,Hernandez - Hernandez Maria DEL Rosario,ICC,1CCO5,202,V,5,13:00:00,14:59:00,119,False
+25513,ICCS 006,Ecuaciones Diferenciales,OO5,Robles - Mendoza Francisco Javier,ICC,1CCO5,203,A,2,11:00:00,12:59:00,119,False
+25513,ICCS 006,Ecuaciones Diferenciales,OO5,Robles - Mendoza Francisco Javier,ICC,1CCO5,203,J,4,11:00:00,12:59:00,119,False
+25513,ICCS 006,Ecuaciones Diferenciales,OO5,Robles - Mendoza Francisco Javier,ICC,1CCO5,203,L,1,12:00:00,12:59:00,59,False
+25520,ICCS 006,Ecuaciones Diferenciales,OO7,Reyes - Garces LUZ DEL Carmen,ICC,1CCO4,304,L,1,09:00:00,09:59:00,59,False
+25520,ICCS 006,Ecuaciones Diferenciales,OO7,Reyes - Garces LUZ DEL Carmen,ICC,1CCO4,304,M,3,09:00:00,10:59:00,119,False
+25520,ICCS 006,Ecuaciones Diferenciales,OO7,Reyes - Garces LUZ DEL Carmen,ICC,1CCO4,401,V,5,09:00:00,10:59:00,119,False
+25627,CCOS 013,Estructuras de Datos,O11,Rossainz - Lopez Mario,ICC,1CCO4,404,L,1,11:00:00,11:59:00,59,False
+25627,CCOS 013,Estructuras de Datos,O11,Rossainz - Lopez Mario,ICC,1CCO4,404,M,3,11:00:00,12:59:00,119,False
+25627,CCOS 013,Estructuras de Datos,O11,Rossainz - Lopez Mario,ICC,1CCO4,301,V,5,11:00:00,12:59:00,119,False
+25561,CCOS 013,Estructuras de Datos,OO2,Vera - Cervantes Eugenia Erica,ICC,1CCO1,001,L,1,07:00:00,07:59:00,59,False
+25561,CCOS 013,Estructuras de Datos,OO2,Vera - Cervantes Eugenia Erica,ICC,1CCO1,001,M,3,07:00:00,08:59:00,119,False
+25561,CCOS 013,Estructuras de Datos,OO2,Vera - Cervantes Eugenia Erica,ICC,1CCO4,403,V,5,07:00:00,08:59:00,119,False
+25565,CCOS 013,Estructuras de Datos,OO3,Santiago - Diaz Maria DEL Carmen,ICC,1CCO1,002,A,2,09:00:00,10:59:00,119,False
+25565,CCOS 013,Estructuras de Datos,OO3,Santiago - Diaz Maria DEL Carmen,ICC,1CCO3,109,J,4,09:00:00,10:59:00,119,False
+25565,CCOS 013,Estructuras de Datos,OO3,Santiago - Diaz Maria DEL Carmen,ICC,1CCO1,002,L,1,10:00:00,10:59:00,59,False
+25588,CCOS 013,Estructuras de Datos,OO5,Valdes - Amaro Daniel Alejandro,ICC,1CCO1,001,A,2,13:00:00,14:59:00,119,False
+25588,CCOS 013,Estructuras de Datos,OO5,Valdes - Amaro Daniel Alejandro,ICC,1CCO3,109,J,4,13:00:00,14:59:00,119,False
+25588,CCOS 013,Estructuras de Datos,OO5,Valdes - Amaro Daniel Alejandro,ICC,1CCO1,001,L,1,14:00:00,14:59:00,59,False
+25600,CCOS 013,Estructuras de Datos,OO7,Altamirano - Robles Luis Carlos,ICC,1CCO4,402,L,1,15:00:00,15:59:00,59,False
+25600,CCOS 013,Estructuras de Datos,OO7,Altamirano - Robles Luis Carlos,ICC,1CCO4,402,M,3,15:00:00,16:59:00,119,False
+25600,CCOS 013,Estructuras de Datos,OO7,Altamirano - Robles Luis Carlos,ICC,1CCO3,109,V,5,15:00:00,16:59:00,119,False
+25604,CCOS 013,Estructuras de Datos,OO8,Bello - Lopez Pedro,ICC,1CCO4,403,A,2,09:00:00,10:59:00,119,False
+25604,CCOS 013,Estructuras de Datos,OO8,Bello - Lopez Pedro,ICC,1CCO4,102,J,4,09:00:00,10:59:00,119,False
+25604,CCOS 013,Estructuras de Datos,OO8,Bello - Lopez Pedro,ICC,1CCO4,401,L,1,10:00:00,10:59:00,59,False
+26226,CCOS 261,Graficacion,O1O,Altamirano - Robles Luis Carlos,ICC,1CCO2,208,A,2,15:00:00,16:59:00,119,False
+26226,CCOS 261,Graficacion,O1O,Altamirano - Robles Luis Carlos,ICC,1CCO4,402,J,4,15:00:00,16:59:00,119,False
+26226,CCOS 261,Graficacion,O1O,Altamirano - Robles Luis Carlos,ICC,1CCO2,208,L,1,16:00:00,16:59:00,59,False
+26137,CCOS 261,Graficacion,OO2,Valdes - Amaro Daniel Alejandro,ICC,1CCO5,201,L,1,13:00:00,13:59:00,59,False
+26137,CCOS 261,Graficacion,OO2,Valdes - Amaro Daniel Alejandro,ICC,1CCO3,101,M,3,13:00:00,14:59:00,119,False
+26137,CCOS 261,Graficacion,OO2,Valdes - Amaro Daniel Alejandro,ICC,1CCO5,201,V,5,13:00:00,14:59:00,119,False
+26142,CCOS 261,Graficacion,OO3,Orato - Ramirez Jose Martin,ICC,1CCO5,201,A,2,11:00:00,12:59:00,119,False
+26142,CCOS 261,Graficacion,OO3,Orato - Ramirez Jose Martin,ICC,1CCO3,104,J,4,11:00:00,12:59:00,119,False
+26142,CCOS 261,Graficacion,OO3,Orato - Ramirez Jose Martin,ICC,1CCO5,201,L,1,12:00:00,12:59:00,59,False
+26159,CCOS 261,Graficacion,OO4,Valdes - Amaro Daniel Alejandro,ICC,1CCO4,305,A,2,15:00:00,16:59:00,119,False
+26159,CCOS 261,Graficacion,OO4,Valdes - Amaro Daniel Alejandro,ICC,1CCO3,104,J,4,15:00:00,16:59:00,119,False
+26159,CCOS 261,Graficacion,OO4,Valdes - Amaro Daniel Alejandro,ICC,1CCO4,305,L,1,16:00:00,16:59:00,59,False
+26183,CCOS 261,Graficacion,OO6,Ayaquica - Martinez Irene Olaya,ICC,1CCO3,104,L,1,15:00:00,15:59:00,59,False
+26183,CCOS 261,Graficacion,OO6,Ayaquica - Martinez Irene Olaya,ICC,1CCO3,104,M,3,15:00:00,16:59:00,119,False
+26183,CCOS 261,Graficacion,OO6,Ayaquica - Martinez Irene Olaya,ICC,1CCO4,201,V,5,15:00:00,16:59:00,119,False
+26199,CCOS 261,Graficacion,OO7,Salazar - Martinez Hilario,ICC,1CCO3,109,L,1,17:00:00,17:59:00,59,False
+26199,CCOS 261,Graficacion,OO7,Salazar - Martinez Hilario,ICC,1CCO3,109,M,3,17:00:00,18:59:00,119,False
+26199,CCOS 261,Graficacion,OO7,Salazar - Martinez Hilario,ICC,1CCO4,203,V,5,17:00:00,18:59:00,119,False
+26492,ISCO 200,Ingenieria de Software,OO1,DE LA Rosa - Flores Rafael,ICC,1CCO1,001,A,2,07:00:00,08:59:00,119,False
+26492,ISCO 200,Ingenieria de Software,OO1,DE LA Rosa - Flores Rafael,ICC,1CCO1,001,J,4,07:00:00,08:59:00,119,False
+26492,ISCO 200,Ingenieria de Software,OO1,DE LA Rosa - Flores Rafael,ICC,1CCO1,001,L,1,08:00:00,08:59:00,59,False
+26497,ISCO 200,Ingenieria de Software,OO2,Martinez - Miron Erika Annabel,ICC,1CCO1,001,A,2,09:00:00,10:59:00,119,False
+26497,ISCO 200,Ingenieria de Software,OO2,Martinez - Miron Erika Annabel,ICC,1CCO1,001,J,4,09:00:00,10:59:00,119,False
+26497,ISCO 200,Ingenieria de Software,OO2,Martinez - Miron Erika Annabel,ICC,1CCO1,001,L,1,10:00:00,10:59:00,59,False
+26502,ISCO 200,Ingenieria de Software,OO3,Sanchez - Roman Guillermina,ICC,1CCO5,203,L,1,13:00:00,13:59:00,59,False
+26502,ISCO 200,Ingenieria de Software,OO3,Sanchez - Roman Guillermina,ICC,1CCO5,203,M,3,13:00:00,14:59:00,119,False
+26502,ISCO 200,Ingenieria de Software,OO3,Sanchez - Roman Guillermina,ICC,1CCO5,203,V,5,13:00:00,14:59:00,119,False
+26511,ISCO 200,Ingenieria de Software,OO4,Rodriguez - Bernal Fernando,ICC,1CCO5,203,A,2,15:00:00,16:59:00,119,False
+26511,ISCO 200,Ingenieria de Software,OO4,Rodriguez - Bernal Fernando,ICC,1CCO5,203,J,4,15:00:00,16:59:00,119,False
+26511,ISCO 200,Ingenieria de Software,OO4,Rodriguez - Bernal Fernando,ICC,1CCO5,203,L,1,16:00:00,16:59:00,59,False
+26516,ISCO 200,Ingenieria de Software,OO5,Rosales - Lopez Karina,ICC,1CCO1,001,L,1,13:00:00,13:59:00,59,False
+26516,ISCO 200,Ingenieria de Software,OO5,Rosales - Lopez Karina,ICC,1CCO1,005,M,3,13:00:00,14:59:00,119,False
+26516,ISCO 200,Ingenieria de Software,OO5,Rosales - Lopez Karina,ICC,1CCO2,208,V,5,13:00:00,14:59:00,119,False
+26522,ISCO 200,Ingenieria de Software,OO6,Rodriguez - Bernal Fernando,ICC,1CCO4,101,A,2,19:00:00,20:59:00,119,False
+26522,ISCO 200,Ingenieria de Software,OO6,Rodriguez - Bernal Fernando,ICC,1CCO4,101,J,4,19:00:00,20:59:00,119,False
+26522,ISCO 200,Ingenieria de Software,OO6,Rodriguez - Bernal Fernando,ICC,1CCO4,101,L,1,20:00:00,20:59:00,59,False
+26527,ISCO 200,Ingenieria de Software,OO7,Martinez - Miron Erika Annabel,ICC,1CCO4,303,L,1,09:00:00,09:59:00,59,False
+26527,ISCO 200,Ingenieria de Software,OO7,Martinez - Miron Erika Annabel,ICC,1CCO4,303,M,3,09:00:00,10:59:00,119,False
+26527,ISCO 200,Ingenieria de Software,OO7,Martinez - Miron Erika Annabel,ICC,1CCO4,303,V,5,09:00:00,10:59:00,119,False
+26337,CCOS 601,Ingenieria de Software Avanzad,OO1,Roman - Flores Alberto,ICC,1CCO5,202,A,2,15:00:00,16:59:00,119,False
+26337,CCOS 601,Ingenieria de Software Avanzad,OO1,Roman - Flores Alberto,ICC,1CCO2,208,J,4,15:00:00,16:59:00,119,False
+26337,CCOS 601,Ingenieria de Software Avanzad,OO1,Roman - Flores Alberto,ICC,1CCO3,101,L,1,16:00:00,16:59:00,59,False
+26377,CCOS 607,Interaccion Humano Computadora,OO1,Rivera - Martinez Marcela,ICC,1CCO4,103,L,1,09:00:00,09:59:00,59,False
+26377,CCOS 607,Interaccion Humano Computadora,OO1,Rivera - Martinez Marcela,ICC,1CCO3,114,M,3,09:00:00,10:59:00,119,False
+26377,CCOS 607,Interaccion Humano Computadora,OO1,Rivera - Martinez Marcela,ICC,1CCO1,004,V,5,09:00:00,10:59:00,119,False
+26384,CCOS 607,Interaccion Humano Computadora,OO2,Archundia - Sierra Etelvina,ICC,1CCO1,005,A,2,11:00:00,12:59:00,119,False
+26384,CCOS 607,Interaccion Humano Computadora,OO2,Archundia - Sierra Etelvina,ICC,1CCO3,109,J,4,11:00:00,12:59:00,119,False
+26384,CCOS 607,Interaccion Humano Computadora,OO2,Archundia - Sierra Etelvina,ICC,1CCO1,005,L,1,12:00:00,12:59:00,59,False
+25054,CCOS 607,Interaccion Humano Computadora,OO3,Ayaquica - Martinez Irene Olaya,ICC,1CCO2,208,L,1,17:00:00,17:59:00,59,False
+25054,CCOS 607,Interaccion Humano Computadora,OO3,Ayaquica - Martinez Irene Olaya,ICC,1CCO4,103,M,3,17:00:00,18:59:00,119,False
+25054,CCOS 607,Interaccion Humano Computadora,OO3,Ayaquica - Martinez Irene Olaya,ICC,1CCO2,208,V,5,17:00:00,18:59:00,119,False
+25181,ICCS 262,Intercom. y Seguridad en Redes,OO1,Chavira - Martinez Elsa,ICC,1CCO4,303,L,1,11:00:00,11:59:00,59,False
+25181,ICCS 262,Intercom. y Seguridad en Redes,OO1,Chavira - Martinez Elsa,ICC,1CCO4,303,M,3,11:00:00,12:59:00,119,False
+25181,ICCS 262,Intercom. y Seguridad en Redes,OO1,Chavira - Martinez Elsa,ICC,1CCO3,303,V,5,11:00:00,12:59:00,119,False
+25193,ICCS 262,Intercom. y Seguridad en Redes,OO2,Romero - Hernandez Yeiny,ICC,1CCO4,201,L,1,15:00:00,15:59:00,59,False
+25193,ICCS 262,Intercom. y Seguridad en Redes,OO2,Romero - Hernandez Yeiny,ICC,1CCO4,201,M,3,15:00:00,16:59:00,119,False
+25193,ICCS 262,Intercom. y Seguridad en Redes,OO2,Romero - Hernandez Yeiny,ICC,1CCO3,302,V,5,15:00:00,16:59:00,119,False
+25202,ICCS 262,Intercom. y Seguridad en Redes,OO3,Zenteno - Vazquez ANA Claudia,ICC,1CCO3,301,A,2,15:00:00,16:59:00,119,False
+25202,ICCS 262,Intercom. y Seguridad en Redes,OO3,Zenteno - Vazquez ANA Claudia,ICC,1CCO4,102,J,4,15:00:00,16:59:00,119,False
+25202,ICCS 262,Intercom. y Seguridad en Redes,OO3,Zenteno - Vazquez ANA Claudia,ICC,1CCO4,201,L,1,16:00:00,16:59:00,59,False
+25211,ICCS 262,Intercom. y Seguridad en Redes,OO4,Perez - Lucero Josue,ICC,1CCO3,302,L,1,19:00:00,19:59:00,59,False
+25211,ICCS 262,Intercom. y Seguridad en Redes,OO4,Perez - Lucero Josue,ICC,1CCO3,302,M,3,19:00:00,20:59:00,119,False
+25211,ICCS 262,Intercom. y Seguridad en Redes,OO4,Perez - Lucero Josue,ICC,1CCO3,302,V,5,19:00:00,20:59:00,119,False
+25225,ICCS 262,Intercom. y Seguridad en Redes,OO5,Garcia - Hernandez Roberto DE Jesus,ICC,1CCO4,401,L,1,19:00:00,19:59:00,59,False
+25225,ICCS 262,Intercom. y Seguridad en Redes,OO5,Garcia - Hernandez Roberto DE Jesus,ICC,1CCO4,401,M,3,19:00:00,20:59:00,119,False
+25225,ICCS 262,Intercom. y Seguridad en Redes,OO5,Garcia - Hernandez Roberto DE Jesus,ICC,1CCO4,401,V,5,19:00:00,20:59:00,119,False
+25251,ICCS 602,Introduccion a los Compiladore,OO1,Castillo - Zacatelco Hilda,ICC,1CCO4,203,A,2,11:00:00,12:59:00,119,False
+25251,ICCS 602,Introduccion a los Compiladore,OO1,Castillo - Zacatelco Hilda,ICC,1CCO5,107,J,4,11:00:00,12:59:00,119,False
+25251,ICCS 602,Introduccion a los Compiladore,OO1,Castillo - Zacatelco Hilda,ICC,1CCO4,204,L,1,12:00:00,12:59:00,59,False
+42764,ICCS 608,Investigacion de Operaciones,OO1,Montalvo - Montalvo Nancy,ICC,1CCO4,101,L,1,19:00:00,19:59:00,59,False
+42764,ICCS 608,Investigacion de Operaciones,OO1,Montalvo - Montalvo Nancy,ICC,1CCO4,101,M,3,19:00:00,20:59:00,119,False
+42764,ICCS 608,Investigacion de Operaciones,OO1,Montalvo - Montalvo Nancy,ICC,1CCO4,101,V,5,19:00:00,20:59:00,119,False
+20016,FGUS 007,Lengua Extranjera IV,101,Chavez - Heredia Claudia,ICC,1CCO1,002,M,3,09:00:00,10:59:00,119,False
+20016,FGUS 007,Lengua Extranjera IV,101,Chavez - Heredia Claudia,ICC,1CCO4,102,V,5,09:00:00,10:59:00,119,False
+26429,FGUS 007,Lengua Extranjera IV,102,Chavez - Heredia Claudia,ICC,1CCO4,101,M,3,07:00:00,08:59:00,119,False
+26429,FGUS 007,Lengua Extranjera IV,102,Chavez - Heredia Claudia,ICC,1CCO4,101,V,5,07:00:00,08:59:00,119,False
+26434,FGUS 007,Lengua Extranjera IV,103,Diaz - Garcia Elvira Claudia,ICC,1CCO1,003,M,3,11:00:00,12:59:00,119,False
+26434,FGUS 007,Lengua Extranjera IV,103,Diaz - Garcia Elvira Claudia,ICC,1CCO1,005,V,5,11:00:00,12:59:00,119,False
+26437,FGUS 007,Lengua Extranjera IV,104,Salazar - Perez Sergio,ICC,1CCO1,005,A,2,15:00:00,16:59:00,119,False
+26437,FGUS 007,Lengua Extranjera IV,104,Salazar - Perez Sergio,ICC,1CCO1,005,J,4,15:00:00,16:59:00,119,False
+26441,FGUS 007,Lengua Extranjera IV,105,Bravo - Fuentes Maria DE Lourdes,ICC,1CCO4,401,A,2,13:00:00,14:59:00,119,False
+26441,FGUS 007,Lengua Extranjera IV,105,Bravo - Fuentes Maria DE Lourdes,ICC,1CCO4,401,J,4,13:00:00,14:59:00,119,False
+26443,FGUS 007,Lengua Extranjera IV,106,Hernandez - Mendoza Minerva,ICC,1CCO1,004,M,3,15:00:00,16:59:00,119,False
+26443,FGUS 007,Lengua Extranjera IV,106,Hernandez - Mendoza Minerva,ICC,1CCO1,004,V,5,15:00:00,16:59:00,119,False
+26457,FGUS 007,Lengua Extranjera IV,107,Chavez - Heredia Claudia,ICC,1CCO4,201,A,2,07:00:00,08:59:00,119,False
+26457,FGUS 007,Lengua Extranjera IV,107,Chavez - Heredia Claudia,ICC,1CCO4,201,J,4,07:00:00,08:59:00,119,False
+26461,FGUS 007,Lengua Extranjera IV,108,Cruz - Lopez Maria Silvia Concepcion,ICC,1CCO4,103,M,3,09:00:00,10:59:00,119,False
+26461,FGUS 007,Lengua Extranjera IV,108,Cruz - Lopez Maria Silvia Concepcion,ICC,1CCO4,103,V,5,09:00:00,10:59:00,119,False
+25259,ICCS 603,Lenguajes de Programacion,OO1,Montalvo - Montalvo Nancy,ICC,1CCO4,103,A,2,13:00:00,14:59:00,119,False
+25259,ICCS 603,Lenguajes de Programacion,OO1,Montalvo - Montalvo Nancy,ICC,1CCO4,104,J,4,13:00:00,14:59:00,119,False
+25259,ICCS 603,Lenguajes de Programacion,OO1,Montalvo - Montalvo Nancy,ICC,1CCO4,103,L,1,14:00:00,14:59:00,59,False
+25276,ICCS 605,Maquinas de Aprendizaje,OO1,Olmos - Pineda Ivan,ICC,1CCO2,208,A,2,11:00:00,12:59:00,119,False
+25276,ICCS 605,Maquinas de Aprendizaje,OO1,Olmos - Pineda Ivan,ICC,1CCO4,103,J,4,11:00:00,12:59:00,119,False
+25276,ICCS 605,Maquinas de Aprendizaje,OO1,Olmos - Pineda Ivan,ICC,1CCO4,303,L,1,12:00:00,12:59:00,59,False
+25237,ICCS 600,Metodos Numericos,OO1,Vazquez - Flores Jose Andres,ICC,1CCO4,204,L,1,11:00:00,11:59:00,59,False
+25237,ICCS 600,Metodos Numericos,OO1,Vazquez - Flores Jose Andres,ICC,1CCO4,203,M,3,11:00:00,12:59:00,119,False
+25237,ICCS 600,Metodos Numericos,OO1,Vazquez - Flores Jose Andres,ICC,1CCO4,203,V,5,11:00:00,12:59:00,119,False
+25873,ICCS 257,Mineria de Datos,OO1,Martinez - Guzman Gerardo,ICC,1CCO4,206,A,2,07:00:00,08:59:00,119,False
+25873,ICCS 257,Mineria de Datos,OO1,Martinez - Guzman Gerardo,ICC,1CCO4,206,J,4,07:00:00,08:59:00,119,False
+25873,ICCS 257,Mineria de Datos,OO1,Martinez - Guzman Gerardo,ICC,1CCO4,206,L,1,08:00:00,08:59:00,59,False
+25880,ICCS 257,Mineria de Datos,OO2,Acosta - Ruiz Samantha,ICC,1CCO1,004,L,1,09:00:00,09:59:00,59,False
+25880,ICCS 257,Mineria de Datos,OO2,Acosta - Ruiz Samantha,ICC,1CCO1,004,M,3,09:00:00,10:59:00,119,False
+25880,ICCS 257,Mineria de Datos,OO2,Acosta - Ruiz Samantha,ICC,1CCO2,207,V,5,09:00:00,10:59:00,119,False
+25886,ICCS 257,Mineria de Datos,OO3,Ayaquica - Martinez Irene Olaya,ICC,1CCO2,207,A,2,17:00:00,18:59:00,119,False
+25886,ICCS 257,Mineria de Datos,OO3,Ayaquica - Martinez Irene Olaya,ICC,1CCO2,207,J,4,17:00:00,18:59:00,119,False
+25886,ICCS 257,Mineria de Datos,OO3,Ayaquica - Martinez Irene Olaya,ICC,1CCO2,207,L,1,18:00:00,18:59:00,59,False
+26045,ICCS 257,Mineria de Datos,OO4,Beltran - Martinez Beatriz,ICC,1CCO2,208,L,1,11:00:00,11:59:00,59,False
+26045,ICCS 257,Mineria de Datos,OO4,Beltran - Martinez Beatriz,ICC,1CCO2,208,M,3,11:00:00,12:59:00,119,False
+26045,ICCS 257,Mineria de Datos,OO4,Beltran - Martinez Beatriz,ICC,1CCO2,208,V,5,11:00:00,12:59:00,119,False
+26049,ICCS 257,Mineria de Datos,OO5,Melendez - Teodoro Augusto,ICC,1CCO2,208,L,1,07:00:00,07:59:00,59,False
+26049,ICCS 257,Mineria de Datos,OO5,Melendez - Teodoro Augusto,ICC,1CCO2,208,M,3,07:00:00,08:59:00,119,False
+26049,ICCS 257,Mineria de Datos,OO5,Melendez - Teodoro Augusto,ICC,1CCO1,005,V,5,07:00:00,08:59:00,119,False
+26056,ICCS 257,Mineria de Datos,OO6,Melendez - Teodoro Augusto,ICC,1CCO4,203,A,2,09:00:00,10:59:00,119,False
+26056,ICCS 257,Mineria de Datos,OO6,Melendez - Teodoro Augusto,ICC,1CCO3,114,J,4,09:00:00,10:59:00,119,False
+26056,ICCS 257,Mineria de Datos,OO6,Melendez - Teodoro Augusto,ICC,1CCO4,203,L,1,10:00:00,10:59:00,59,False
+26059,ICCS 257,Mineria de Datos,OO7,Sanchez - Lopez Abraham,ICC,1CCO2,208,A,2,07:00:00,08:59:00,119,False
+26059,ICCS 257,Mineria de Datos,OO7,Sanchez - Lopez Abraham,ICC,1CCO2,208,J,4,07:00:00,08:59:00,119,False
+26059,ICCS 257,Mineria de Datos,OO7,Sanchez - Lopez Abraham,ICC,1CCO2,208,L,1,08:00:00,08:59:00,59,False
+26097,ICCS 259,Modelo de Redes,OO1,Colorado - Jimenez Guillermo,ICC,1CCO3,302,A,2,07:00:00,08:59:00,119,False
+26097,ICCS 259,Modelo de Redes,OO1,Colorado - Jimenez Guillermo,ICC,1CCO1,002,J,4,07:00:00,08:59:00,119,False
+26097,ICCS 259,Modelo de Redes,OO1,Colorado - Jimenez Guillermo,ICC,1CCO1,002,L,1,08:00:00,08:59:00,59,False
+26103,ICCS 259,Modelo de Redes,OO2,Romero - Hernandez Yeiny,ICC,1CCO1,002,L,1,09:00:00,09:59:00,59,False
+26103,ICCS 259,Modelo de Redes,OO2,Romero - Hernandez Yeiny,ICC,1CCO3,302,M,3,09:00:00,10:59:00,119,False
+26103,ICCS 259,Modelo de Redes,OO2,Romero - Hernandez Yeiny,ICC,1CCO1,002,V,5,09:00:00,10:59:00,119,False
+26108,ICCS 259,Modelo de Redes,OO3,Sanchez - Roman Guillermina,ICC,1CCO3,302,A,2,13:00:00,14:59:00,119,False
+26108,ICCS 259,Modelo de Redes,OO3,Sanchez - Roman Guillermina,ICC,1CCO1,002,J,4,13:00:00,14:59:00,119,False
+26108,ICCS 259,Modelo de Redes,OO3,Sanchez - Roman Guillermina,ICC,1CCO1,002,L,1,14:00:00,14:59:00,59,False
+26115,ICCS 259,Modelo de Redes,OO4,Larios - Gomez Mariano,ICC,1CCO3,302,A,2,11:00:00,12:59:00,119,False
+26115,ICCS 259,Modelo de Redes,OO4,Larios - Gomez Mariano,ICC,1CCO1,004,J,4,11:00:00,12:59:00,119,False
+26115,ICCS 259,Modelo de Redes,OO4,Larios - Gomez Mariano,ICC,1CCO1,004,L,1,12:00:00,12:59:00,59,False
+26118,ICCS 259,Modelo de Redes,OO5,Bautista - Lopez Veronica Edith,ICC,1CCO3,303,A,2,11:00:00,12:59:00,119,False
+26118,ICCS 259,Modelo de Redes,OO5,Bautista - Lopez Veronica Edith,ICC,1CCO5,202,J,4,11:00:00,12:59:00,119,False
+26118,ICCS 259,Modelo de Redes,OO5,Bautista - Lopez Veronica Edith,ICC,1CCO3,303,L,1,12:00:00,12:59:00,59,False
+25764,CCOS 251,Probabilidad y Estadistica,OO1,Contreras - Juarez Roberto,ICC,1CCO4,305,L,1,09:00:00,09:59:00,59,False
+25764,CCOS 251,Probabilidad y Estadistica,OO1,Contreras - Juarez Roberto,ICC,1CCO4,305,M,3,09:00:00,10:59:00,119,False
+25764,CCOS 251,Probabilidad y Estadistica,OO1,Contreras - Juarez Roberto,ICC,1CCO4,305,V,5,09:00:00,10:59:00,119,False
+25769,CCOS 251,Probabilidad y Estadistica,OO2,Palomino - Jimenez Carlos,ICC,1CCO4,305,L,1,13:00:00,13:59:00,59,False
+25769,CCOS 251,Probabilidad y Estadistica,OO2,Palomino - Jimenez Carlos,ICC,1CCO4,305,M,3,13:00:00,14:59:00,119,False
+25769,CCOS 251,Probabilidad y Estadistica,OO2,Palomino - Jimenez Carlos,ICC,1CCO4,305,V,5,13:00:00,14:59:00,119,False
+25777,CCOS 251,Probabilidad y Estadistica,OO4,Garcia - Juarez Pedro,ICC,1CCO4,201,A,2,09:00:00,10:59:00,119,False
+25777,CCOS 251,Probabilidad y Estadistica,OO4,Garcia - Juarez Pedro,ICC,1CCO4,201,J,4,09:00:00,10:59:00,119,False
+25777,CCOS 251,Probabilidad y Estadistica,OO4,Garcia - Juarez Pedro,ICC,1CCO4,201,L,1,10:00:00,10:59:00,59,False
+25782,CCOS 251,Probabilidad y Estadistica,OO5,Dawe - Gonzalez Arturo Alejandro,ICC,1CCO5,201,A,2,07:00:00,08:59:00,119,False
+25782,CCOS 251,Probabilidad y Estadistica,OO5,Dawe - Gonzalez Arturo Alejandro,ICC,1CCO5,201,J,4,07:00:00,08:59:00,119,False
+25782,CCOS 251,Probabilidad y Estadistica,OO5,Dawe - Gonzalez Arturo Alejandro,ICC,1CCO5,201,L,1,08:00:00,08:59:00,59,False
+25808,CCOS 251,Probabilidad y Estadistica,OO9,Romero - Tehuitzil Olivia,ICC,1CCO4,301,L,1,07:00:00,07:59:00,59,False
+25808,CCOS 251,Probabilidad y Estadistica,OO9,Romero - Tehuitzil Olivia,ICC,1CCO4,301,M,3,07:00:00,08:59:00,119,False
+25808,CCOS 251,Probabilidad y Estadistica,OO9,Romero - Tehuitzil Olivia,ICC,1CCO4,301,V,5,07:00:00,08:59:00,119,False
+25065,CCOS 608,Proces.Digital de Imagenes,OO1,Marcial - Castillo Luis Rene,ICC,1CCO4,101,L,1,09:00:00,09:59:00,59,False
+25065,CCOS 608,Proces.Digital de Imagenes,OO1,Marcial - Castillo Luis Rene,ICC,1CCO4,101,M,3,09:00:00,10:59:00,119,False
+25065,CCOS 608,Proces.Digital de Imagenes,OO1,Marcial - Castillo Luis Rene,ICC,1CCO4,101,V,5,09:00:00,10:59:00,119,False
+25071,CCOS 608,Proces.Digital de Imagenes,OO2,Orato - Ramirez Jose Martin,ICC,1CCO4,203,L,1,11:00:00,11:59:00,59,False
+25071,CCOS 608,Proces.Digital de Imagenes,OO2,Orato - Ramirez Jose Martin,ICC,1CCO1,004,M,3,11:00:00,12:59:00,119,False
+25071,CCOS 608,Proces.Digital de Imagenes,OO2,Orato - Ramirez Jose Martin,ICC,1CCO3,101,V,5,11:00:00,12:59:00,119,False
+25079,CCOS 608,Proces.Digital de Imagenes,OO3,Salazar - Martinez Hilario,ICC,1CCO3,101,A,2,17:00:00,18:59:00,119,False
+25079,CCOS 608,Proces.Digital de Imagenes,OO3,Salazar - Martinez Hilario,ICC,1CCO4,201,J,4,17:00:00,18:59:00,119,False
+25079,CCOS 608,Proces.Digital de Imagenes,OO3,Salazar - Martinez Hilario,ICC,1CCO4,201,L,1,18:00:00,18:59:00,59,False
+25088,CCOS 608,Proces.Digital de Imagenes,OO4,Olmos - Pineda Ivan,ICC,1CCO4,307,A,2,07:00:00,08:59:00,119,False
+25088,CCOS 608,Proces.Digital de Imagenes,OO4,Olmos - Pineda Ivan,ICC,1CCO4,203,J,4,07:00:00,08:59:00,119,False
+25088,CCOS 608,Proces.Digital de Imagenes,OO4,Olmos - Pineda Ivan,ICC,1CCO4,307,L,1,08:00:00,08:59:00,59,False
+25096,CCOS 608,Proces.Digital de Imagenes,OO5,Olvera - Lopez Jose Arturo,ICC,1CCO4,304,A,2,09:00:00,10:59:00,119,False
+25096,CCOS 608,Proces.Digital de Imagenes,OO5,Olvera - Lopez Jose Arturo,ICC,1CCO4,403,J,4,09:00:00,10:59:00,119,False
+25096,CCOS 608,Proces.Digital de Imagenes,OO5,Olvera - Lopez Jose Arturo,ICC,1CCO4,403,L,1,10:00:00,10:59:00,59,False
+25581,ICCS 251,Progra. Concurrente y Paralela,OO1,Ceron - Garnica Carmen,ICC,1CCO3,104,L,1,11:00:00,11:59:00,59,False
+25581,ICCS 251,Progra. Concurrente y Paralela,OO1,Ceron - Garnica Carmen,ICC,1CCO3,104,M,3,11:00:00,12:59:00,119,False
+25581,ICCS 251,Progra. Concurrente y Paralela,OO1,Ceron - Garnica Carmen,ICC,1CCO1,003,V,5,11:00:00,12:59:00,119,False
+25584,ICCS 251,Progra. Concurrente y Paralela,OO2,Salazar - Martinez Hilario,ICC,1CCO1,002,L,1,15:00:00,15:59:00,59,False
+25584,ICCS 251,Progra. Concurrente y Paralela,OO2,Salazar - Martinez Hilario,ICC,1CCO1,002,M,3,15:00:00,16:59:00,119,False
+25584,ICCS 251,Progra. Concurrente y Paralela,OO2,Salazar - Martinez Hilario,ICC,1CCO4,307,V,5,15:00:00,16:59:00,119,False
+25589,ICCS 251,Progra. Concurrente y Paralela,OO3,Larios - Gomez Mariano,ICC,1CCO3,104,A,2,15:00:00,16:59:00,119,False
+25589,ICCS 251,Progra. Concurrente y Paralela,OO3,Larios - Gomez Mariano,ICC,1CCO1,003,J,4,15:00:00,16:59:00,119,False
+25589,ICCS 251,Progra. Concurrente y Paralela,OO3,Larios - Gomez Mariano,ICC,1CCO1,003,L,1,16:00:00,16:59:00,59,False
+25609,ICCS 251,Progra. Concurrente y Paralela,OO4,Aguilar - Rico Adolfo,ICC,1CCO4,101,A,2,07:00:00,08:59:00,119,False
+25609,ICCS 251,Progra. Concurrente y Paralela,OO4,Aguilar - Rico Adolfo,ICC,1CCO4,307,J,4,07:00:00,08:59:00,119,False
+25609,ICCS 251,Progra. Concurrente y Paralela,OO4,Aguilar - Rico Adolfo,ICC,1CCO4,101,L,1,08:00:00,08:59:00,59,False
+25622,ICCS 251,Progra. Concurrente y Paralela,OO5,Rossainz - Lopez Mario,ICC,1CCO3,104,L,1,13:00:00,13:59:00,59,False
+25622,ICCS 251,Progra. Concurrente y Paralela,OO5,Rossainz - Lopez Mario,ICC,1CCO4,104,M,3,13:00:00,14:59:00,119,False
+25622,ICCS 251,Progra. Concurrente y Paralela,OO5,Rossainz - Lopez Mario,ICC,1CCO3,104,V,5,13:00:00,14:59:00,119,False
+25628,ICCS 251,Progra. Concurrente y Paralela,OO6,Contreras - Gonzalez Meliza,ICC,1CCO4,307,L,1,13:00:00,13:59:00,59,False
+25628,ICCS 251,Progra. Concurrente y Paralela,OO6,Contreras - Gonzalez Meliza,ICC,1CCO1,004,M,3,13:00:00,14:59:00,119,False
+25628,ICCS 251,Progra. Concurrente y Paralela,OO6,Contreras - Gonzalez Meliza,ICC,1CCO4,307,V,5,13:00:00,14:59:00,119,False
+25642,ICCS 252,Programacion Distribuida Aplic,OO1,Mendoza - Rojas Angel Omar,ICC,1CCO4,204,L,1,09:00:00,09:59:00,59,False
+25642,ICCS 252,Programacion Distribuida Aplic,OO1,Mendoza - Rojas Angel Omar,ICC,1CCO4,204,M,3,09:00:00,10:59:00,119,False
+25642,ICCS 252,Programacion Distribuida Aplic,OO1,Mendoza - Rojas Angel Omar,ICC,1CCO4,307,V,5,09:00:00,10:59:00,119,False
+25646,ICCS 252,Programacion Distribuida Aplic,OO2,Ceron - Garnica Carmen,ICC,1CCO4,201,L,1,13:00:00,13:59:00,59,False
+25646,ICCS 252,Programacion Distribuida Aplic,OO2,Ceron - Garnica Carmen,ICC,1CCO4,201,M,3,13:00:00,14:59:00,119,False
+25646,ICCS 252,Programacion Distribuida Aplic,OO2,Ceron - Garnica Carmen,ICC,1CCO4,308,V,5,13:00:00,14:59:00,119,False
+25650,ICCS 252,Programacion Distribuida Aplic,OO3,Lopez - Poblano Gilberto,ICC,1CCO4,202,L,1,15:00:00,15:59:00,59,False
+25650,ICCS 252,Programacion Distribuida Aplic,OO3,Lopez - Poblano Gilberto,ICC,1CCO4,202,M,3,15:00:00,16:59:00,119,False
+25650,ICCS 252,Programacion Distribuida Aplic,OO3,Lopez - Poblano Gilberto,ICC,1CCO4,403,V,5,15:00:00,16:59:00,119,False
+25655,ICCS 252,Programacion Distribuida Aplic,OO4,Mendoza - Olguin Gustavo Emilio,ICC,1CCO4,104,L,1,15:00:00,15:59:00,59,False
+25655,ICCS 252,Programacion Distribuida Aplic,OO4,Mendoza - Olguin Gustavo Emilio,ICC,1CCO3,114,M,3,15:00:00,16:59:00,119,False
+25655,ICCS 252,Programacion Distribuida Aplic,OO4,Mendoza - Olguin Gustavo Emilio,ICC,1CCO4,104,V,5,15:00:00,16:59:00,119,False
+25660,ICCS 252,Programacion Distribuida Aplic,OO5,Mendoza - Rojas Angel Omar,ICC,1CCO4,308,A,2,09:00:00,10:59:00,119,False
+25660,ICCS 252,Programacion Distribuida Aplic,OO5,Mendoza - Rojas Angel Omar,ICC,1CCO4,103,J,4,09:00:00,10:59:00,119,False
+25660,ICCS 252,Programacion Distribuida Aplic,OO5,Mendoza - Rojas Angel Omar,ICC,1CCO4,308,L,1,10:00:00,10:59:00,59,False
+40200,ICCS 252,Programacion Distribuida Aplic,OO7,Mendoza - Olguin Gustavo Emilio,ICC,1CCO3,114,A,2,11:00:00,12:59:00,119,False
+40200,ICCS 252,Programacion Distribuida Aplic,OO7,Mendoza - Olguin Gustavo Emilio,ICC,1CCO4,102,J,4,11:00:00,12:59:00,119,False
+40200,ICCS 252,Programacion Distribuida Aplic,OO7,Mendoza - Olguin Gustavo Emilio,ICC,1CCO4,308,L,1,12:00:00,12:59:00,59,False
+26133,IDDS 002,Proyectos I + D I,101,Romero - Valdez Maria DEL Carmen,ICC,1CCO4,102,A,2,07:00:00,08:59:00,119,False
+26133,IDDS 002,Proyectos I + D I,101,Romero - Valdez Maria DEL Carmen,ICC,1CCO4,102,J,4,07:00:00,08:59:00,119,False
+26140,IDDS 002,Proyectos I + D I,102,Perez DE Celis - Herrero Maria DE LA Concepcion,ICC,1CCO4,101,A,2,09:00:00,10:59:00,119,False
+26140,IDDS 002,Proyectos I + D I,102,Perez DE Celis - Herrero Maria DE LA Concepcion,ICC,1CCO4,101,J,4,09:00:00,10:59:00,119,False
+26147,IDDS 002,Proyectos I + D I,103,Santiago - Diaz Maria DEL Carmen,ICC,1CCO5,203,A,2,13:00:00,14:59:00,119,False
+26147,IDDS 002,Proyectos I + D I,103,Santiago - Diaz Maria DEL Carmen,ICC,1CCO5,203,J,4,13:00:00,14:59:00,119,False
+26149,IDDS 002,Proyectos I + D I,104,Acosta - Ruiz Samantha,ICC,1CCO4,204,M,3,13:00:00,14:59:00,119,False
+26149,IDDS 002,Proyectos I + D I,104,Acosta - Ruiz Samantha,ICC,1CCO4,204,V,5,13:00:00,14:59:00,119,False
+26156,IDDS 002,Proyectos I + D I,105,Archundia - Sierra Etelvina,ICC,1CCO4,303,A,2,13:00:00,14:59:00,119,False
+26156,IDDS 002,Proyectos I + D I,105,Archundia - Sierra Etelvina,ICC,1CCO4,303,J,4,13:00:00,14:59:00,119,False
+26162,IDDS 002,Proyectos I + D I,106,Carrillo - Ruiz Maya,ICC,1CCO4,103,A,2,17:00:00,18:59:00,119,False
+26162,IDDS 002,Proyectos I + D I,106,Carrillo - Ruiz Maya,ICC,1CCO4,103,J,4,17:00:00,18:59:00,119,False
+26170,IDDS 002,Proyectos I + D I,107,Rosales - Lopez Karina,ICC,1CCO4,401,M,3,15:00:00,16:59:00,119,False
+26170,IDDS 002,Proyectos I + D I,107,Rosales - Lopez Karina,ICC,1CCO4,401,V,5,15:00:00,16:59:00,119,False
+26292,CCOS 264,Recuperacion de la Informacion,OO1,Carrillo - Ruiz Maya,ICC,1CCO3,114,A,2,15:00:00,16:59:00,119,False
+26292,CCOS 264,Recuperacion de la Informacion,OO1,Carrillo - Ruiz Maya,ICC,1CCO4,201,J,4,15:00:00,16:59:00,119,False
+26292,CCOS 264,Recuperacion de la Informacion,OO1,Carrillo - Ruiz Maya,ICC,1CCO3,104,L,1,16:00:00,16:59:00,59,False
+26303,CCOS 264,Recuperacion de la Informacion,OO2,Tecuanhuehue - Vera Pedro,ICC,1CCO4,103,L,1,15:00:00,15:59:00,59,False
+26303,CCOS 264,Recuperacion de la Informacion,OO2,Tecuanhuehue - Vera Pedro,ICC,1CCO4,103,M,3,15:00:00,16:59:00,119,False
+26303,CCOS 264,Recuperacion de la Informacion,OO2,Tecuanhuehue - Vera Pedro,ICC,1CCO4,308,V,5,15:00:00,16:59:00,119,False
+26315,CCOS 264,Recuperacion de la Informacion,OO3,Sanchez - Lopez Abraham,ICC,1CCO5,202,A,2,13:00:00,14:59:00,119,False
+26315,CCOS 264,Recuperacion de la Informacion,OO3,Sanchez - Lopez Abraham,ICC,1CCO4,308,J,4,13:00:00,14:59:00,119,False
+26315,CCOS 264,Recuperacion de la Informacion,OO3,Sanchez - Lopez Abraham,ICC,1CCO5,202,L,1,14:00:00,14:59:00,59,False
+26324,CCOS 264,Recuperacion de la Informacion,OO4,Perez - Lucero Josue,ICC,1CCO4,103,A,2,19:00:00,20:59:00,119,False
+26324,CCOS 264,Recuperacion de la Informacion,OO4,Perez - Lucero Josue,ICC,1CCO4,103,J,4,19:00:00,20:59:00,119,False
+26324,CCOS 264,Recuperacion de la Informacion,OO4,Perez - Lucero Josue,ICC,1CCO4,103,L,1,20:00:00,20:59:00,59,False
+26124,ICCS 260,Redes Inalambricas,OO1,Ramirez - Espitia Carlos Mauricio,ICC,1EMA5,205,L,1,07:00:00,07:59:00,59,False
+26124,ICCS 260,Redes Inalambricas,OO1,Ramirez - Espitia Carlos Mauricio,ICC,1EMA5,205,M,3,07:00:00,08:59:00,119,False
+26124,ICCS 260,Redes Inalambricas,OO1,Ramirez - Espitia Carlos Mauricio,ICC,1CCO3,303,V,5,07:00:00,08:59:00,119,False
+26127,ICCS 260,Redes Inalambricas,OO2,Lopez - Munoz Mauro Alberto,ICC,1CCO4,301,L,1,13:00:00,13:59:00,59,False
+26127,ICCS 260,Redes Inalambricas,OO2,Lopez - Munoz Mauro Alberto,ICC,1CCO3,303,M,3,13:00:00,14:59:00,119,False
+26127,ICCS 260,Redes Inalambricas,OO2,Lopez - Munoz Mauro Alberto,ICC,1CCO4,301,V,5,13:00:00,14:59:00,119,False
+26131,ICCS 260,Redes Inalambricas,OO3,Soriano - Rosas Jose Isabel,ICC,1CCO1,002,L,1,17:00:00,17:59:00,59,False
+26131,ICCS 260,Redes Inalambricas,OO3,Soriano - Rosas Jose Isabel,ICC,1CCO3,302,M,3,17:00:00,18:59:00,119,False
+26131,ICCS 260,Redes Inalambricas,OO3,Soriano - Rosas Jose Isabel,ICC,1CCO4,204,V,5,17:00:00,18:59:00,119,False
+26139,ICCS 260,Redes Inalambricas,OO4,Colorado - Jimenez Guillermo,ICC,1CCO3,303,L,1,09:00:00,09:59:00,59,False
+26139,ICCS 260,Redes Inalambricas,OO4,Colorado - Jimenez Guillermo,ICC,1CCO5,202,M,3,09:00:00,10:59:00,119,False
+26139,ICCS 260,Redes Inalambricas,OO4,Colorado - Jimenez Guillermo,ICC,1CCO3,303,V,5,09:00:00,10:59:00,119,False
+25030,ICCS 260,Redes Inalambricas,OO5,Hernandez - Beristain Adriana,ICC,1CCO3,302,A,2,09:00:00,10:59:00,119,False
+25030,ICCS 260,Redes Inalambricas,OO5,Hernandez - Beristain Adriana,ICC,1CCO4,305,J,4,09:00:00,10:59:00,119,False
+25030,ICCS 260,Redes Inalambricas,OO5,Hernandez - Beristain Adriana,ICC,1CCO3,302,S,6,10:00:00,10:59:00,59,False
+25070,ICCS 260,Redes Inalambricas,OO6,Hernandez - Beristain Adriana,ICC,1CCO4,402,A,2,13:00:00,14:59:00,119,False
+25070,ICCS 260,Redes Inalambricas,OO6,Hernandez - Beristain Adriana,ICC,1CCO3,303,J,4,13:00:00,14:59:00,119,False
+25070,ICCS 260,Redes Inalambricas,OO6,Hernandez - Beristain Adriana,ICC,1CCO3,303,S,6,14:00:00,14:59:00,59,False
+42762,ICCS 617,Robotica Aplicada,OO1,Olivares - Soto Luis Gustavo,ICC,1CCO3,208,A,2,11:00:00,12:59:00,119,False
+42762,ICCS 617,Robotica Aplicada,OO1,Olivares - Soto Luis Gustavo,ICC,1CCO3,208,J,4,11:00:00,12:59:00,119,False
+42762,ICCS 617,Robotica Aplicada,OO1,Olivares - Soto Luis Gustavo,ICC,1CCO3,208,L,1,12:00:00,12:59:00,59,False
+42763,ICCS 606,Simulacion,OO1,Aguirre - Sagaon Fernando Daniel,ICC,1CCO3,104,A,2,13:00:00,14:59:00,119,False
+42763,ICCS 606,Simulacion,OO1,Aguirre - Sagaon Fernando Daniel,ICC,1CCO3,104,J,4,13:00:00,14:59:00,119,False
+42763,ICCS 606,Simulacion,OO1,Aguirre - Sagaon Fernando Daniel,ICC,1CCO3,104,L,1,14:00:00,14:59:00,59,False
+26438,ISCC 202,Sistemas Empotrados,OO1,Camacho - Tellez Hugo,ICC,1CCO3,309,L,1,13:00:00,13:59:00,59,False
+26438,ISCC 202,Sistemas Empotrados,OO1,Camacho - Tellez Hugo,ICC,1CCO3,309,M,3,13:00:00,14:59:00,119,False
+26438,ISCC 202,Sistemas Empotrados,OO1,Camacho - Tellez Hugo,ICC,1CCO4,402,S,6,13:00:00,14:59:00,119,False
+26475,ISCC 202,Sistemas Empotrados,OO2,Morales - Aguilar Luis Enrique,ICC,1CCO3,310,A,2,15:00:00,16:59:00,119,False
+26475,ISCC 202,Sistemas Empotrados,OO2,Morales - Aguilar Luis Enrique,ICC,1CCO4,305,J,4,15:00:00,16:59:00,119,False
+26475,ISCC 202,Sistemas Empotrados,OO2,Morales - Aguilar Luis Enrique,ICC,1CCO3,310,L,1,16:00:00,16:59:00,59,False
+26480,ISCC 202,Sistemas Empotrados,OO3,Hernandez - Ameca Jose Luis,ICC,1CCO3,310,A,2,13:00:00,14:59:00,119,False
+26480,ISCC 202,Sistemas Empotrados,OO3,Hernandez - Ameca Jose Luis,ICC,1CCO3,310,J,4,13:00:00,14:59:00,119,False
+26480,ISCC 202,Sistemas Empotrados,OO3,Hernandez - Ameca Jose Luis,ICC,1CCO3,310,L,1,14:00:00,14:59:00,59,False
+26486,ISCC 202,Sistemas Empotrados,OO5,Trinidad - Garcia Gregorio,ICC,1CCO3,310,L,1,11:00:00,11:59:00,59,False
+26486,ISCC 202,Sistemas Empotrados,OO5,Trinidad - Garcia Gregorio,ICC,1CCO3,310,M,3,11:00:00,12:59:00,119,False
+26486,ISCC 202,Sistemas Empotrados,OO5,Trinidad - Garcia Gregorio,ICC,1CCO3,310,V,5,11:00:00,12:59:00,119,False
+25813,CCOS 252,Sistemas Operativos I,OO1,DE LA Rosa - Flores Rafael,ICC,1CCO1,002,L,1,07:00:00,07:59:00,59,False
+25813,CCOS 252,Sistemas Operativos I,OO1,DE LA Rosa - Flores Rafael,ICC,1CCO3,109,M,3,07:00:00,08:59:00,119,False
+25813,CCOS 252,Sistemas Operativos I,OO1,DE LA Rosa - Flores Rafael,ICC,1CCO1,002,V,5,07:00:00,08:59:00,119,False
+25825,CCOS 252,Sistemas Operativos I,OO2,Gonzalez - Flores Marcos,ICC,1CCO1,002,A,2,11:00:00,12:59:00,119,False
+25825,CCOS 252,Sistemas Operativos I,OO2,Gonzalez - Flores Marcos,ICC,1CCO3,101,J,4,11:00:00,12:59:00,119,False
+25825,CCOS 252,Sistemas Operativos I,OO2,Gonzalez - Flores Marcos,ICC,1CCO1,002,L,1,12:00:00,12:59:00,59,False
+25830,CCOS 252,Sistemas Operativos I,OO3,Colmenares - Guillen Luis Enrique,ICC,1CCO1,003,L,1,13:00:00,13:59:00,59,False
+25830,CCOS 252,Sistemas Operativos I,OO3,Colmenares - Guillen Luis Enrique,ICC,1CCO1,003,M,3,13:00:00,14:59:00,119,False
+25830,CCOS 252,Sistemas Operativos I,OO3,Colmenares - Guillen Luis Enrique,ICC,1CCO3,109,V,5,13:00:00,14:59:00,119,False
+25836,CCOS 252,Sistemas Operativos I,OO4,Vargas - Lomeli Miguel Angel,ICC,1CCO1,003,L,1,15:00:00,15:59:00,59,False
+25836,CCOS 252,Sistemas Operativos I,OO4,Vargas - Lomeli Miguel Angel,ICC,1CCO3,109,M,3,15:00:00,16:59:00,119,False
+25836,CCOS 252,Sistemas Operativos I,OO4,Vargas - Lomeli Miguel Angel,ICC,1CCO1,003,V,5,15:00:00,16:59:00,119,False
+25852,CCOS 252,Sistemas Operativos I,OO6,Perez - Lucero Josue,ICC,1CCO4,404,L,1,17:00:00,17:59:00,59,False
+25852,CCOS 252,Sistemas Operativos I,OO6,Perez - Lucero Josue,ICC,1CCO1,004,M,3,17:00:00,18:59:00,119,False
+25852,CCOS 252,Sistemas Operativos I,OO6,Perez - Lucero Josue,ICC,1CCO4,404,V,5,17:00:00,18:59:00,119,False
+25861,CCOS 252,Sistemas Operativos I,OO7,Orato - Ramirez Jose Martin,ICC,1CCO4,301,A,2,13:00:00,14:59:00,119,False
+25861,CCOS 252,Sistemas Operativos I,OO7,Orato - Ramirez Jose Martin,ICC,1CCO4,301,J,4,13:00:00,14:59:00,119,False
+25861,CCOS 252,Sistemas Operativos I,OO7,Orato - Ramirez Jose Martin,ICC,1CCO4,301,L,1,14:00:00,14:59:00,59,False
+25910,CCOS 254,Sistemas Operativos II,OO1,Aguilar - Rico Adolfo,ICC,1CCO1,005,L,1,07:00:00,07:59:00,59,False
+25910,CCOS 254,Sistemas Operativos II,OO1,Aguilar - Rico Adolfo,ICC,1CCO1,005,M,3,07:00:00,08:59:00,119,False
+25910,CCOS 254,Sistemas Operativos II,OO1,Aguilar - Rico Adolfo,ICC,1CCO4,307,V,5,07:00:00,08:59:00,119,False
+25914,CCOS 254,Sistemas Operativos II,OO2,Colmenares - Guillen Luis Enrique,ICC,1CCO3,109,A,2,09:00:00,10:59:00,119,False
+25914,CCOS 254,Sistemas Operativos II,OO2,Colmenares - Guillen Luis Enrique,ICC,1CCO1,005,J,4,09:00:00,10:59:00,119,False
+25914,CCOS 254,Sistemas Operativos II,OO2,Colmenares - Guillen Luis Enrique,ICC,1CCO1,005,L,1,10:00:00,10:59:00,59,False
+25921,CCOS 254,Sistemas Operativos II,OO3,Castillo - Zacatelco Hilda,ICC,1CCO1,005,L,1,13:00:00,13:59:00,59,False
+25921,CCOS 254,Sistemas Operativos II,OO3,Castillo - Zacatelco Hilda,ICC,1CCO3,109,M,3,13:00:00,14:59:00,119,False
+25921,CCOS 254,Sistemas Operativos II,OO3,Castillo - Zacatelco Hilda,ICC,1CCO1,005,V,5,13:00:00,14:59:00,119,False
+25923,CCOS 254,Sistemas Operativos II,OO4,Perez - Lucero Josue,ICC,1CCO3,114,A,2,17:00:00,18:59:00,119,False
+25923,CCOS 254,Sistemas Operativos II,OO4,Perez - Lucero Josue,ICC,1CCO4,101,J,4,17:00:00,18:59:00,119,False
+25923,CCOS 254,Sistemas Operativos II,OO4,Perez - Lucero Josue,ICC,1CCO4,101,L,1,18:00:00,18:59:00,59,False
+25927,CCOS 254,Sistemas Operativos II,OO5,Ceron - Garnica Carmen,ICC,1CCO1,004,A,2,15:00:00,16:59:00,119,False
+25927,CCOS 254,Sistemas Operativos II,OO5,Ceron - Garnica Carmen,ICC,1CCO4,307,J,4,15:00:00,16:59:00,119,False
+25927,CCOS 254,Sistemas Operativos II,OO5,Ceron - Garnica Carmen,ICC,1CCO1,004,L,1,16:00:00,16:59:00,59,False
+25937,CCOS 254,Sistemas Operativos II,OO7,Bautista - Lopez Veronica Edith,ICC,1CCO4,308,L,1,09:00:00,09:59:00,59,False
+25937,CCOS 254,Sistemas Operativos II,OO7,Bautista - Lopez Veronica Edith,ICC,1CCO4,308,M,3,09:00:00,10:59:00,119,False
+25937,CCOS 254,Sistemas Operativos II,OO7,Bautista - Lopez Veronica Edith,ICC,1CCO1,005,V,5,09:00:00,10:59:00,119,False
+42765,ICCS 609,Supercomputo,OO1,Colorado - Jimenez Guillermo,ICC,1CCO3,101,A,2,13:00:00,14:59:00,119,False
+42765,ICCS 609,Supercomputo,OO1,Colorado - Jimenez Guillermo,ICC,1CCO4,203,J,4,13:00:00,14:59:00,119,False
+42765,ICCS 609,Supercomputo,OO1,Colorado - Jimenez Guillermo,ICC,1CCO3,101,L,1,14:00:00,14:59:00,59,False
+25804,ICCS 255,Tec.de Inteligencia Artificial,OO1,Sanchez - Lopez Abraham,ICC,1CCO4,306,L,1,07:00:00,07:59:00,59,False
+25804,ICCS 255,Tec.de Inteligencia Artificial,OO1,Sanchez - Lopez Abraham,ICC,1CCO4,306,M,3,07:00:00,08:59:00,119,False
+25804,ICCS 255,Tec.de Inteligencia Artificial,OO1,Sanchez - Lopez Abraham,ICC,1CCO4,306,V,5,07:00:00,08:59:00,119,False
+25811,ICCS 255,Tec.de Inteligencia Artificial,OO2,Tecuanhuehue - Vera Pedro,ICC,1CCO3,104,A,2,11:00:00,12:59:00,119,False
+25811,ICCS 255,Tec.de Inteligencia Artificial,OO2,Tecuanhuehue - Vera Pedro,ICC,1CCO1,005,J,4,11:00:00,12:59:00,119,False
+25811,ICCS 255,Tec.de Inteligencia Artificial,OO2,Tecuanhuehue - Vera Pedro,ICC,1CCO3,104,L,1,12:00:00,12:59:00,59,False
+25814,ICCS 255,Tec.de Inteligencia Artificial,OO3,Marcial - Castillo Luis Rene,ICC,1CCO4,403,L,1,07:00:00,07:59:00,59,False
+25814,ICCS 255,Tec.de Inteligencia Artificial,OO3,Marcial - Castillo Luis Rene,ICC,1CCO4,403,M,3,07:00:00,08:59:00,119,False
+25814,ICCS 255,Tec.de Inteligencia Artificial,OO3,Marcial - Castillo Luis Rene,ICC,1CCO1,004,V,5,07:00:00,08:59:00,119,False
+25824,ICCS 255,Tec.de Inteligencia Artificial,OO4,Altamirano - Robles Luis Carlos,ICC,1CCO2,208,L,1,13:00:00,13:59:00,59,False
+25824,ICCS 255,Tec.de Inteligencia Artificial,OO4,Altamirano - Robles Luis Carlos,ICC,1CCO2,208,M,3,13:00:00,14:59:00,119,False
+25824,ICCS 255,Tec.de Inteligencia Artificial,OO4,Altamirano - Robles Luis Carlos,ICC,1CCO1,001,V,5,13:00:00,14:59:00,119,False
+25828,ICCS 255,Tec.de Inteligencia Artificial,OO5,Marcial - Castillo Luis Rene,ICC,1CCO3,114,L,1,11:00:00,11:59:00,59,False
+25828,ICCS 255,Tec.de Inteligencia Artificial,OO5,Marcial - Castillo Luis Rene,ICC,1CCO3,114,M,3,11:00:00,12:59:00,119,False
+25828,ICCS 255,Tec.de Inteligencia Artificial,OO5,Marcial - Castillo Luis Rene,ICC,1CCO5,202,V,5,11:00:00,12:59:00,119,False
+25833,ICCS 255,Tec.de Inteligencia Artificial,OO6,Rivera - Martinez Marcela,ICC,1CCO4,308,A,2,07:00:00,08:59:00,119,False
+25833,ICCS 255,Tec.de Inteligencia Artificial,OO6,Rivera - Martinez Marcela,ICC,1CCO4,401,J,4,07:00:00,08:59:00,119,False
+25833,ICCS 255,Tec.de Inteligencia Artificial,OO6,Rivera - Martinez Marcela,ICC,1CCO4,308,L,1,08:00:00,08:59:00,59,False
+25839,ICCS 255,Tec.de Inteligencia Artificial,OO7,Carrillo - Ruiz Maya,ICC,1CCO2,208,L,1,15:00:00,15:59:00,59,False
+25839,ICCS 255,Tec.de Inteligencia Artificial,OO7,Carrillo - Ruiz Maya,ICC,1CCO2,208,M,3,15:00:00,16:59:00,119,False
+25839,ICCS 255,Tec.de Inteligencia Artificial,OO7,Carrillo - Ruiz Maya,ICC,1CCO2,208,V,5,15:00:00,16:59:00,119,False
+25761,ICCS 254,Teoria de Control,OO1,Hernandez - Ameca Jose Luis,ICC,1CCO3,310,A,2,11:00:00,12:59:00,119,False
+25761,ICCS 254,Teoria de Control,OO1,Hernandez - Ameca Jose Luis,ICC,1CCO1,002,J,4,11:00:00,12:59:00,119,False
+25761,ICCS 254,Teoria de Control,OO1,Hernandez - Ameca Jose Luis,ICC,1CCO3,310,L,1,12:00:00,12:59:00,59,False
+25763,ICCS 254,Teoria de Control,OO2,Hurtado - Madrid Jose Miguel,ICC,1CCO3,310,L,1,15:00:00,15:59:00,59,False
+25763,ICCS 254,Teoria de Control,OO2,Hurtado - Madrid Jose Miguel,ICC,1CCO3,310,M,3,15:00:00,16:59:00,119,False
+25763,ICCS 254,Teoria de Control,OO2,Hurtado - Madrid Jose Miguel,ICC,1CCO1,001,V,5,15:00:00,16:59:00,119,False
+25773,ICCS 254,Teoria de Control,OO3,Mejia - Palafox Juan,ICC,1CCO3,310,A,2,17:00:00,18:59:00,119,False
+25773,ICCS 254,Teoria de Control,OO3,Mejia - Palafox Juan,ICC,1CCO1,003,J,4,17:00:00,18:59:00,119,False
+25773,ICCS 254,Teoria de Control,OO3,Mejia - Palafox Juan,ICC,1CCO3,310,L,1,18:00:00,18:59:00,59,False
+25781,ICCS 254,Teoria de Control,OO4,Mantilla - Narvaez Lilia,ICC,1CCO3,309,L,1,09:00:00,09:59:00,59,False
+25781,ICCS 254,Teoria de Control,OO4,Mantilla - Narvaez Lilia,ICC,1CCO1,003,M,3,09:00:00,10:59:00,119,False
+25781,ICCS 254,Teoria de Control,OO4,Mantilla - Narvaez Lilia,ICC,1CCO3,310,V,5,09:00:00,10:59:00,119,False
+25784,ICCS 254,Teoria de Control,OO5,Morales - Aguilar Luis Enrique,ICC,1CCO4,203,L,1,13:00:00,13:59:00,59,False
+25784,ICCS 254,Teoria de Control,OO5,Morales - Aguilar Luis Enrique,ICC,1CCO4,203,M,3,13:00:00,14:59:00,119,False
+25784,ICCS 254,Teoria de Control,OO5,Morales - Aguilar Luis Enrique,ICC,1CCO3,208,V,5,13:00:00,14:59:00,119,False
+25793,ICCS 254,Teoria de Control,OO6,Trinidad - Garcia Gregorio,ICC,1CCO3,309,A,2,13:00:00,14:59:00,119,False
+25793,ICCS 254,Teoria de Control,OO6,Trinidad - Garcia Gregorio,ICC,1CCO1,001,J,4,13:00:00,14:59:00,119,False
+25793,ICCS 254,Teoria de Control,OO6,Trinidad - Garcia Gregorio,ICC,1CCO4,201,L,1,14:00:00,14:59:00,59,False
+25283,ICCS 607,Tratamiento de la Informacion,OO1,Rodriguez - Pedroza Berenice,ICC,1CCO4,102,L,1,19:00:00,19:59:00,59,False
+25283,ICCS 607,Tratamiento de la Informacion,OO1,Rodriguez - Pedroza Berenice,ICC,1CCO4,102,M,3,19:00:00,20:59:00,119,False
+25283,ICCS 607,Tratamiento de la Informacion,OO1,Rodriguez - Pedroza Berenice,ICC,1CCO4,102,V,5,19:00:00,20:59:00,119,False
+25294,ICCS 616,Vision y Animacion por Comput.,OO1,Mendoza - Olguin Gustavo Emilio,ICC,1CCO4,103,A,2,09:00:00,10:59:00,119,False
+25294,ICCS 616,Vision y Animacion por Comput.,OO1,Mendoza - Olguin Gustavo Emilio,ICC,1CCO4,308,J,4,09:00:00,10:59:00,119,False
+25294,ICCS 616,Vision y Animacion por Comput.,OO1,Mendoza - Olguin Gustavo Emilio,ICC,1CCO4,103,L,1,10:00:00,10:59:00,59,False
+26333,CCOS 600,Web Semantica,OO1,Tovar - Vidal Mireya,ICC,1CCO4,104,L,1,09:00:00,09:59:00,59,False
+26333,CCOS 600,Web Semantica,OO1,Tovar - Vidal Mireya,ICC,1CCO4,104,M,3,09:00:00,10:59:00,119,False
+26333,CCOS 600,Web Semantica,OO1,Tovar - Vidal Mireya,ICC,1CCO3,114,V,5,09:00:00,10:59:00,119,False
+26376,ITIS 252,Administrac. de Bases de Datos,OO1,Elvira - Enriquez Roberto,ITI,1CCO4,104,A,2,17:00:00,18:59:00,119,False
+26376,ITIS 252,Administrac. de Bases de Datos,OO1,Elvira - Enriquez Roberto,ITI,1CCO4,403,J,4,17:00:00,18:59:00,119,False
+26376,ITIS 252,Administrac. de Bases de Datos,OO1,Elvira - Enriquez Roberto,ITI,1CCO4,104,L,1,18:00:00,18:59:00,59,False
+26369,ITIS 252,Administrac. de Bases de Datos,OO2,Elvira - Enriquez Roberto,ITI,1CCO4,401,L,1,17:00:00,17:59:00,59,False
+26369,ITIS 252,Administrac. de Bases de Datos,OO2,Elvira - Enriquez Roberto,ITI,1CCO2,207,M,3,17:00:00,18:59:00,119,False
+26369,ITIS 252,Administrac. de Bases de Datos,OO2,Elvira - Enriquez Roberto,ITI,1CCO4,401,V,5,17:00:00,18:59:00,119,False
+25966,IDDS 001,Administracion de Proyectos,101,Rodriguez - Pedroza Berenice,ITI,1CCO1,004,A,2,07:00:00,08:59:00,119,False
+25966,IDDS 001,Administracion de Proyectos,101,Rodriguez - Pedroza Berenice,ITI,1CCO1,004,J,4,07:00:00,08:59:00,119,False
+25978,IDDS 001,Administracion de Proyectos,102,Romero - Valdez Maria DEL Carmen,ITI,1CCO5,203,A,2,09:00:00,10:59:00,119,False
+25978,IDDS 001,Administracion de Proyectos,102,Romero - Valdez Maria DEL Carmen,ITI,1CCO5,203,J,4,09:00:00,10:59:00,119,False
+26005,IDDS 001,Administracion de Proyectos,103,Romero - Valdez Maria DEL Carmen,ITI,1CCO1,002,M,3,17:00:00,18:59:00,119,False
+26005,IDDS 001,Administracion de Proyectos,103,Romero - Valdez Maria DEL Carmen,ITI,1CCO1,002,V,5,17:00:00,18:59:00,119,False
+26030,IDDS 001,Administracion de Proyectos,104,Romero - Valdez Maria DEL Carmen,ITI,1CCO5,201,A,2,17:00:00,18:59:00,119,False
+26030,IDDS 001,Administracion de Proyectos,104,Romero - Valdez Maria DEL Carmen,ITI,1CCO5,201,J,4,17:00:00,18:59:00,119,False
+26065,IDDS 001,Administracion de Proyectos,105,Vera - Cervantes Eugenia Erica,ITI,1CCO1,001,M,3,11:00:00,12:59:00,119,False
+26065,IDDS 001,Administracion de Proyectos,105,Vera - Cervantes Eugenia Erica,ITI,1CCO1,001,V,5,11:00:00,12:59:00,119,False
+26082,IDDS 001,Administracion de Proyectos,106,Ambrosio - Vazquez Alma Delia,ITI,1CCO5,203,M,3,15:00:00,16:59:00,119,False
+26082,IDDS 001,Administracion de Proyectos,106,Ambrosio - Vazquez Alma Delia,ITI,1CCO5,203,V,5,15:00:00,16:59:00,119,False
+26104,IDDS 001,Administracion de Proyectos,108,Zenteno - Vazquez ANA Claudia,ITI,1CCO4,203,M,3,09:00:00,10:59:00,119,False
+26104,IDDS 001,Administracion de Proyectos,108,Zenteno - Vazquez ANA Claudia,ITI,1CCO4,203,V,5,09:00:00,10:59:00,119,False
+26119,IDDS 001,Administracion de Proyectos,109,Gonzalez - Flores Marcos,ITI,1CCO4,201,A,2,13:00:00,14:59:00,119,False
+26119,IDDS 001,Administracion de Proyectos,109,Gonzalez - Flores Marcos,ITI,1CCO4,201,J,4,13:00:00,14:59:00,119,False
+26125,IDDS 001,Administracion de Proyectos,110,Mendoza - Rojas Angel Omar,ITI,1CCO4,401,M,3,07:00:00,08:59:00,119,False
+26125,IDDS 001,Administracion de Proyectos,110,Mendoza - Rojas Angel Omar,ITI,1CCO4,401,V,5,07:00:00,08:59:00,119,False
+26552,ISTI 201,Administracion de Redes,OO1,Larios - Gomez Mariano,ITI,1CCO1,004,L,1,11:00:00,11:59:00,59,False
+26552,ISTI 201,Administracion de Redes,OO1,Larios - Gomez Mariano,ITI,1CCO3,302,M,3,11:00:00,12:59:00,119,False
+26552,ISTI 201,Administracion de Redes,OO1,Larios - Gomez Mariano,ITI,1CCO1,004,V,5,11:00:00,12:59:00,119,False
+26416,ISTI 201,Administracion de Redes,OO2,Sanchez - Roman Guillermina,ITI,1CCO4,204,A,2,11:00:00,12:59:00,119,False
+26416,ISTI 201,Administracion de Redes,OO2,Sanchez - Roman Guillermina,ITI,1CCO3,301,J,4,11:00:00,12:59:00,119,False
+26416,ISTI 201,Administracion de Redes,OO2,Sanchez - Roman Guillermina,ITI,1CCO4,203,L,1,12:00:00,12:59:00,59,False
+26321,ITIS 254,Admon. de Sistemas Operativos,OO1,Montalvo - Montalvo Nancy,ITI,1CCO3,109,S,6,15:00:00,15:59:00,59,False
+26321,ITIS 254,Admon. de Sistemas Operativos,OO1,Montalvo - Montalvo Nancy,ITI,1CCO1,001,A,2,15:00:00,16:59:00,119,False
+26321,ITIS 254,Admon. de Sistemas Operativos,OO1,Montalvo - Montalvo Nancy,ITI,1CCO3,109,J,4,15:00:00,16:59:00,119,False
+26321,ITIS 254,Admon. de Sistemas Operativos,OO1,Montalvo - Montalvo Nancy,ITI,1CCO1,001,L,1,16:00:00,16:59:00,59,False
+26302,ITIS 254,Admon. de Sistemas Operativos,OO2,DE LA Rosa - Flores Rafael,ITI,1CCO4,305,A,2,11:00:00,12:59:00,119,False
+26302,ITIS 254,Admon. de Sistemas Operativos,OO2,DE LA Rosa - Flores Rafael,ITI,1CCO4,308,J,4,11:00:00,12:59:00,119,False
+26302,ITIS 254,Admon. de Sistemas Operativos,OO2,DE LA Rosa - Flores Rafael,ITI,1CCO4,305,L,1,12:00:00,12:59:00,59,False
+26302,ITIS 254,Admon. de Sistemas Operativos,OO2,DE LA Rosa - Flores Rafael,ITI,1CCO4,101,S,6,12:00:00,12:59:00,59,False
+42766,ITIS 606,Aprendizaje Artificial,OO1,Acosta - Ruiz Samantha,ITI,1CCO3,109,A,2,13:00:00,14:59:00,119,False
+42766,ITIS 606,Aprendizaje Artificial,OO1,Acosta - Ruiz Samantha,ITI,1CCO4,202,J,4,13:00:00,14:59:00,119,False
+42766,ITIS 606,Aprendizaje Artificial,OO1,Acosta - Ruiz Samantha,ITI,1CCO3,109,L,1,14:00:00,14:59:00,59,False
+24612,ITIS 611,Arquitectura de Software,OO1,Garcia - Suarez Alfredo,ITI,1CCO3,309,L,1,15:00:00,15:59:00,59,False
+24612,ITIS 611,Arquitectura de Software,OO1,Garcia - Suarez Alfredo,ITI,1CCO4,304,M,3,15:00:00,16:59:00,119,False
+24612,ITIS 611,Arquitectura de Software,OO1,Garcia - Suarez Alfredo,ITI,1CCO3,309,V,5,15:00:00,16:59:00,119,False
+26278,ITIS 256,Computo Distribuido,OO1,Rodriguez - Bernal Fernando,ITI,1CCO4,403,L,1,19:00:00,19:59:00,59,False
+26278,ITIS 256,Computo Distribuido,OO1,Rodriguez - Bernal Fernando,ITI,1CCO4,403,M,3,19:00:00,20:59:00,119,False
+26278,ITIS 256,Computo Distribuido,OO1,Rodriguez - Bernal Fernando,ITI,1CCO4,403,V,5,19:00:00,20:59:00,119,False
+26272,ITIS 256,Computo Distribuido,OO2,Roman - Flores Alberto,ITI,1CCO4,403,A,2,11:00:00,12:59:00,119,False
+26272,ITIS 256,Computo Distribuido,OO2,Roman - Flores Alberto,ITI,1CCO4,403,J,4,11:00:00,12:59:00,119,False
+26272,ITIS 256,Computo Distribuido,OO2,Roman - Flores Alberto,ITI,1CCO4,403,L,1,12:00:00,12:59:00,59,False
+26263,ITIS 256,Computo Distribuido,OO3,Salazar - Martinez Hilario,ITI,1CCO4,403,A,2,13:00:00,14:59:00,119,False
+26263,ITIS 256,Computo Distribuido,OO3,Salazar - Martinez Hilario,ITI,1CCO4,403,J,4,13:00:00,14:59:00,119,False
+26263,ITIS 256,Computo Distribuido,OO3,Salazar - Martinez Hilario,ITI,1CCO4,403,L,1,14:00:00,14:59:00,59,False
+39803,ITIS 256,Computo Distribuido,OO4,Mendoza - Olguin Gustavo Emilio,ITI,1CCO4,206,L,1,13:00:00,13:59:00,59,False
+39803,ITIS 256,Computo Distribuido,OO4,Mendoza - Olguin Gustavo Emilio,ITI,1CCO4,206,M,3,13:00:00,14:59:00,119,False
+39803,ITIS 256,Computo Distribuido,OO4,Mendoza - Olguin Gustavo Emilio,ITI,1CCO4,206,V,5,13:00:00,14:59:00,119,False
+24661,ITIS 601,Computo Orientado a Servicios,OO1,Barrios - Gonzalez Erick,ITI,1CCO4,202,L,1,11:00:00,11:59:00,59,False
+24661,ITIS 601,Computo Orientado a Servicios,OO1,Barrios - Gonzalez Erick,ITI,1CCO4,202,M,3,11:00:00,12:59:00,119,False
+24661,ITIS 601,Computo Orientado a Servicios,OO1,Barrios - Gonzalez Erick,ITI,1CCO4,202,V,5,11:00:00,12:59:00,119,False
+25691,ITIS 261,Control de Calidad de Software,OO1,Mendoza - Olguin Gustavo Emilio,ITI,1CCO4,203,A,2,13:00:00,14:59:00,119,False
+25691,ITIS 261,Control de Calidad de Software,OO1,Mendoza - Olguin Gustavo Emilio,ITI,1CCO2,208,J,4,13:00:00,14:59:00,119,False
+25691,ITIS 261,Control de Calidad de Software,OO1,Mendoza - Olguin Gustavo Emilio,ITI,1CCO4,203,L,1,14:00:00,14:59:00,59,False
+25679,ITIS 261,Control de Calidad de Software,OO2,Roman - Flores Alberto,ITI,1EMA5,205,L,1,11:00:00,11:59:00,59,False
+25679,ITIS 261,Control de Calidad de Software,OO2,Roman - Flores Alberto,ITI,1EMA5,205,M,3,11:00:00,12:59:00,119,False
+25679,ITIS 261,Control de Calidad de Software,OO2,Roman - Flores Alberto,ITI,1EMA5,205,V,5,11:00:00,12:59:00,119,False
+24645,ITIS 600,Desarrollo Basado en Modelos,OO1,Guerrero - Garcia Josefina,ITI,1CCO4,104,L,1,11:00:00,11:59:00,59,False
+24645,ITIS 600,Desarrollo Basado en Modelos,OO1,Guerrero - Garcia Josefina,ITI,1CCO4,104,M,3,11:00:00,12:59:00,119,False
+24645,ITIS 600,Desarrollo Basado en Modelos,OO1,Guerrero - Garcia Josefina,ITI,1CCO4,104,V,5,11:00:00,12:59:00,119,False
+24592,ITIS 702,Desarrollo de Sitios Web,OO1,Mendez - Sanchez Luis Yael,ITI,1CCO1,005,A,2,09:00:00,10:59:00,119,False
+24592,ITIS 702,Desarrollo de Sitios Web,OO1,Mendez - Sanchez Luis Yael,ITI,1CCO4,306,J,4,09:00:00,10:59:00,119,False
+24592,ITIS 702,Desarrollo de Sitios Web,OO1,Mendez - Sanchez Luis Yael,ITI,1CCO4,306,L,1,10:00:00,10:59:00,59,False
+26408,ITIS 014,Diseno de Base de Datos,OO3,Rodriguez - Bernal Fernando,ITI,1CCO4,304,L,1,17:00:00,17:59:00,59,False
+26408,ITIS 014,Diseno de Base de Datos,OO3,Rodriguez - Bernal Fernando,ITI,1CCO3,104,M,3,17:00:00,18:59:00,119,False
+26408,ITIS 014,Diseno de Base de Datos,OO3,Rodriguez - Bernal Fernando,ITI,1CCO4,304,V,5,17:00:00,18:59:00,119,False
+26200,ITIS 259,Diseno de la Interaccion,OO1,Montalvo - Montalvo Nancy,ITI,1EMA5,205,L,1,15:00:00,15:59:00,59,False
+26200,ITIS 259,Diseno de la Interaccion,OO1,Montalvo - Montalvo Nancy,ITI,1EMA5,205,M,3,15:00:00,16:59:00,119,False
+26200,ITIS 259,Diseno de la Interaccion,OO1,Montalvo - Montalvo Nancy,ITI,1EMA5,205,V,5,15:00:00,16:59:00,119,False
+26193,ITIS 259,Diseno de la Interaccion,OO2,Rodriguez - Perez Fernando,ITI,1EMA5,205,A,2,09:00:00,10:59:00,119,False
+26193,ITIS 259,Diseno de la Interaccion,OO2,Rodriguez - Perez Fernando,ITI,1EMA5,205,J,4,09:00:00,10:59:00,119,False
+26193,ITIS 259,Diseno de la Interaccion,OO2,Rodriguez - Perez Fernando,ITI,1EMA5,205,L,1,10:00:00,10:59:00,59,False
+26360,ITIS 253,Fund.de la Programacion Logica,OO1,Bonfil - Barragan Erika,ITI,1CCO4,303,A,2,09:00:00,10:59:00,119,False
+26360,ITIS 253,Fund.de la Programacion Logica,OO1,Bonfil - Barragan Erika,ITI,1CCO4,304,J,4,09:00:00,10:59:00,119,False
+26353,ITIS 253,Fund.de la Programacion Logica,OO2,Zacarias - Flores Fernando,ITI,1CCO4,301,M,3,15:00:00,16:59:00,119,False
+26353,ITIS 253,Fund.de la Programacion Logica,OO2,Zacarias - Flores Fernando,ITI,1CCO4,301,V,5,15:00:00,16:59:00,119,False
+26329,ITIS 253,Fund.de la Programacion Logica,OO3,Palomino - Jimenez Carlos,ITI,1CCO4,404,A,2,11:00:00,12:59:00,119,False
+26329,ITIS 253,Fund.de la Programacion Logica,OO3,Palomino - Jimenez Carlos,ITI,1CCO4,303,J,4,11:00:00,12:59:00,119,False
+26439,ITIS 013,Ingenieria de Software I,OO2,Archundia - Sierra Etelvina,ITI,1CCO5,201,L,1,11:00:00,11:59:00,59,False
+26439,ITIS 013,Ingenieria de Software I,OO2,Archundia - Sierra Etelvina,ITI,1CCO5,201,M,3,11:00:00,12:59:00,119,False
+26439,ITIS 013,Ingenieria de Software I,OO2,Archundia - Sierra Etelvina,ITI,1CCO5,201,V,5,11:00:00,12:59:00,119,False
+26547,ISTI 200,Ingenieria de Software II,OO1,DE LA Rosa - Flores Rafael,ITI,1CCO5,203,L,1,11:00:00,11:59:00,59,False
+26547,ISTI 200,Ingenieria de Software II,OO1,DE LA Rosa - Flores Rafael,ITI,1CCO5,203,M,3,11:00:00,12:59:00,119,False
+26547,ISTI 200,Ingenieria de Software II,OO1,DE LA Rosa - Flores Rafael,ITI,1CCO5,203,V,5,11:00:00,12:59:00,119,False
+26549,ISTI 200,Ingenieria de Software II,OO2,Gonzalez - Calleros Juan Manuel,ITI,1CCO4,306,L,1,11:00:00,11:59:00,59,False
+26549,ISTI 200,Ingenieria de Software II,OO2,Gonzalez - Calleros Juan Manuel,ITI,1CCO4,306,M,3,11:00:00,12:59:00,119,False
+26549,ISTI 200,Ingenieria de Software II,OO2,Gonzalez - Calleros Juan Manuel,ITI,1CCO4,306,V,5,11:00:00,12:59:00,119,False
+40507,ITIS 608,Int.al Computo de Alto Rendimi,OO1,Lopez - Sosa Zuriel,ITI,1CCO4,307,A,2,17:00:00,18:59:00,119,False
+40507,ITIS 608,Int.al Computo de Alto Rendimi,OO1,Lopez - Sosa Zuriel,ITI,1CCO4,307,J,4,17:00:00,18:59:00,119,False
+40507,ITIS 608,Int.al Computo de Alto Rendimi,OO1,Lopez - Sosa Zuriel,ITI,1CCO4,307,L,1,18:00:00,18:59:00,59,False
+26389,ITIS 251,Integr.de Sistemas y Arquitect,OO1,Camacho - Tellez Hugo,ITI,1CCO2,208,A,2,13:00:00,14:59:00,119,False
+26389,ITIS 251,Integr.de Sistemas y Arquitect,OO1,Camacho - Tellez Hugo,ITI,1CCO5,201,J,4,13:00:00,14:59:00,119,False
+26389,ITIS 251,Integr.de Sistemas y Arquitect,OO1,Camacho - Tellez Hugo,ITI,1CCO2,208,L,1,14:00:00,14:59:00,59,False
+26383,ITIS 251,Integr.de Sistemas y Arquitect,OO2,Hernandez - Ameca Jose Luis,ITI,1CCO4,206,L,1,11:00:00,11:59:00,59,False
+26383,ITIS 251,Integr.de Sistemas y Arquitect,OO2,Hernandez - Ameca Jose Luis,ITI,1CCO4,206,M,3,11:00:00,12:59:00,119,False
+26383,ITIS 251,Integr.de Sistemas y Arquitect,OO2,Hernandez - Ameca Jose Luis,ITI,1CCO4,206,V,5,11:00:00,12:59:00,119,False
+24630,ITIS 604,Inteligencia Artificial,OO1,Bernabe - Loranca Maria Beatriz,ITI,1CCO4,307,L,1,17:00:00,17:59:00,59,False
+24630,ITIS 604,Inteligencia Artificial,OO1,Bernabe - Loranca Maria Beatriz,ITI,1CCO4,307,M,3,17:00:00,18:59:00,119,False
+24630,ITIS 604,Inteligencia Artificial,OO1,Bernabe - Loranca Maria Beatriz,ITI,1CCO1,005,V,5,17:00:00,18:59:00,119,False
+26425,ISTI 202,Inteligencia de Negocios,OO1,Mendoza - Olguin Gustavo Emilio,ITI,1CCO3,101,A,2,15:00:00,16:59:00,119,False
+26425,ISTI 202,Inteligencia de Negocios,OO1,Mendoza - Olguin Gustavo Emilio,ITI,1CCO5,201,J,4,15:00:00,16:59:00,119,False
+26425,ISTI 202,Inteligencia de Negocios,OO1,Mendoza - Olguin Gustavo Emilio,ITI,1CCO5,202,L,1,16:00:00,16:59:00,59,False
+26433,ISTI 202,Inteligencia de Negocios,OO2,Mendoza - Olguin Gustavo Emilio,ITI,1CCO4,403,L,1,09:00:00,09:59:00,59,False
+26433,ISTI 202,Inteligencia de Negocios,OO2,Mendoza - Olguin Gustavo Emilio,ITI,1CCO5,201,M,3,09:00:00,10:59:00,119,False
+26433,ISTI 202,Inteligencia de Negocios,OO2,Mendoza - Olguin Gustavo Emilio,ITI,1CCO4,304,V,5,09:00:00,10:59:00,119,False
+24619,ITIS 607,Investigacion de Operaciones,OO1,Tecuanhuehue - Vera Pedro,ITI,1CCO5,201,L,1,09:00:00,09:59:00,59,False
+24619,ITIS 607,Investigacion de Operaciones,OO1,Tecuanhuehue - Vera Pedro,ITI,1CCO4,404,M,3,09:00:00,10:59:00,119,False
+24619,ITIS 607,Investigacion de Operaciones,OO1,Tecuanhuehue - Vera Pedro,ITI,1CCO5,201,V,5,09:00:00,10:59:00,119,False
+20016,FGUS 007,Lengua Extranjera IV,101,Chavez - Heredia Claudia,ITI,1CCO1,002,M,3,09:00:00,10:59:00,119,False
+20016,FGUS 007,Lengua Extranjera IV,101,Chavez - Heredia Claudia,ITI,1CCO4,102,V,5,09:00:00,10:59:00,119,False
+26429,FGUS 007,Lengua Extranjera IV,102,Chavez - Heredia Claudia,ITI,1CCO4,101,M,3,07:00:00,08:59:00,119,False
+26429,FGUS 007,Lengua Extranjera IV,102,Chavez - Heredia Claudia,ITI,1CCO4,101,V,5,07:00:00,08:59:00,119,False
+26434,FGUS 007,Lengua Extranjera IV,103,Diaz - Garcia Elvira Claudia,ITI,1CCO1,003,M,3,11:00:00,12:59:00,119,False
+26434,FGUS 007,Lengua Extranjera IV,103,Diaz - Garcia Elvira Claudia,ITI,1CCO1,005,V,5,11:00:00,12:59:00,119,False
+26437,FGUS 007,Lengua Extranjera IV,104,Salazar - Perez Sergio,ITI,1CCO1,005,A,2,15:00:00,16:59:00,119,False
+26437,FGUS 007,Lengua Extranjera IV,104,Salazar - Perez Sergio,ITI,1CCO1,005,J,4,15:00:00,16:59:00,119,False
+26441,FGUS 007,Lengua Extranjera IV,105,Bravo - Fuentes Maria DE Lourdes,ITI,1CCO4,401,A,2,13:00:00,14:59:00,119,False
+26441,FGUS 007,Lengua Extranjera IV,105,Bravo - Fuentes Maria DE Lourdes,ITI,1CCO4,401,J,4,13:00:00,14:59:00,119,False
+26443,FGUS 007,Lengua Extranjera IV,106,Hernandez - Mendoza Minerva,ITI,1CCO1,004,M,3,15:00:00,16:59:00,119,False
+26443,FGUS 007,Lengua Extranjera IV,106,Hernandez - Mendoza Minerva,ITI,1CCO1,004,V,5,15:00:00,16:59:00,119,False
+26457,FGUS 007,Lengua Extranjera IV,107,Chavez - Heredia Claudia,ITI,1CCO4,201,A,2,07:00:00,08:59:00,119,False
+26457,FGUS 007,Lengua Extranjera IV,107,Chavez - Heredia Claudia,ITI,1CCO4,201,J,4,07:00:00,08:59:00,119,False
+26461,FGUS 007,Lengua Extranjera IV,108,Cruz - Lopez Maria Silvia Concepcion,ITI,1CCO4,103,M,3,09:00:00,10:59:00,119,False
+26461,FGUS 007,Lengua Extranjera IV,108,Cruz - Lopez Maria Silvia Concepcion,ITI,1CCO4,103,V,5,09:00:00,10:59:00,119,False
+24586,ITIS 703,Manten. de Equ. y Redes de Com,OO1,Acosta - Ruiz Samantha,ITI,1CCO3,208,L,1,15:00:00,15:59:00,59,False
+24586,ITIS 703,Manten. de Equ. y Redes de Com,OO1,Acosta - Ruiz Samantha,ITI,1CCO3,208,M,3,15:00:00,16:59:00,119,False
+24586,ITIS 703,Manten. de Equ. y Redes de Com,OO1,Acosta - Ruiz Samantha,ITI,1CCO4,202,V,5,15:00:00,16:59:00,119,False
+26560,ITIS 012,Metodos Estadisticos,OO2,Bernabe - Loranca Maria Beatriz,ITI,1CCO4,101,A,2,15:00:00,16:59:00,119,False
+26560,ITIS 012,Metodos Estadisticos,OO2,Bernabe - Loranca Maria Beatriz,ITI,1CCO4,101,J,4,15:00:00,16:59:00,119,False
+26560,ITIS 012,Metodos Estadisticos,OO2,Bernabe - Loranca Maria Beatriz,ITI,1CCO4,101,L,1,16:00:00,16:59:00,59,False
+26563,ITIS 012,Metodos Estadisticos,OO3,Contreras - Juarez Roberto,ITI,1CCO4,301,A,2,09:00:00,10:59:00,119,False
+26563,ITIS 012,Metodos Estadisticos,OO3,Contreras - Juarez Roberto,ITI,1CCO4,301,J,4,09:00:00,10:59:00,119,False
+26563,ITIS 012,Metodos Estadisticos,OO3,Contreras - Juarez Roberto,ITI,1CCO4,301,L,1,10:00:00,10:59:00,59,False
+26215,ITIS 258,Mineria de Datos,OO1,Tecuanhuehue - Vera Pedro,ITI,1CCO1,003,A,2,15:00:00,16:59:00,119,False
+26215,ITIS 258,Mineria de Datos,OO1,Tecuanhuehue - Vera Pedro,ITI,1CCO4,308,J,4,15:00:00,16:59:00,119,False
+26215,ITIS 258,Mineria de Datos,OO1,Tecuanhuehue - Vera Pedro,ITI,1CCO4,308,L,1,16:00:00,16:59:00,59,False
+26210,ITIS 258,Mineria de Datos,OO2,Martinez - Guzman Gerardo,ITI,1CCO4,308,L,1,07:00:00,07:59:00,59,False
+26210,ITIS 258,Mineria de Datos,OO2,Martinez - Guzman Gerardo,ITI,1CCO4,308,M,3,07:00:00,08:59:00,119,False
+26210,ITIS 258,Mineria de Datos,OO2,Martinez - Guzman Gerardo,ITI,1CCO4,308,V,5,07:00:00,08:59:00,119,False
+26205,ITIS 258,Mineria de Datos,OO3,Olvera - Lopez Jose Arturo,ITI,1CCO5,201,A,2,13:00:00,14:59:00,119,False
+26205,ITIS 258,Mineria de Datos,OO3,Olvera - Lopez Jose Arturo,ITI,1CCO2,207,J,4,13:00:00,14:59:00,119,False
+26205,ITIS 258,Mineria de Datos,OO3,Olvera - Lopez Jose Arturo,ITI,1CCO5,201,L,1,14:00:00,14:59:00,59,False
+26236,ITIS 257,Modelos de Desarrollo Web,OO1,Castillo - Avila Arlem Aleida,ITI,1CCO4,308,L,1,11:00:00,11:59:00,59,False
+26236,ITIS 257,Modelos de Desarrollo Web,OO1,Castillo - Avila Arlem Aleida,ITI,1CCO4,308,M,3,11:00:00,12:59:00,119,False
+26236,ITIS 257,Modelos de Desarrollo Web,OO1,Castillo - Avila Arlem Aleida,ITI,1CCO4,401,V,5,11:00:00,12:59:00,119,False
+26230,ITIS 257,Modelos de Desarrollo Web,OO2,Rossainz - Lopez Mario,ITI,1CCO4,201,A,2,11:00:00,12:59:00,119,False
+26230,ITIS 257,Modelos de Desarrollo Web,OO2,Rossainz - Lopez Mario,ITI,1CCO2,208,J,4,11:00:00,12:59:00,119,False
+26230,ITIS 257,Modelos de Desarrollo Web,OO2,Rossainz - Lopez Mario,ITI,1CCO2,208,L,1,12:00:00,12:59:00,59,False
+26222,ITIS 257,Modelos de Desarrollo Web,OO3,Mendez - Sanchez Luis Yael,ITI,1CCO4,307,A,2,13:00:00,14:59:00,119,False
+26222,ITIS 257,Modelos de Desarrollo Web,OO3,Mendez - Sanchez Luis Yael,ITI,1CCO4,102,J,4,13:00:00,14:59:00,119,False
+26222,ITIS 257,Modelos de Desarrollo Web,OO3,Mendez - Sanchez Luis Yael,ITI,1CCO4,102,L,1,14:00:00,14:59:00,59,False
+26471,ISTI 203,Prog. de Dispositivos Moviles,OO1,Fuentes - Orozco Pablo,ITI,1CCO4,303,A,2,19:00:00,20:59:00,119,False
+26471,ISTI 203,Prog. de Dispositivos Moviles,OO1,Fuentes - Orozco Pablo,ITI,1CCO4,303,J,4,19:00:00,20:59:00,119,False
+26471,ISTI 203,Prog. de Dispositivos Moviles,OO1,Fuentes - Orozco Pablo,ITI,1CCO4,303,L,1,20:00:00,20:59:00,59,False
+42739,ISTI 203,Prog. de Dispositivos Moviles,OO2,Bautista - Lopez Veronica Edith,ITI,1CCO4,404,A,2,09:00:00,10:59:00,119,False
+42739,ISTI 203,Prog. de Dispositivos Moviles,OO2,Bautista - Lopez Veronica Edith,ITI,1CCO4,404,J,4,09:00:00,10:59:00,119,False
+42739,ISTI 203,Prog. de Dispositivos Moviles,OO2,Bautista - Lopez Veronica Edith,ITI,1CCO4,404,L,1,10:00:00,10:59:00,59,False
+26133,IDDS 002,Proyectos I + D I,101,Romero - Valdez Maria DEL Carmen,ITI,1CCO4,102,A,2,07:00:00,08:59:00,119,False
+26133,IDDS 002,Proyectos I + D I,101,Romero - Valdez Maria DEL Carmen,ITI,1CCO4,102,J,4,07:00:00,08:59:00,119,False
+26140,IDDS 002,Proyectos I + D I,102,Perez DE Celis - Herrero Maria DE LA Concepcion,ITI,1CCO4,101,A,2,09:00:00,10:59:00,119,False
+26140,IDDS 002,Proyectos I + D I,102,Perez DE Celis - Herrero Maria DE LA Concepcion,ITI,1CCO4,101,J,4,09:00:00,10:59:00,119,False
+26147,IDDS 002,Proyectos I + D I,103,Santiago - Diaz Maria DEL Carmen,ITI,1CCO5,203,A,2,13:00:00,14:59:00,119,False
+26147,IDDS 002,Proyectos I + D I,103,Santiago - Diaz Maria DEL Carmen,ITI,1CCO5,203,J,4,13:00:00,14:59:00,119,False
+26149,IDDS 002,Proyectos I + D I,104,Acosta - Ruiz Samantha,ITI,1CCO4,204,M,3,13:00:00,14:59:00,119,False
+26149,IDDS 002,Proyectos I + D I,104,Acosta - Ruiz Samantha,ITI,1CCO4,204,V,5,13:00:00,14:59:00,119,False
+26156,IDDS 002,Proyectos I + D I,105,Archundia - Sierra Etelvina,ITI,1CCO4,303,A,2,13:00:00,14:59:00,119,False
+26156,IDDS 002,Proyectos I + D I,105,Archundia - Sierra Etelvina,ITI,1CCO4,303,J,4,13:00:00,14:59:00,119,False
+26162,IDDS 002,Proyectos I + D I,106,Carrillo - Ruiz Maya,ITI,1CCO4,103,A,2,17:00:00,18:59:00,119,False
+26162,IDDS 002,Proyectos I + D I,106,Carrillo - Ruiz Maya,ITI,1CCO4,103,J,4,17:00:00,18:59:00,119,False
+26170,IDDS 002,Proyectos I + D I,107,Rosales - Lopez Karina,ITI,1CCO4,401,M,3,15:00:00,16:59:00,119,False
+26170,IDDS 002,Proyectos I + D I,107,Rosales - Lopez Karina,ITI,1CCO4,401,V,5,15:00:00,16:59:00,119,False
+26077,CCOS 260,Redes de Computadoras,OO1,Leon - Chavez Miguel Angel,ITI,1CCO4,305,A,2,09:00:00,10:59:00,119,False
+26077,CCOS 260,Redes de Computadoras,OO1,Leon - Chavez Miguel Angel,ITI,1CCO3,303,J,4,09:00:00,10:59:00,119,False
+26077,CCOS 260,Redes de Computadoras,OO1,Leon - Chavez Miguel Angel,ITI,1CCO4,305,L,1,10:00:00,10:59:00,59,False
+26086,CCOS 260,Redes de Computadoras,OO2,Ramirez - Espitia Carlos Mauricio,ITI,1CCO4,402,A,2,07:00:00,08:59:00,119,False
+26086,CCOS 260,Redes de Computadoras,OO2,Ramirez - Espitia Carlos Mauricio,ITI,1CCO3,303,J,4,07:00:00,08:59:00,119,False
+26086,CCOS 260,Redes de Computadoras,OO2,Ramirez - Espitia Carlos Mauricio,ITI,1CCO4,402,L,1,08:00:00,08:59:00,59,False
+26405,ITIS 250,Redes y Servicios,OO1,Barrios - Gonzalez Erick,ITI,1CCO1,001,A,2,11:00:00,12:59:00,119,False
+26405,ITIS 250,Redes y Servicios,OO1,Barrios - Gonzalez Erick,ITI,1CCO3,302,J,4,11:00:00,12:59:00,119,False
+26405,ITIS 250,Redes y Servicios,OO1,Barrios - Gonzalez Erick,ITI,1CCO3,302,L,1,12:00:00,12:59:00,59,False
+26399,ITIS 250,Redes y Servicios,OO2,Lopez - Munoz Mauro Alberto,ITI,1CCO4,206,A,2,11:00:00,12:59:00,119,False
+26399,ITIS 250,Redes y Servicios,OO2,Lopez - Munoz Mauro Alberto,ITI,1CCO4,305,J,4,11:00:00,12:59:00,119,False
+26399,ITIS 250,Redes y Servicios,OO2,Lopez - Munoz Mauro Alberto,ITI,1CCO4,206,L,1,12:00:00,12:59:00,59,False
+25714,ITIS 260,Servicios Web,OO1,Conde - Ramirez Juan Carlos,ITI,1CCO4,404,L,1,15:00:00,15:59:00,59,False
+25714,ITIS 260,Servicios Web,OO1,Conde - Ramirez Juan Carlos,ITI,1CCO4,404,M,3,15:00:00,16:59:00,119,False
+25714,ITIS 260,Servicios Web,OO1,Conde - Ramirez Juan Carlos,ITI,1CCO4,404,V,5,15:00:00,16:59:00,119,False
+25702,ITIS 260,Servicios Web,OO2,Melendez - Teodoro Augusto,ITI,1CCO4,307,L,1,09:00:00,09:59:00,59,False
+25702,ITIS 260,Servicios Web,OO2,Melendez - Teodoro Augusto,ITI,1CCO4,307,M,3,09:00:00,10:59:00,119,False
+25702,ITIS 260,Servicios Web,OO2,Melendez - Teodoro Augusto,ITI,1CCO4,104,V,5,09:00:00,10:59:00,119,False
+26298,ITIS 255,Tecnologias Web,OO1,Conde - Ramirez Juan Carlos,ITI,1CCO4,104,L,1,13:00:00,13:59:00,59,False
+26298,ITIS 255,Tecnologias Web,OO1,Conde - Ramirez Juan Carlos,ITI,1CCO4,307,M,3,13:00:00,14:59:00,119,False
+26298,ITIS 255,Tecnologias Web,OO1,Conde - Ramirez Juan Carlos,ITI,1CCO4,104,V,5,13:00:00,14:59:00,119,False
+26290,ITIS 255,Tecnologias Web,OO2,Gonzalez - Calleros Juan Manuel,ITI,1CCO2,208,A,2,09:00:00,10:59:00,119,False
+26290,ITIS 255,Tecnologias Web,OO2,Gonzalez - Calleros Juan Manuel,ITI,1CCO2,208,J,4,09:00:00,10:59:00,119,False
+26290,ITIS 255,Tecnologias Web,OO2,Gonzalez - Calleros Juan Manuel,ITI,1CCO4,304,L,1,10:00:00,10:59:00,59,False
+26282,ITIS 255,Tecnologias Web,OO3,Mendez - Sanchez Luis Yael,ITI,1CCO3,114,L,1,13:00:00,13:59:00,59,False
+26282,ITIS 255,Tecnologias Web,OO3,Mendez - Sanchez Luis Yael,ITI,1CCO3,114,M,3,13:00:00,14:59:00,119,False
+26282,ITIS 255,Tecnologias Web,OO3,Mendez - Sanchez Luis Yael,ITI,1CCO1,002,V,5,13:00:00,14:59:00,119,False
+24608,ITIS 612,Teoria de Decisiones,OO1,Lopez - Poblano Gilberto,ITI,1CCO4,202,A,2,19:00:00,20:59:00,119,False
+24608,ITIS 612,Teoria de Decisiones,OO1,Lopez - Poblano Gilberto,ITI,1CCO4,202,J,4,19:00:00,20:59:00,119,False
+24608,ITIS 612,Teoria de Decisiones,OO1,Lopez - Poblano Gilberto,ITI,1CCO4,202,L,1,20:00:00,20:59:00,59,False
+26454,ISTI 204,Trabajo Colaborativo,OO1,Martinez - Miron Erika Annabel,ITI,1EMA5,205,A,2,15:00:00,16:59:00,119,False
+26454,ISTI 204,Trabajo Colaborativo,OO1,Martinez - Miron Erika Annabel,ITI,1EMA5,205,J,4,15:00:00,16:59:00,119,False
+26454,ISTI 204,Trabajo Colaborativo,OO1,Martinez - Miron Erika Annabel,ITI,1EMA5,205,L,1,16:00:00,16:59:00,59,False
+26463,ISTI 204,Trabajo Colaborativo,OO2,Guerrero - Garcia Josefina,ITI,1CCO3,104,L,1,07:00:00,07:59:00,59,False
+26463,ISTI 204,Trabajo Colaborativo,OO2,Guerrero - Garcia Josefina,ITI,1CCO3,104,M,3,07:00:00,08:59:00,119,False
+26463,ISTI 204,Trabajo Colaborativo,OO2,Guerrero - Garcia Josefina,ITI,1CCO4,203,V,5,07:00:00,08:59:00,119,False
+26487,ISTI 204,Trabajo Colaborativo,OO3,Mendez - Sanchez Luis Yael,ITI,1CCO4,204,A,2,15:00:00,16:59:00,119,False
+26487,ISTI 204,Trabajo Colaborativo,OO3,Mendez - Sanchez Luis Yael,ITI,1CCO4,204,J,4,15:00:00,16:59:00,119,False
+26487,ISTI 204,Trabajo Colaborativo,OO3,Mendez - Sanchez Luis Yael,ITI,1CCO4,204,L,1,16:00:00,16:59:00,59,False
+25966,IDDS 001,Administracion de Proyectos,101,Rodriguez - Pedroza Berenice,LCC,1CCO1,004,A,2,07:00:00,08:59:00,119,False
+25966,IDDS 001,Administracion de Proyectos,101,Rodriguez - Pedroza Berenice,LCC,1CCO1,004,J,4,07:00:00,08:59:00,119,False
+25978,IDDS 001,Administracion de Proyectos,102,Romero - Valdez Maria DEL Carmen,LCC,1CCO5,203,A,2,09:00:00,10:59:00,119,False
+25978,IDDS 001,Administracion de Proyectos,102,Romero - Valdez Maria DEL Carmen,LCC,1CCO5,203,J,4,09:00:00,10:59:00,119,False
+26005,IDDS 001,Administracion de Proyectos,103,Romero - Valdez Maria DEL Carmen,LCC,1CCO1,002,M,3,17:00:00,18:59:00,119,False
+26005,IDDS 001,Administracion de Proyectos,103,Romero - Valdez Maria DEL Carmen,LCC,1CCO1,002,V,5,17:00:00,18:59:00,119,False
+26030,IDDS 001,Administracion de Proyectos,104,Romero - Valdez Maria DEL Carmen,LCC,1CCO5,201,A,2,17:00:00,18:59:00,119,False
+26030,IDDS 001,Administracion de Proyectos,104,Romero - Valdez Maria DEL Carmen,LCC,1CCO5,201,J,4,17:00:00,18:59:00,119,False
+26065,IDDS 001,Administracion de Proyectos,105,Vera - Cervantes Eugenia Erica,LCC,1CCO1,001,M,3,11:00:00,12:59:00,119,False
+26065,IDDS 001,Administracion de Proyectos,105,Vera - Cervantes Eugenia Erica,LCC,1CCO1,001,V,5,11:00:00,12:59:00,119,False
+26082,IDDS 001,Administracion de Proyectos,106,Ambrosio - Vazquez Alma Delia,LCC,1CCO5,203,M,3,15:00:00,16:59:00,119,False
+26082,IDDS 001,Administracion de Proyectos,106,Ambrosio - Vazquez Alma Delia,LCC,1CCO5,203,V,5,15:00:00,16:59:00,119,False
+26104,IDDS 001,Administracion de Proyectos,108,Zenteno - Vazquez ANA Claudia,LCC,1CCO4,203,M,3,09:00:00,10:59:00,119,False
+26104,IDDS 001,Administracion de Proyectos,108,Zenteno - Vazquez ANA Claudia,LCC,1CCO4,203,V,5,09:00:00,10:59:00,119,False
+26119,IDDS 001,Administracion de Proyectos,109,Gonzalez - Flores Marcos,LCC,1CCO4,201,A,2,13:00:00,14:59:00,119,False
+26119,IDDS 001,Administracion de Proyectos,109,Gonzalez - Flores Marcos,LCC,1CCO4,201,J,4,13:00:00,14:59:00,119,False
+26125,IDDS 001,Administracion de Proyectos,110,Mendoza - Rojas Angel Omar,LCC,1CCO4,401,M,3,07:00:00,08:59:00,119,False
+26125,IDDS 001,Administracion de Proyectos,110,Mendoza - Rojas Angel Omar,LCC,1CCO4,401,V,5,07:00:00,08:59:00,119,False
+42753,ISCO 201,Analisis y Diseno de Algoritm,O1O,Vargas - Lomeli Miguel Angel,LCC,1CCO4,104,A,2,09:00:00,10:59:00,119,False
+42753,ISCO 201,Analisis y Diseno de Algoritm,O1O,Vargas - Lomeli Miguel Angel,LCC,1CCO3,104,J,4,09:00:00,10:59:00,119,False
+42753,ISCO 201,Analisis y Diseno de Algoritm,O1O,Vargas - Lomeli Miguel Angel,LCC,1CCO3,104,L,1,10:00:00,10:59:00,59,False
+26508,ISCO 201,Analisis y Diseno de Algoritm,OO1,Regino - Medina Luis Filiberto,LCC,1CCO1,001,L,1,09:00:00,09:59:00,59,False
+26508,ISCO 201,Analisis y Diseno de Algoritm,OO1,Regino - Medina Luis Filiberto,LCC,1CCO1,001,M,3,09:00:00,10:59:00,119,False
+26508,ISCO 201,Analisis y Diseno de Algoritm,OO1,Regino - Medina Luis Filiberto,LCC,1CCO1,001,V,5,09:00:00,10:59:00,119,False
+26535,ISCO 201,Analisis y Diseno de Algoritm,OO2,Marcial - Castillo Luis Rene,LCC,1CCO1,003,A,2,09:00:00,10:59:00,119,False
+26535,ISCO 201,Analisis y Diseno de Algoritm,OO2,Marcial - Castillo Luis Rene,LCC,1CCO1,003,J,4,09:00:00,10:59:00,119,False
+26535,ISCO 201,Analisis y Diseno de Algoritm,OO2,Marcial - Castillo Luis Rene,LCC,1CCO1,003,L,1,10:00:00,10:59:00,59,False
+26540,ISCO 201,Analisis y Diseno de Algoritm,OO3,Ayaquica - Martinez Irene Olaya,LCC,1CCO1,003,A,2,13:00:00,14:59:00,119,False
+26540,ISCO 201,Analisis y Diseno de Algoritm,OO3,Ayaquica - Martinez Irene Olaya,LCC,1CCO1,003,J,4,13:00:00,14:59:00,119,False
+26540,ISCO 201,Analisis y Diseno de Algoritm,OO3,Ayaquica - Martinez Irene Olaya,LCC,1CCO1,003,L,1,14:00:00,14:59:00,59,False
+26546,ISCO 201,Analisis y Diseno de Algoritm,OO4,Zacarias - Flores Fernando,LCC,1CCO1,003,A,2,11:00:00,12:59:00,119,False
+26546,ISCO 201,Analisis y Diseno de Algoritm,OO4,Zacarias - Flores Fernando,LCC,1CCO1,003,J,4,11:00:00,12:59:00,119,False
+26546,ISCO 201,Analisis y Diseno de Algoritm,OO4,Zacarias - Flores Fernando,LCC,1CCO1,003,L,1,12:00:00,12:59:00,59,False
+26553,ISCO 201,Analisis y Diseno de Algoritm,OO5,Bello - Lopez Pedro,LCC,1CCO4,307,A,2,11:00:00,12:59:00,119,False
+26553,ISCO 201,Analisis y Diseno de Algoritm,OO5,Bello - Lopez Pedro,LCC,1CCO4,401,J,4,11:00:00,12:59:00,119,False
+26553,ISCO 201,Analisis y Diseno de Algoritm,OO5,Bello - Lopez Pedro,LCC,1CCO4,401,L,1,12:00:00,12:59:00,59,False
+26558,ISCO 201,Analisis y Diseno de Algoritm,OO6,Toriz - Palacios Alfredo,LCC,1CCO1,005,A,2,07:00:00,08:59:00,119,False
+26558,ISCO 201,Analisis y Diseno de Algoritm,OO6,Toriz - Palacios Alfredo,LCC,1CCO1,005,J,4,07:00:00,08:59:00,119,False
+26558,ISCO 201,Analisis y Diseno de Algoritm,OO6,Toriz - Palacios Alfredo,LCC,1CCO1,005,L,1,08:00:00,08:59:00,59,False
+26565,ISCO 201,Analisis y Diseno de Algoritm,OO7,Montalvo - Montalvo Nancy,LCC,1CCO4,103,L,1,13:00:00,13:59:00,59,False
+26565,ISCO 201,Analisis y Diseno de Algoritm,OO7,Montalvo - Montalvo Nancy,LCC,1CCO4,103,M,3,13:00:00,14:59:00,119,False
+26565,ISCO 201,Analisis y Diseno de Algoritm,OO7,Montalvo - Montalvo Nancy,LCC,1CCO4,103,V,5,13:00:00,14:59:00,119,False
+26570,ISCO 201,Analisis y Diseno de Algoritm,OO8,Vilarino - Ayala Darnes,LCC,1CCO4,204,A,2,07:00:00,08:59:00,119,False
+26570,ISCO 201,Analisis y Diseno de Algoritm,OO8,Vilarino - Ayala Darnes,LCC,1CCO3,101,J,4,07:00:00,08:59:00,119,False
+26570,ISCO 201,Analisis y Diseno de Algoritm,OO8,Vilarino - Ayala Darnes,LCC,1CCO4,204,L,1,08:00:00,08:59:00,59,False
+26574,ISCO 201,Analisis y Diseno de Algoritm,OO9,Altamirano - Robles Luis Carlos,LCC,1CCO4,304,A,2,17:00:00,18:59:00,119,False
+26574,ISCO 201,Analisis y Diseno de Algoritm,OO9,Altamirano - Robles Luis Carlos,LCC,1CCO4,304,J,4,17:00:00,18:59:00,119,False
+26574,ISCO 201,Analisis y Diseno de Algoritm,OO9,Altamirano - Robles Luis Carlos,LCC,1CCO4,304,L,1,18:00:00,18:59:00,59,False
+25104,CCOS 609,Animacion por Computadora,OO1,Rivera - Martinez Marcela,LCC,1CCO3,114,A,2,09:00:00,10:59:00,119,False
+25104,CCOS 609,Animacion por Computadora,OO1,Rivera - Martinez Marcela,LCC,1CCO1,002,J,4,09:00:00,10:59:00,119,False
+25104,CCOS 609,Animacion por Computadora,OO1,Rivera - Martinez Marcela,LCC,1CCO3,114,L,1,10:00:00,10:59:00,59,False
+25114,CCOS 609,Animacion por Computadora,OO2,Mendoza - Olguin Gustavo Emilio,LCC,1CCO4,307,L,1,11:00:00,11:59:00,59,False
+25114,CCOS 609,Animacion por Computadora,OO2,Mendoza - Olguin Gustavo Emilio,LCC,1CCO4,204,M,3,11:00:00,12:59:00,119,False
+25114,CCOS 609,Animacion por Computadora,OO2,Mendoza - Olguin Gustavo Emilio,LCC,1CCO4,307,V,5,11:00:00,12:59:00,119,False
+25126,CCOS 609,Animacion por Computadora,OO3,Acosta - Ruiz Samantha,LCC,1CCO3,109,A,2,15:00:00,16:59:00,119,False
+25126,CCOS 609,Animacion por Computadora,OO3,Acosta - Ruiz Samantha,LCC,1CCO1,001,J,4,15:00:00,16:59:00,119,False
+25126,CCOS 609,Animacion por Computadora,OO3,Acosta - Ruiz Samantha,LCC,1CCO3,109,L,1,16:00:00,16:59:00,59,False
+25245,CCOS 701,Aplicaciones Multimedia,OO1,Castillo - Avila Arlem Aleida,LCC,1CCO1,004,A,2,11:00:00,12:59:00,119,False
+25245,CCOS 701,Aplicaciones Multimedia,OO1,Castillo - Avila Arlem Aleida,LCC,1CCO3,114,J,4,11:00:00,12:59:00,119,False
+25245,CCOS 701,Aplicaciones Multimedia,OO1,Castillo - Avila Arlem Aleida,LCC,1CCO3,114,L,1,12:00:00,12:59:00,59,False
+25182,CCOS 700,Aplicaciones Web,OO1,Castillo - Avila Arlem Aleida,LCC,1CCO2,208,L,1,09:00:00,09:59:00,59,False
+25182,CCOS 700,Aplicaciones Web,OO1,Castillo - Avila Arlem Aleida,LCC,1CCO2,208,M,3,09:00:00,10:59:00,119,False
+25182,CCOS 700,Aplicaciones Web,OO1,Castillo - Avila Arlem Aleida,LCC,1CCO2,208,V,5,09:00:00,10:59:00,119,False
+25223,CCOS 700,Aplicaciones Web,OO2,Mendez - Sanchez Luis Yael,LCC,1CCO4,303,A,2,11:00:00,12:59:00,119,False
+25223,CCOS 700,Aplicaciones Web,OO2,Mendez - Sanchez Luis Yael,LCC,1CCO4,307,J,4,11:00:00,12:59:00,119,False
+25223,CCOS 700,Aplicaciones Web,OO2,Mendez - Sanchez Luis Yael,LCC,1CCO4,307,L,1,12:00:00,12:59:00,59,False
+25236,CCOS 700,Aplicaciones Web,OO3,Bello - Lopez Pedro,LCC,1CCO4,308,L,1,17:00:00,17:59:00,59,False
+25236,CCOS 700,Aplicaciones Web,OO3,Bello - Lopez Pedro,LCC,1CCO4,308,M,3,17:00:00,18:59:00,119,False
+25236,CCOS 700,Aplicaciones Web,OO3,Bello - Lopez Pedro,LCC,1CCO1,001,V,5,17:00:00,18:59:00,119,False
+26050,CCOS 259,Arqu. Funcional de Computadora,OO1,Hernandez - Ameca Jose Luis,LCC,1CCO3,101,L,1,13:00:00,13:59:00,59,False
+26050,CCOS 259,Arqu. Funcional de Computadora,OO1,Hernandez - Ameca Jose Luis,LCC,1CCO3,310,M,3,13:00:00,14:59:00,119,False
+26050,CCOS 259,Arqu. Funcional de Computadora,OO1,Hernandez - Ameca Jose Luis,LCC,1CCO3,310,V,5,13:00:00,14:59:00,119,False
+26062,CCOS 259,Arqu. Funcional de Computadora,OO2,Mejia - Palafox Juan,LCC,1CCO3,208,A,2,07:00:00,08:59:00,119,False
+26062,CCOS 259,Arqu. Funcional de Computadora,OO2,Mejia - Palafox Juan,LCC,1CCO4,101,J,4,07:00:00,08:59:00,119,False
+26062,CCOS 259,Arqu. Funcional de Computadora,OO2,Mejia - Palafox Juan,LCC,1CCO3,208,L,1,08:00:00,08:59:00,59,False
+26067,CCOS 259,Arqu. Funcional de Computadora,OO3,Trinidad - Garcia Gregorio,LCC,1CCO4,202,L,1,13:00:00,13:59:00,59,False
+26067,CCOS 259,Arqu. Funcional de Computadora,OO3,Trinidad - Garcia Gregorio,LCC,1CCO3,208,M,3,13:00:00,14:59:00,119,False
+26067,CCOS 259,Arqu. Funcional de Computadora,OO3,Trinidad - Garcia Gregorio,LCC,1CCO4,202,V,5,13:00:00,14:59:00,119,False
+26257,CCOS 262,Bases de Datos,OO1,Torrijos - Munoz Maria Teresa,LCC,1CCO2,207,L,1,11:00:00,11:59:00,59,False
+26257,CCOS 262,Bases de Datos,OO1,Torrijos - Munoz Maria Teresa,LCC,1CCO2,207,M,3,11:00:00,12:59:00,119,False
+26257,CCOS 262,Bases de Datos,OO1,Torrijos - Munoz Maria Teresa,LCC,1CCO2,207,V,5,11:00:00,12:59:00,119,False
+26275,CCOS 262,Bases de Datos,OO2,Elvira - Enriquez Roberto,LCC,1CCO2,207,L,1,15:00:00,15:59:00,59,False
+26275,CCOS 262,Bases de Datos,OO2,Elvira - Enriquez Roberto,LCC,1CCO2,207,M,3,15:00:00,16:59:00,119,False
+26275,CCOS 262,Bases de Datos,OO2,Elvira - Enriquez Roberto,LCC,1CCO4,101,V,5,15:00:00,16:59:00,119,False
+26355,CCOS 602,Bases de Datos Avanzadas,OO1,Moyao - Martinez Yolanda,LCC,1CCO2,207,A,2,09:00:00,10:59:00,119,False
+26355,CCOS 602,Bases de Datos Avanzadas,OO1,Moyao - Martinez Yolanda,LCC,1CCO1,004,J,4,09:00:00,10:59:00,119,False
+26355,CCOS 602,Bases de Datos Avanzadas,OO1,Moyao - Martinez Yolanda,LCC,1CCO2,207,L,1,10:00:00,10:59:00,59,False
+23473,CCOS 011,Circuitos Electricos,OO1,Morales - Aguilar Luis Enrique,LCC,1CCO3,309,L,1,17:00:00,17:59:00,59,False
+23473,CCOS 011,Circuitos Electricos,OO1,Morales - Aguilar Luis Enrique,LCC,1CCO1,003,M,3,17:00:00,18:59:00,119,False
+23473,CCOS 011,Circuitos Electricos,OO1,Morales - Aguilar Luis Enrique,LCC,1CCO3,309,V,5,17:00:00,18:59:00,119,False
+25433,CCOS 011,Circuitos Electricos,OO3,Rodriguez - Pedroza Berenice,LCC,1CCO3,310,L,1,07:00:00,07:59:00,59,False
+25433,CCOS 011,Circuitos Electricos,OO3,Rodriguez - Pedroza Berenice,LCC,1CCO3,310,M,3,07:00:00,08:59:00,119,False
+25433,CCOS 011,Circuitos Electricos,OO3,Rodriguez - Pedroza Berenice,LCC,1CCO4,102,V,5,07:00:00,08:59:00,119,False
+40272,CCOS 011,Circuitos Electricos,OO4,Camacho - Tellez Hugo,LCC,1CCO5,201,A,2,15:00:00,16:59:00,119,False
+40272,CCOS 011,Circuitos Electricos,OO4,Camacho - Tellez Hugo,LCC,1CCO3,309,J,4,15:00:00,16:59:00,119,False
+40272,CCOS 011,Circuitos Electricos,OO4,Camacho - Tellez Hugo,LCC,1CCO5,201,L,1,16:00:00,16:59:00,59,False
+25665,CCOS 250,Circuitos Logicos,OO1,Trinidad - Garcia Gregorio,LCC,1CCO3,310,A,2,09:00:00,10:59:00,119,False
+25665,CCOS 250,Circuitos Logicos,OO1,Trinidad - Garcia Gregorio,LCC,1CCO3,310,J,4,09:00:00,10:59:00,119,False
+25665,CCOS 250,Circuitos Logicos,OO1,Trinidad - Garcia Gregorio,LCC,1CCO4,101,L,1,10:00:00,10:59:00,59,False
+25676,CCOS 250,Circuitos Logicos,OO2,Morales - Aguilar Luis Enrique,LCC,1CCO3,309,A,2,17:00:00,18:59:00,119,False
+25676,CCOS 250,Circuitos Logicos,OO2,Morales - Aguilar Luis Enrique,LCC,1CCO4,102,J,4,17:00:00,18:59:00,119,False
+25676,CCOS 250,Circuitos Logicos,OO2,Morales - Aguilar Luis Enrique,LCC,1CCO4,102,L,1,18:00:00,18:59:00,59,False
+25176,CCOS 616,Compiladores,OO1,Soriano - Rosas Jose Isabel,LCC,1CCO1,001,A,2,17:00:00,18:59:00,119,False
+25176,CCOS 616,Compiladores,OO1,Soriano - Rosas Jose Isabel,LCC,1CCO4,308,J,4,17:00:00,18:59:00,119,False
+25176,CCOS 616,Compiladores,OO1,Soriano - Rosas Jose Isabel,LCC,1CCO4,308,L,1,18:00:00,18:59:00,59,False
+26006,CCOS 257,Computabilidad,OO1,Zacarias - Flores Fernando,LCC,1CCO4,101,A,2,13:00:00,14:59:00,119,False
+26006,CCOS 257,Computabilidad,OO1,Zacarias - Flores Fernando,LCC,1CCO3,114,J,4,13:00:00,14:59:00,119,False
+26006,CCOS 257,Computabilidad,OO1,Zacarias - Flores Fernando,LCC,1CCO4,101,L,1,14:00:00,14:59:00,59,False
+26017,CCOS 257,Computabilidad,OO2,Bautista - Ramos Cesar,LCC,1CCO4,403,L,1,11:00:00,11:59:00,59,False
+26017,CCOS 257,Computabilidad,OO2,Bautista - Ramos Cesar,LCC,1CCO4,403,M,3,11:00:00,12:59:00,119,False
+26017,CCOS 257,Computabilidad,OO2,Bautista - Ramos Cesar,LCC,1CCO4,101,V,5,11:00:00,12:59:00,119,False
+26364,CCOS 604,Criptografia,OO1,Leon - Chavez Miguel Angel,LCC,1CCO3,310,L,1,09:00:00,09:59:00,59,False
+26364,CCOS 604,Criptografia,OO1,Leon - Chavez Miguel Angel,LCC,1CCO3,310,M,3,09:00:00,10:59:00,119,False
+26364,CCOS 604,Criptografia,OO1,Leon - Chavez Miguel Angel,LCC,1CCO1,003,V,5,09:00:00,10:59:00,119,False
+25627,CCOS 013,Estructuras de Datos,O11,Rossainz - Lopez Mario,LCC,1CCO4,404,L,1,11:00:00,11:59:00,59,False
+25627,CCOS 013,Estructuras de Datos,O11,Rossainz - Lopez Mario,LCC,1CCO4,404,M,3,11:00:00,12:59:00,119,False
+25627,CCOS 013,Estructuras de Datos,O11,Rossainz - Lopez Mario,LCC,1CCO4,301,V,5,11:00:00,12:59:00,119,False
+25561,CCOS 013,Estructuras de Datos,OO2,Vera - Cervantes Eugenia Erica,LCC,1CCO1,001,L,1,07:00:00,07:59:00,59,False
+25561,CCOS 013,Estructuras de Datos,OO2,Vera - Cervantes Eugenia Erica,LCC,1CCO1,001,M,3,07:00:00,08:59:00,119,False
+25561,CCOS 013,Estructuras de Datos,OO2,Vera - Cervantes Eugenia Erica,LCC,1CCO4,403,V,5,07:00:00,08:59:00,119,False
+25565,CCOS 013,Estructuras de Datos,OO3,Santiago - Diaz Maria DEL Carmen,LCC,1CCO1,002,A,2,09:00:00,10:59:00,119,False
+25565,CCOS 013,Estructuras de Datos,OO3,Santiago - Diaz Maria DEL Carmen,LCC,1CCO3,109,J,4,09:00:00,10:59:00,119,False
+25565,CCOS 013,Estructuras de Datos,OO3,Santiago - Diaz Maria DEL Carmen,LCC,1CCO1,002,L,1,10:00:00,10:59:00,59,False
+25588,CCOS 013,Estructuras de Datos,OO5,Valdes - Amaro Daniel Alejandro,LCC,1CCO1,001,A,2,13:00:00,14:59:00,119,False
+25588,CCOS 013,Estructuras de Datos,OO5,Valdes - Amaro Daniel Alejandro,LCC,1CCO3,109,J,4,13:00:00,14:59:00,119,False
+25588,CCOS 013,Estructuras de Datos,OO5,Valdes - Amaro Daniel Alejandro,LCC,1CCO1,001,L,1,14:00:00,14:59:00,59,False
+25600,CCOS 013,Estructuras de Datos,OO7,Altamirano - Robles Luis Carlos,LCC,1CCO4,402,L,1,15:00:00,15:59:00,59,False
+25600,CCOS 013,Estructuras de Datos,OO7,Altamirano - Robles Luis Carlos,LCC,1CCO4,402,M,3,15:00:00,16:59:00,119,False
+25600,CCOS 013,Estructuras de Datos,OO7,Altamirano - Robles Luis Carlos,LCC,1CCO3,109,V,5,15:00:00,16:59:00,119,False
+25604,CCOS 013,Estructuras de Datos,OO8,Bello - Lopez Pedro,LCC,1CCO4,403,A,2,09:00:00,10:59:00,119,False
+25604,CCOS 013,Estructuras de Datos,OO8,Bello - Lopez Pedro,LCC,1CCO4,102,J,4,09:00:00,10:59:00,119,False
+25604,CCOS 013,Estructuras de Datos,OO8,Bello - Lopez Pedro,LCC,1CCO4,401,L,1,10:00:00,10:59:00,59,False
+25939,CCOS 255,Fund. de Lenguaje de Programac,OO1,Castillo - Avila Arlem Aleida,LCC,1CCO5,201,A,2,09:00:00,10:59:00,119,False
+25939,CCOS 255,Fund. de Lenguaje de Programac,OO1,Castillo - Avila Arlem Aleida,LCC,1CCO3,101,J,4,09:00:00,10:59:00,119,False
+25939,CCOS 255,Fund. de Lenguaje de Programac,OO1,Castillo - Avila Arlem Aleida,LCC,1CCO5,201,L,1,10:00:00,10:59:00,59,False
+25974,CCOS 255,Fund. de Lenguaje de Programac,OO2,Zacarias - Flores Fernando,LCC,1CCO4,308,L,1,13:00:00,13:59:00,59,False
+25974,CCOS 255,Fund. de Lenguaje de Programac,OO2,Zacarias - Flores Fernando,LCC,1CCO4,308,M,3,13:00:00,14:59:00,119,False
+25974,CCOS 255,Fund. de Lenguaje de Programac,OO2,Zacarias - Flores Fernando,LCC,1CCO4,203,V,5,13:00:00,14:59:00,119,False
+26226,CCOS 261,Graficacion,O1O,Altamirano - Robles Luis Carlos,LCC,1CCO2,208,A,2,15:00:00,16:59:00,119,False
+26226,CCOS 261,Graficacion,O1O,Altamirano - Robles Luis Carlos,LCC,1CCO4,402,J,4,15:00:00,16:59:00,119,False
+26226,CCOS 261,Graficacion,O1O,Altamirano - Robles Luis Carlos,LCC,1CCO2,208,L,1,16:00:00,16:59:00,59,False
+26137,CCOS 261,Graficacion,OO2,Valdes - Amaro Daniel Alejandro,LCC,1CCO5,201,L,1,13:00:00,13:59:00,59,False
+26137,CCOS 261,Graficacion,OO2,Valdes - Amaro Daniel Alejandro,LCC,1CCO3,101,M,3,13:00:00,14:59:00,119,False
+26137,CCOS 261,Graficacion,OO2,Valdes - Amaro Daniel Alejandro,LCC,1CCO5,201,V,5,13:00:00,14:59:00,119,False
+26142,CCOS 261,Graficacion,OO3,Orato - Ramirez Jose Martin,LCC,1CCO5,201,A,2,11:00:00,12:59:00,119,False
+26142,CCOS 261,Graficacion,OO3,Orato - Ramirez Jose Martin,LCC,1CCO3,104,J,4,11:00:00,12:59:00,119,False
+26142,CCOS 261,Graficacion,OO3,Orato - Ramirez Jose Martin,LCC,1CCO5,201,L,1,12:00:00,12:59:00,59,False
+26159,CCOS 261,Graficacion,OO4,Valdes - Amaro Daniel Alejandro,LCC,1CCO4,305,A,2,15:00:00,16:59:00,119,False
+26159,CCOS 261,Graficacion,OO4,Valdes - Amaro Daniel Alejandro,LCC,1CCO3,104,J,4,15:00:00,16:59:00,119,False
+26159,CCOS 261,Graficacion,OO4,Valdes - Amaro Daniel Alejandro,LCC,1CCO4,305,L,1,16:00:00,16:59:00,59,False
+26183,CCOS 261,Graficacion,OO6,Ayaquica - Martinez Irene Olaya,LCC,1CCO3,104,L,1,15:00:00,15:59:00,59,False
+26183,CCOS 261,Graficacion,OO6,Ayaquica - Martinez Irene Olaya,LCC,1CCO3,104,M,3,15:00:00,16:59:00,119,False
+26183,CCOS 261,Graficacion,OO6,Ayaquica - Martinez Irene Olaya,LCC,1CCO4,201,V,5,15:00:00,16:59:00,119,False
+26199,CCOS 261,Graficacion,OO7,Salazar - Martinez Hilario,LCC,1CCO3,109,L,1,17:00:00,17:59:00,59,False
+26199,CCOS 261,Graficacion,OO7,Salazar - Martinez Hilario,LCC,1CCO3,109,M,3,17:00:00,18:59:00,119,False
+26199,CCOS 261,Graficacion,OO7,Salazar - Martinez Hilario,LCC,1CCO4,203,V,5,17:00:00,18:59:00,119,False
+26492,ISCO 200,Ingenieria de Software,OO1,DE LA Rosa - Flores Rafael,LCC,1CCO1,001,A,2,07:00:00,08:59:00,119,False
+26492,ISCO 200,Ingenieria de Software,OO1,DE LA Rosa - Flores Rafael,LCC,1CCO1,001,J,4,07:00:00,08:59:00,119,False
+26492,ISCO 200,Ingenieria de Software,OO1,DE LA Rosa - Flores Rafael,LCC,1CCO1,001,L,1,08:00:00,08:59:00,59,False
+26497,ISCO 200,Ingenieria de Software,OO2,Martinez - Miron Erika Annabel,LCC,1CCO1,001,A,2,09:00:00,10:59:00,119,False
+26497,ISCO 200,Ingenieria de Software,OO2,Martinez - Miron Erika Annabel,LCC,1CCO1,001,J,4,09:00:00,10:59:00,119,False
+26497,ISCO 200,Ingenieria de Software,OO2,Martinez - Miron Erika Annabel,LCC,1CCO1,001,L,1,10:00:00,10:59:00,59,False
+26502,ISCO 200,Ingenieria de Software,OO3,Sanchez - Roman Guillermina,LCC,1CCO5,203,L,1,13:00:00,13:59:00,59,False
+26502,ISCO 200,Ingenieria de Software,OO3,Sanchez - Roman Guillermina,LCC,1CCO5,203,M,3,13:00:00,14:59:00,119,False
+26502,ISCO 200,Ingenieria de Software,OO3,Sanchez - Roman Guillermina,LCC,1CCO5,203,V,5,13:00:00,14:59:00,119,False
+26511,ISCO 200,Ingenieria de Software,OO4,Rodriguez - Bernal Fernando,LCC,1CCO5,203,A,2,15:00:00,16:59:00,119,False
+26511,ISCO 200,Ingenieria de Software,OO4,Rodriguez - Bernal Fernando,LCC,1CCO5,203,J,4,15:00:00,16:59:00,119,False
+26511,ISCO 200,Ingenieria de Software,OO4,Rodriguez - Bernal Fernando,LCC,1CCO5,203,L,1,16:00:00,16:59:00,59,False
+26516,ISCO 200,Ingenieria de Software,OO5,Rosales - Lopez Karina,LCC,1CCO1,001,L,1,13:00:00,13:59:00,59,False
+26516,ISCO 200,Ingenieria de Software,OO5,Rosales - Lopez Karina,LCC,1CCO1,005,M,3,13:00:00,14:59:00,119,False
+26516,ISCO 200,Ingenieria de Software,OO5,Rosales - Lopez Karina,LCC,1CCO2,208,V,5,13:00:00,14:59:00,119,False
+26522,ISCO 200,Ingenieria de Software,OO6,Rodriguez - Bernal Fernando,LCC,1CCO4,101,A,2,19:00:00,20:59:00,119,False
+26522,ISCO 200,Ingenieria de Software,OO6,Rodriguez - Bernal Fernando,LCC,1CCO4,101,J,4,19:00:00,20:59:00,119,False
+26522,ISCO 200,Ingenieria de Software,OO6,Rodriguez - Bernal Fernando,LCC,1CCO4,101,L,1,20:00:00,20:59:00,59,False
+26527,ISCO 200,Ingenieria de Software,OO7,Martinez - Miron Erika Annabel,LCC,1CCO4,303,L,1,09:00:00,09:59:00,59,False
+26527,ISCO 200,Ingenieria de Software,OO7,Martinez - Miron Erika Annabel,LCC,1CCO4,303,M,3,09:00:00,10:59:00,119,False
+26527,ISCO 200,Ingenieria de Software,OO7,Martinez - Miron Erika Annabel,LCC,1CCO4,303,V,5,09:00:00,10:59:00,119,False
+26337,CCOS 601,Ingenieria de Software Avanzad,OO1,Roman - Flores Alberto,LCC,1CCO5,202,A,2,15:00:00,16:59:00,119,False
+26337,CCOS 601,Ingenieria de Software Avanzad,OO1,Roman - Flores Alberto,LCC,1CCO2,208,J,4,15:00:00,16:59:00,119,False
+26337,CCOS 601,Ingenieria de Software Avanzad,OO1,Roman - Flores Alberto,LCC,1CCO3,101,L,1,16:00:00,16:59:00,59,False
+26027,CCOS 258,Inteligencia Artificial,OO1,Fuentes - Orozco Pablo,LCC,1CCO4,307,L,1,07:00:00,07:59:00,59,False
+26027,CCOS 258,Inteligencia Artificial,OO1,Fuentes - Orozco Pablo,LCC,1CCO4,307,M,3,07:00:00,08:59:00,119,False
+26027,CCOS 258,Inteligencia Artificial,OO1,Fuentes - Orozco Pablo,LCC,1CCO1,001,V,5,07:00:00,08:59:00,119,False
+26038,CCOS 258,Inteligencia Artificial,OO2,Bernabe - Loranca Maria Beatriz,LCC,1CCO4,404,A,2,13:00:00,14:59:00,119,False
+26038,CCOS 258,Inteligencia Artificial,OO2,Bernabe - Loranca Maria Beatriz,LCC,1CCO4,103,J,4,13:00:00,14:59:00,119,False
+26038,CCOS 258,Inteligencia Artificial,OO2,Bernabe - Loranca Maria Beatriz,LCC,1CCO4,404,L,1,14:00:00,14:59:00,59,False
+26377,CCOS 607,Interaccion Humano Computadora,OO1,Rivera - Martinez Marcela,LCC,1CCO4,103,L,1,09:00:00,09:59:00,59,False
+26377,CCOS 607,Interaccion Humano Computadora,OO1,Rivera - Martinez Marcela,LCC,1CCO3,114,M,3,09:00:00,10:59:00,119,False
+26377,CCOS 607,Interaccion Humano Computadora,OO1,Rivera - Martinez Marcela,LCC,1CCO1,004,V,5,09:00:00,10:59:00,119,False
+26384,CCOS 607,Interaccion Humano Computadora,OO2,Archundia - Sierra Etelvina,LCC,1CCO1,005,A,2,11:00:00,12:59:00,119,False
+26384,CCOS 607,Interaccion Humano Computadora,OO2,Archundia - Sierra Etelvina,LCC,1CCO3,109,J,4,11:00:00,12:59:00,119,False
+26384,CCOS 607,Interaccion Humano Computadora,OO2,Archundia - Sierra Etelvina,LCC,1CCO1,005,L,1,12:00:00,12:59:00,59,False
+25054,CCOS 607,Interaccion Humano Computadora,OO3,Ayaquica - Martinez Irene Olaya,LCC,1CCO2,208,L,1,17:00:00,17:59:00,59,False
+25054,CCOS 607,Interaccion Humano Computadora,OO3,Ayaquica - Martinez Irene Olaya,LCC,1CCO4,103,M,3,17:00:00,18:59:00,119,False
+25054,CCOS 607,Interaccion Humano Computadora,OO3,Ayaquica - Martinez Irene Olaya,LCC,1CCO2,208,V,5,17:00:00,18:59:00,119,False
+20016,FGUS 007,Lengua Extranjera IV,101,Chavez - Heredia Claudia,LCC,1CCO1,002,M,3,09:00:00,10:59:00,119,False
+20016,FGUS 007,Lengua Extranjera IV,101,Chavez - Heredia Claudia,LCC,1CCO4,102,V,5,09:00:00,10:59:00,119,False
+26429,FGUS 007,Lengua Extranjera IV,102,Chavez - Heredia Claudia,LCC,1CCO4,101,M,3,07:00:00,08:59:00,119,False
+26429,FGUS 007,Lengua Extranjera IV,102,Chavez - Heredia Claudia,LCC,1CCO4,101,V,5,07:00:00,08:59:00,119,False
+26434,FGUS 007,Lengua Extranjera IV,103,Diaz - Garcia Elvira Claudia,LCC,1CCO1,003,M,3,11:00:00,12:59:00,119,False
+26434,FGUS 007,Lengua Extranjera IV,103,Diaz - Garcia Elvira Claudia,LCC,1CCO1,005,V,5,11:00:00,12:59:00,119,False
+26437,FGUS 007,Lengua Extranjera IV,104,Salazar - Perez Sergio,LCC,1CCO1,005,A,2,15:00:00,16:59:00,119,False
+26437,FGUS 007,Lengua Extranjera IV,104,Salazar - Perez Sergio,LCC,1CCO1,005,J,4,15:00:00,16:59:00,119,False
+26441,FGUS 007,Lengua Extranjera IV,105,Bravo - Fuentes Maria DE Lourdes,LCC,1CCO4,401,A,2,13:00:00,14:59:00,119,False
+26441,FGUS 007,Lengua Extranjera IV,105,Bravo - Fuentes Maria DE Lourdes,LCC,1CCO4,401,J,4,13:00:00,14:59:00,119,False
+26443,FGUS 007,Lengua Extranjera IV,106,Hernandez - Mendoza Minerva,LCC,1CCO1,004,M,3,15:00:00,16:59:00,119,False
+26443,FGUS 007,Lengua Extranjera IV,106,Hernandez - Mendoza Minerva,LCC,1CCO1,004,V,5,15:00:00,16:59:00,119,False
+26457,FGUS 007,Lengua Extranjera IV,107,Chavez - Heredia Claudia,LCC,1CCO4,201,A,2,07:00:00,08:59:00,119,False
+26457,FGUS 007,Lengua Extranjera IV,107,Chavez - Heredia Claudia,LCC,1CCO4,201,J,4,07:00:00,08:59:00,119,False
+26461,FGUS 007,Lengua Extranjera IV,108,Cruz - Lopez Maria Silvia Concepcion,LCC,1CCO4,103,M,3,09:00:00,10:59:00,119,False
+26461,FGUS 007,Lengua Extranjera IV,108,Cruz - Lopez Maria Silvia Concepcion,LCC,1CCO4,103,V,5,09:00:00,10:59:00,119,False
+25635,CCOS 014,Lenguajes Formales y Automatas,OO1,Bautista - Ramos Cesar,LCC,1CCO3,114,A,2,13:00:00,14:59:00,119,False
+25635,CCOS 014,Lenguajes Formales y Automatas,OO1,Bautista - Ramos Cesar,LCC,1CCO5,202,J,4,13:00:00,14:59:00,119,False
+25635,CCOS 014,Lenguajes Formales y Automatas,OO1,Bautista - Ramos Cesar,LCC,1CCO3,114,L,1,14:00:00,14:59:00,59,False
+25659,CCOS 014,Lenguajes Formales y Automatas,OO2,Zepeda - Cortes Claudia,LCC,1CCO3,101,A,2,09:00:00,10:59:00,119,False
+25659,CCOS 014,Lenguajes Formales y Automatas,OO2,Zepeda - Cortes Claudia,LCC,1CCO5,202,J,4,09:00:00,10:59:00,119,False
+25659,CCOS 014,Lenguajes Formales y Automatas,OO2,Zepeda - Cortes Claudia,LCC,1CCO5,202,L,1,10:00:00,10:59:00,59,False
+24521,CCOS 012,Logica Matematica,OO1,Garcia - Juarez Pedro,LCC,1CCO4,101,L,1,13:00:00,13:59:00,59,False
+24521,CCOS 012,Logica Matematica,OO1,Garcia - Juarez Pedro,LCC,1CCO4,101,M,3,13:00:00,14:59:00,119,False
+24521,CCOS 012,Logica Matematica,OO1,Garcia - Juarez Pedro,LCC,1CCO4,101,V,5,13:00:00,14:59:00,119,False
+24522,CCOS 012,Logica Matematica,OO2,Zepeda - Cortes Claudia,LCC,1CCO4,102,L,1,11:00:00,11:59:00,59,False
+24522,CCOS 012,Logica Matematica,OO2,Zepeda - Cortes Claudia,LCC,1CCO4,102,M,3,11:00:00,12:59:00,119,False
+24522,CCOS 012,Logica Matematica,OO2,Zepeda - Cortes Claudia,LCC,1CCO4,102,V,5,11:00:00,12:59:00,119,False
+25873,ICCS 257,Mineria de Datos,OO1,Martinez - Guzman Gerardo,LCC,1CCO4,206,A,2,07:00:00,08:59:00,119,False
+25873,ICCS 257,Mineria de Datos,OO1,Martinez - Guzman Gerardo,LCC,1CCO4,206,J,4,07:00:00,08:59:00,119,False
+25873,ICCS 257,Mineria de Datos,OO1,Martinez - Guzman Gerardo,LCC,1CCO4,206,L,1,08:00:00,08:59:00,59,False
+25880,ICCS 257,Mineria de Datos,OO2,Acosta - Ruiz Samantha,LCC,1CCO1,004,L,1,09:00:00,09:59:00,59,False
+25880,ICCS 257,Mineria de Datos,OO2,Acosta - Ruiz Samantha,LCC,1CCO1,004,M,3,09:00:00,10:59:00,119,False
+25880,ICCS 257,Mineria de Datos,OO2,Acosta - Ruiz Samantha,LCC,1CCO2,207,V,5,09:00:00,10:59:00,119,False
+25886,ICCS 257,Mineria de Datos,OO3,Ayaquica - Martinez Irene Olaya,LCC,1CCO2,207,A,2,17:00:00,18:59:00,119,False
+25886,ICCS 257,Mineria de Datos,OO3,Ayaquica - Martinez Irene Olaya,LCC,1CCO2,207,J,4,17:00:00,18:59:00,119,False
+25886,ICCS 257,Mineria de Datos,OO3,Ayaquica - Martinez Irene Olaya,LCC,1CCO2,207,L,1,18:00:00,18:59:00,59,False
+26045,ICCS 257,Mineria de Datos,OO4,Beltran - Martinez Beatriz,LCC,1CCO2,208,L,1,11:00:00,11:59:00,59,False
+26045,ICCS 257,Mineria de Datos,OO4,Beltran - Martinez Beatriz,LCC,1CCO2,208,M,3,11:00:00,12:59:00,119,False
+26045,ICCS 257,Mineria de Datos,OO4,Beltran - Martinez Beatriz,LCC,1CCO2,208,V,5,11:00:00,12:59:00,119,False
+26049,ICCS 257,Mineria de Datos,OO5,Melendez - Teodoro Augusto,LCC,1CCO2,208,L,1,07:00:00,07:59:00,59,False
+26049,ICCS 257,Mineria de Datos,OO5,Melendez - Teodoro Augusto,LCC,1CCO2,208,M,3,07:00:00,08:59:00,119,False
+26049,ICCS 257,Mineria de Datos,OO5,Melendez - Teodoro Augusto,LCC,1CCO1,005,V,5,07:00:00,08:59:00,119,False
+26056,ICCS 257,Mineria de Datos,OO6,Melendez - Teodoro Augusto,LCC,1CCO4,203,A,2,09:00:00,10:59:00,119,False
+26056,ICCS 257,Mineria de Datos,OO6,Melendez - Teodoro Augusto,LCC,1CCO3,114,J,4,09:00:00,10:59:00,119,False
+26056,ICCS 257,Mineria de Datos,OO6,Melendez - Teodoro Augusto,LCC,1CCO4,203,L,1,10:00:00,10:59:00,59,False
+26059,ICCS 257,Mineria de Datos,OO7,Sanchez - Lopez Abraham,LCC,1CCO2,208,A,2,07:00:00,08:59:00,119,False
+26059,ICCS 257,Mineria de Datos,OO7,Sanchez - Lopez Abraham,LCC,1CCO2,208,J,4,07:00:00,08:59:00,119,False
+26059,ICCS 257,Mineria de Datos,OO7,Sanchez - Lopez Abraham,LCC,1CCO2,208,L,1,08:00:00,08:59:00,59,False
+25764,CCOS 251,Probabilidad y Estadistica,OO1,Contreras - Juarez Roberto,LCC,1CCO4,305,L,1,09:00:00,09:59:00,59,False
+25764,CCOS 251,Probabilidad y Estadistica,OO1,Contreras - Juarez Roberto,LCC,1CCO4,305,M,3,09:00:00,10:59:00,119,False
+25764,CCOS 251,Probabilidad y Estadistica,OO1,Contreras - Juarez Roberto,LCC,1CCO4,305,V,5,09:00:00,10:59:00,119,False
+25769,CCOS 251,Probabilidad y Estadistica,OO2,Palomino - Jimenez Carlos,LCC,1CCO4,305,L,1,13:00:00,13:59:00,59,False
+25769,CCOS 251,Probabilidad y Estadistica,OO2,Palomino - Jimenez Carlos,LCC,1CCO4,305,M,3,13:00:00,14:59:00,119,False
+25769,CCOS 251,Probabilidad y Estadistica,OO2,Palomino - Jimenez Carlos,LCC,1CCO4,305,V,5,13:00:00,14:59:00,119,False
+25777,CCOS 251,Probabilidad y Estadistica,OO4,Garcia - Juarez Pedro,LCC,1CCO4,201,A,2,09:00:00,10:59:00,119,False
+25777,CCOS 251,Probabilidad y Estadistica,OO4,Garcia - Juarez Pedro,LCC,1CCO4,201,J,4,09:00:00,10:59:00,119,False
+25777,CCOS 251,Probabilidad y Estadistica,OO4,Garcia - Juarez Pedro,LCC,1CCO4,201,L,1,10:00:00,10:59:00,59,False
+25782,CCOS 251,Probabilidad y Estadistica,OO5,Dawe - Gonzalez Arturo Alejandro,LCC,1CCO5,201,A,2,07:00:00,08:59:00,119,False
+25782,CCOS 251,Probabilidad y Estadistica,OO5,Dawe - Gonzalez Arturo Alejandro,LCC,1CCO5,201,J,4,07:00:00,08:59:00,119,False
+25782,CCOS 251,Probabilidad y Estadistica,OO5,Dawe - Gonzalez Arturo Alejandro,LCC,1CCO5,201,L,1,08:00:00,08:59:00,59,False
+25808,CCOS 251,Probabilidad y Estadistica,OO9,Romero - Tehuitzil Olivia,LCC,1CCO4,301,L,1,07:00:00,07:59:00,59,False
+25808,CCOS 251,Probabilidad y Estadistica,OO9,Romero - Tehuitzil Olivia,LCC,1CCO4,301,M,3,07:00:00,08:59:00,119,False
+25808,CCOS 251,Probabilidad y Estadistica,OO9,Romero - Tehuitzil Olivia,LCC,1CCO4,301,V,5,07:00:00,08:59:00,119,False
+25065,CCOS 608,Proces.Digital de Imagenes,OO1,Marcial - Castillo Luis Rene,LCC,1CCO4,101,L,1,09:00:00,09:59:00,59,False
+25065,CCOS 608,Proces.Digital de Imagenes,OO1,Marcial - Castillo Luis Rene,LCC,1CCO4,101,M,3,09:00:00,10:59:00,119,False
+25065,CCOS 608,Proces.Digital de Imagenes,OO1,Marcial - Castillo Luis Rene,LCC,1CCO4,101,V,5,09:00:00,10:59:00,119,False
+25071,CCOS 608,Proces.Digital de Imagenes,OO2,Orato - Ramirez Jose Martin,LCC,1CCO4,203,L,1,11:00:00,11:59:00,59,False
+25071,CCOS 608,Proces.Digital de Imagenes,OO2,Orato - Ramirez Jose Martin,LCC,1CCO1,004,M,3,11:00:00,12:59:00,119,False
+25071,CCOS 608,Proces.Digital de Imagenes,OO2,Orato - Ramirez Jose Martin,LCC,1CCO3,101,V,5,11:00:00,12:59:00,119,False
+25079,CCOS 608,Proces.Digital de Imagenes,OO3,Salazar - Martinez Hilario,LCC,1CCO3,101,A,2,17:00:00,18:59:00,119,False
+25079,CCOS 608,Proces.Digital de Imagenes,OO3,Salazar - Martinez Hilario,LCC,1CCO4,201,J,4,17:00:00,18:59:00,119,False
+25079,CCOS 608,Proces.Digital de Imagenes,OO3,Salazar - Martinez Hilario,LCC,1CCO4,201,L,1,18:00:00,18:59:00,59,False
+25088,CCOS 608,Proces.Digital de Imagenes,OO4,Olmos - Pineda Ivan,LCC,1CCO4,307,A,2,07:00:00,08:59:00,119,False
+25088,CCOS 608,Proces.Digital de Imagenes,OO4,Olmos - Pineda Ivan,LCC,1CCO4,203,J,4,07:00:00,08:59:00,119,False
+25088,CCOS 608,Proces.Digital de Imagenes,OO4,Olmos - Pineda Ivan,LCC,1CCO4,307,L,1,08:00:00,08:59:00,59,False
+25096,CCOS 608,Proces.Digital de Imagenes,OO5,Olvera - Lopez Jose Arturo,LCC,1CCO4,304,A,2,09:00:00,10:59:00,119,False
+25096,CCOS 608,Proces.Digital de Imagenes,OO5,Olvera - Lopez Jose Arturo,LCC,1CCO4,403,J,4,09:00:00,10:59:00,119,False
+25096,CCOS 608,Proces.Digital de Imagenes,OO5,Olvera - Lopez Jose Arturo,LCC,1CCO4,403,L,1,10:00:00,10:59:00,59,False
+25143,CCOS 613,Prog. de Dispositivos Moviles,OO1,Vargas - Lomeli Miguel Angel,LCC,1CCO3,109,L,1,09:00:00,09:59:00,59,False
+25143,CCOS 613,Prog. de Dispositivos Moviles,OO1,Vargas - Lomeli Miguel Angel,LCC,1CCO3,109,M,3,09:00:00,10:59:00,119,False
+25143,CCOS 613,Prog. de Dispositivos Moviles,OO1,Vargas - Lomeli Miguel Angel,LCC,1CCO5,203,V,5,09:00:00,10:59:00,119,False
+25155,CCOS 613,Prog. de Dispositivos Moviles,OO2,Montalvo - Montalvo Nancy,LCC,1CCO4,303,A,2,19:00:00,20:59:00,119,False
+25155,CCOS 613,Prog. de Dispositivos Moviles,OO2,Montalvo - Montalvo Nancy,LCC,1CCO4,303,J,4,19:00:00,20:59:00,119,False
+25155,CCOS 613,Prog. de Dispositivos Moviles,OO2,Montalvo - Montalvo Nancy,LCC,1CCO4,303,L,1,20:00:00,20:59:00,59,False
+25876,CCOS 253,Progra. Concurrente y Paralela,OO1,Colmenares - Guillen Luis Enrique,LCC,1CCO5,203,L,1,09:00:00,09:59:00,59,False
+25876,CCOS 253,Progra. Concurrente y Paralela,OO1,Colmenares - Guillen Luis Enrique,LCC,1CCO5,203,M,3,09:00:00,10:59:00,119,False
+25876,CCOS 253,Progra. Concurrente y Paralela,OO1,Colmenares - Guillen Luis Enrique,LCC,1CCO3,109,V,5,09:00:00,10:59:00,119,False
+25884,CCOS 253,Progra. Concurrente y Paralela,OO2,Roman - Flores Alberto,LCC,1CCO4,104,A,2,13:00:00,14:59:00,119,False
+25884,CCOS 253,Progra. Concurrente y Paralela,OO2,Roman - Flores Alberto,LCC,1CCO3,101,J,4,13:00:00,14:59:00,119,False
+25884,CCOS 253,Progra. Concurrente y Paralela,OO2,Roman - Flores Alberto,LCC,1CCO4,104,L,1,14:00:00,14:59:00,59,False
+25892,CCOS 253,Progra. Concurrente y Paralela,OO3,Tovar - Vidal Mireya,LCC,1CCO3,101,L,1,11:00:00,11:59:00,59,False
+25892,CCOS 253,Progra. Concurrente y Paralela,OO3,Tovar - Vidal Mireya,LCC,1CCO3,101,M,3,11:00:00,12:59:00,119,False
+25892,CCOS 253,Progra. Concurrente y Paralela,OO3,Tovar - Vidal Mireya,LCC,1CCO3,114,V,5,11:00:00,12:59:00,119,False
+42761,CCOS 615,Programacion de Videojuegos,OO1,Regino - Medina Luis Filiberto,LCC,1CCO4,103,L,1,11:00:00,11:59:00,59,False
+42761,CCOS 615,Programacion de Videojuegos,OO1,Regino - Medina Luis Filiberto,LCC,1CCO4,103,M,3,11:00:00,12:59:00,119,False
+42761,CCOS 615,Programacion de Videojuegos,OO1,Regino - Medina Luis Filiberto,LCC,1CCO3,109,V,5,11:00:00,12:59:00,119,False
+25981,CCOS 256,Programacion Distribuida,OO1,Roman - Flores Alberto,LCC,1CCO4,306,L,1,13:00:00,13:59:00,59,False
+25981,CCOS 256,Programacion Distribuida,OO1,Roman - Flores Alberto,LCC,1CCO4,306,M,3,13:00:00,14:59:00,119,False
+25981,CCOS 256,Programacion Distribuida,OO1,Roman - Flores Alberto,LCC,1CCO4,306,V,5,13:00:00,14:59:00,119,False
+25992,CCOS 256,Programacion Distribuida,OO2,Orato - Ramirez Jose Martin,LCC,1CCO4,401,L,1,09:00:00,09:59:00,59,False
+25992,CCOS 256,Programacion Distribuida,OO2,Orato - Ramirez Jose Martin,LCC,1CCO4,401,M,3,09:00:00,10:59:00,119,False
+25992,CCOS 256,Programacion Distribuida,OO2,Orato - Ramirez Jose Martin,LCC,1CCO4,206,V,5,09:00:00,10:59:00,119,False
+25998,CCOS 256,Programacion Distribuida,OO3,Larios - Gomez Mariano,LCC,1CCO1,005,L,1,15:00:00,15:59:00,59,False
+25998,CCOS 256,Programacion Distribuida,OO3,Larios - Gomez Mariano,LCC,1CCO4,308,M,3,15:00:00,16:59:00,119,False
+25998,CCOS 256,Programacion Distribuida,OO3,Larios - Gomez Mariano,LCC,1CCO1,005,V,5,15:00:00,16:59:00,119,False
+40210,CCOS 256,Programacion Distribuida,OO4,Mendoza - Olguin Gustavo Emilio,LCC,1CCO3,114,A,2,11:00:00,12:59:00,119,False
+40210,CCOS 256,Programacion Distribuida,OO4,Mendoza - Olguin Gustavo Emilio,LCC,1CCO4,102,J,4,11:00:00,12:59:00,119,False
+40210,CCOS 256,Programacion Distribuida,OO4,Mendoza - Olguin Gustavo Emilio,LCC,1CCO4,308,L,1,12:00:00,12:59:00,59,False
+26133,IDDS 002,Proyectos I + D I,101,Romero - Valdez Maria DEL Carmen,LCC,1CCO4,102,A,2,07:00:00,08:59:00,119,False
+26133,IDDS 002,Proyectos I + D I,101,Romero - Valdez Maria DEL Carmen,LCC,1CCO4,102,J,4,07:00:00,08:59:00,119,False
+26140,IDDS 002,Proyectos I + D I,102,Perez DE Celis - Herrero Maria DE LA Concepcion,LCC,1CCO4,101,A,2,09:00:00,10:59:00,119,False
+26140,IDDS 002,Proyectos I + D I,102,Perez DE Celis - Herrero Maria DE LA Concepcion,LCC,1CCO4,101,J,4,09:00:00,10:59:00,119,False
+26147,IDDS 002,Proyectos I + D I,103,Santiago - Diaz Maria DEL Carmen,LCC,1CCO5,203,A,2,13:00:00,14:59:00,119,False
+26147,IDDS 002,Proyectos I + D I,103,Santiago - Diaz Maria DEL Carmen,LCC,1CCO5,203,J,4,13:00:00,14:59:00,119,False
+26149,IDDS 002,Proyectos I + D I,104,Acosta - Ruiz Samantha,LCC,1CCO4,204,M,3,13:00:00,14:59:00,119,False
+26149,IDDS 002,Proyectos I + D I,104,Acosta - Ruiz Samantha,LCC,1CCO4,204,V,5,13:00:00,14:59:00,119,False
+26156,IDDS 002,Proyectos I + D I,105,Archundia - Sierra Etelvina,LCC,1CCO4,303,A,2,13:00:00,14:59:00,119,False
+26156,IDDS 002,Proyectos I + D I,105,Archundia - Sierra Etelvina,LCC,1CCO4,303,J,4,13:00:00,14:59:00,119,False
+26162,IDDS 002,Proyectos I + D I,106,Carrillo - Ruiz Maya,LCC,1CCO4,103,A,2,17:00:00,18:59:00,119,False
+26162,IDDS 002,Proyectos I + D I,106,Carrillo - Ruiz Maya,LCC,1CCO4,103,J,4,17:00:00,18:59:00,119,False
+26170,IDDS 002,Proyectos I + D I,107,Rosales - Lopez Karina,LCC,1CCO4,401,M,3,15:00:00,16:59:00,119,False
+26170,IDDS 002,Proyectos I + D I,107,Rosales - Lopez Karina,LCC,1CCO4,401,V,5,15:00:00,16:59:00,119,False
+26292,CCOS 264,Recuperacion de la Informacion,OO1,Carrillo - Ruiz Maya,LCC,1CCO3,114,A,2,15:00:00,16:59:00,119,False
+26292,CCOS 264,Recuperacion de la Informacion,OO1,Carrillo - Ruiz Maya,LCC,1CCO4,201,J,4,15:00:00,16:59:00,119,False
+26292,CCOS 264,Recuperacion de la Informacion,OO1,Carrillo - Ruiz Maya,LCC,1CCO3,104,L,1,16:00:00,16:59:00,59,False
+26303,CCOS 264,Recuperacion de la Informacion,OO2,Tecuanhuehue - Vera Pedro,LCC,1CCO4,103,L,1,15:00:00,15:59:00,59,False
+26303,CCOS 264,Recuperacion de la Informacion,OO2,Tecuanhuehue - Vera Pedro,LCC,1CCO4,103,M,3,15:00:00,16:59:00,119,False
+26303,CCOS 264,Recuperacion de la Informacion,OO2,Tecuanhuehue - Vera Pedro,LCC,1CCO4,308,V,5,15:00:00,16:59:00,119,False
+26315,CCOS 264,Recuperacion de la Informacion,OO3,Sanchez - Lopez Abraham,LCC,1CCO5,202,A,2,13:00:00,14:59:00,119,False
+26315,CCOS 264,Recuperacion de la Informacion,OO3,Sanchez - Lopez Abraham,LCC,1CCO4,308,J,4,13:00:00,14:59:00,119,False
+26315,CCOS 264,Recuperacion de la Informacion,OO3,Sanchez - Lopez Abraham,LCC,1CCO5,202,L,1,14:00:00,14:59:00,59,False
+26324,CCOS 264,Recuperacion de la Informacion,OO4,Perez - Lucero Josue,LCC,1CCO4,103,A,2,19:00:00,20:59:00,119,False
+26324,CCOS 264,Recuperacion de la Informacion,OO4,Perez - Lucero Josue,LCC,1CCO4,103,J,4,19:00:00,20:59:00,119,False
+26324,CCOS 264,Recuperacion de la Informacion,OO4,Perez - Lucero Josue,LCC,1CCO4,103,L,1,20:00:00,20:59:00,59,False
+42759,CCOS 603,Redes Avanzadas,OO1,Andrade - Gonzalez Alfonso,LCC,1CCO3,301,A,2,09:00:00,10:59:00,119,False
+42759,CCOS 603,Redes Avanzadas,OO1,Andrade - Gonzalez Alfonso,LCC,1CCO3,301,J,4,09:00:00,10:59:00,119,False
+42759,CCOS 603,Redes Avanzadas,OO1,Andrade - Gonzalez Alfonso,LCC,1CCO3,301,L,1,10:00:00,10:59:00,59,False
+26077,CCOS 260,Redes de Computadoras,OO1,Leon - Chavez Miguel Angel,LCC,1CCO4,305,A,2,09:00:00,10:59:00,119,False
+26077,CCOS 260,Redes de Computadoras,OO1,Leon - Chavez Miguel Angel,LCC,1CCO3,303,J,4,09:00:00,10:59:00,119,False
+26077,CCOS 260,Redes de Computadoras,OO1,Leon - Chavez Miguel Angel,LCC,1CCO4,305,L,1,10:00:00,10:59:00,59,False
+26086,CCOS 260,Redes de Computadoras,OO2,Ramirez - Espitia Carlos Mauricio,LCC,1CCO4,402,A,2,07:00:00,08:59:00,119,False
+26086,CCOS 260,Redes de Computadoras,OO2,Ramirez - Espitia Carlos Mauricio,LCC,1CCO3,303,J,4,07:00:00,08:59:00,119,False
+26086,CCOS 260,Redes de Computadoras,OO2,Ramirez - Espitia Carlos Mauricio,LCC,1CCO4,402,L,1,08:00:00,08:59:00,59,False
+26285,CCOS 263,Seguridad en Redes,OO1,Soriano - Rosas Jose Isabel,LCC,1CCO4,304,A,2,15:00:00,16:59:00,119,False
+26285,CCOS 263,Seguridad en Redes,OO1,Soriano - Rosas Jose Isabel,LCC,1CCO3,302,J,4,15:00:00,16:59:00,119,False
+26285,CCOS 263,Seguridad en Redes,OO1,Soriano - Rosas Jose Isabel,LCC,1CCO3,302,L,1,16:00:00,16:59:00,59,False
+42743,CCOS 263,Seguridad en Redes,OO2,Rodriguez - Perez Fernando,LCC,1CCO3,303,L,1,19:00:00,19:59:00,59,False
+42743,CCOS 263,Seguridad en Redes,OO2,Rodriguez - Perez Fernando,LCC,1CCO3,303,M,3,19:00:00,20:59:00,119,False
+42743,CCOS 263,Seguridad en Redes,OO2,Rodriguez - Perez Fernando,LCC,1CCO3,303,V,5,19:00:00,20:59:00,119,False
+25813,CCOS 252,Sistemas Operativos I,OO1,DE LA Rosa - Flores Rafael,LCC,1CCO1,002,L,1,07:00:00,07:59:00,59,False
+25813,CCOS 252,Sistemas Operativos I,OO1,DE LA Rosa - Flores Rafael,LCC,1CCO3,109,M,3,07:00:00,08:59:00,119,False
+25813,CCOS 252,Sistemas Operativos I,OO1,DE LA Rosa - Flores Rafael,LCC,1CCO1,002,V,5,07:00:00,08:59:00,119,False
+25825,CCOS 252,Sistemas Operativos I,OO2,Gonzalez - Flores Marcos,LCC,1CCO1,002,A,2,11:00:00,12:59:00,119,False
+25825,CCOS 252,Sistemas Operativos I,OO2,Gonzalez - Flores Marcos,LCC,1CCO3,101,J,4,11:00:00,12:59:00,119,False
+25825,CCOS 252,Sistemas Operativos I,OO2,Gonzalez - Flores Marcos,LCC,1CCO1,002,L,1,12:00:00,12:59:00,59,False
+25830,CCOS 252,Sistemas Operativos I,OO3,Colmenares - Guillen Luis Enrique,LCC,1CCO1,003,L,1,13:00:00,13:59:00,59,False
+25830,CCOS 252,Sistemas Operativos I,OO3,Colmenares - Guillen Luis Enrique,LCC,1CCO1,003,M,3,13:00:00,14:59:00,119,False
+25830,CCOS 252,Sistemas Operativos I,OO3,Colmenares - Guillen Luis Enrique,LCC,1CCO3,109,V,5,13:00:00,14:59:00,119,False
+25836,CCOS 252,Sistemas Operativos I,OO4,Vargas - Lomeli Miguel Angel,LCC,1CCO1,003,L,1,15:00:00,15:59:00,59,False
+25836,CCOS 252,Sistemas Operativos I,OO4,Vargas - Lomeli Miguel Angel,LCC,1CCO3,109,M,3,15:00:00,16:59:00,119,False
+25836,CCOS 252,Sistemas Operativos I,OO4,Vargas - Lomeli Miguel Angel,LCC,1CCO1,003,V,5,15:00:00,16:59:00,119,False
+25852,CCOS 252,Sistemas Operativos I,OO6,Perez - Lucero Josue,LCC,1CCO4,404,L,1,17:00:00,17:59:00,59,False
+25852,CCOS 252,Sistemas Operativos I,OO6,Perez - Lucero Josue,LCC,1CCO1,004,M,3,17:00:00,18:59:00,119,False
+25852,CCOS 252,Sistemas Operativos I,OO6,Perez - Lucero Josue,LCC,1CCO4,404,V,5,17:00:00,18:59:00,119,False
+25861,CCOS 252,Sistemas Operativos I,OO7,Orato - Ramirez Jose Martin,LCC,1CCO4,301,A,2,13:00:00,14:59:00,119,False
+25861,CCOS 252,Sistemas Operativos I,OO7,Orato - Ramirez Jose Martin,LCC,1CCO4,301,J,4,13:00:00,14:59:00,119,False
+25861,CCOS 252,Sistemas Operativos I,OO7,Orato - Ramirez Jose Martin,LCC,1CCO4,301,L,1,14:00:00,14:59:00,59,False
+25910,CCOS 254,Sistemas Operativos II,OO1,Aguilar - Rico Adolfo,LCC,1CCO1,005,L,1,07:00:00,07:59:00,59,False
+25910,CCOS 254,Sistemas Operativos II,OO1,Aguilar - Rico Adolfo,LCC,1CCO1,005,M,3,07:00:00,08:59:00,119,False
+25910,CCOS 254,Sistemas Operativos II,OO1,Aguilar - Rico Adolfo,LCC,1CCO4,307,V,5,07:00:00,08:59:00,119,False
+25914,CCOS 254,Sistemas Operativos II,OO2,Colmenares - Guillen Luis Enrique,LCC,1CCO3,109,A,2,09:00:00,10:59:00,119,False
+25914,CCOS 254,Sistemas Operativos II,OO2,Colmenares - Guillen Luis Enrique,LCC,1CCO1,005,J,4,09:00:00,10:59:00,119,False
+25914,CCOS 254,Sistemas Operativos II,OO2,Colmenares - Guillen Luis Enrique,LCC,1CCO1,005,L,1,10:00:00,10:59:00,59,False
+25921,CCOS 254,Sistemas Operativos II,OO3,Castillo - Zacatelco Hilda,LCC,1CCO1,005,L,1,13:00:00,13:59:00,59,False
+25921,CCOS 254,Sistemas Operativos II,OO3,Castillo - Zacatelco Hilda,LCC,1CCO3,109,M,3,13:00:00,14:59:00,119,False
+25921,CCOS 254,Sistemas Operativos II,OO3,Castillo - Zacatelco Hilda,LCC,1CCO1,005,V,5,13:00:00,14:59:00,119,False
+25923,CCOS 254,Sistemas Operativos II,OO4,Perez - Lucero Josue,LCC,1CCO3,114,A,2,17:00:00,18:59:00,119,False
+25923,CCOS 254,Sistemas Operativos II,OO4,Perez - Lucero Josue,LCC,1CCO4,101,J,4,17:00:00,18:59:00,119,False
+25923,CCOS 254,Sistemas Operativos II,OO4,Perez - Lucero Josue,LCC,1CCO4,101,L,1,18:00:00,18:59:00,59,False
+25927,CCOS 254,Sistemas Operativos II,OO5,Ceron - Garnica Carmen,LCC,1CCO1,004,A,2,15:00:00,16:59:00,119,False
+25927,CCOS 254,Sistemas Operativos II,OO5,Ceron - Garnica Carmen,LCC,1CCO4,307,J,4,15:00:00,16:59:00,119,False
+25927,CCOS 254,Sistemas Operativos II,OO5,Ceron - Garnica Carmen,LCC,1CCO1,004,L,1,16:00:00,16:59:00,59,False
+25937,CCOS 254,Sistemas Operativos II,OO7,Bautista - Lopez Veronica Edith,LCC,1CCO4,308,L,1,09:00:00,09:59:00,59,False
+25937,CCOS 254,Sistemas Operativos II,OO7,Bautista - Lopez Veronica Edith,LCC,1CCO4,308,M,3,09:00:00,10:59:00,119,False
+25937,CCOS 254,Sistemas Operativos II,OO7,Bautista - Lopez Veronica Edith,LCC,1CCO1,005,V,5,09:00:00,10:59:00,119,False
+26333,CCOS 600,Web Semantica,OO1,Tovar - Vidal Mireya,LCC,1CCO4,104,L,1,09:00:00,09:59:00,59,False
+26333,CCOS 600,Web Semantica,OO1,Tovar - Vidal Mireya,LCC,1CCO4,104,M,3,09:00:00,10:59:00,119,False
+26333,CCOS 600,Web Semantica,OO1,Tovar - Vidal Mireya,LCC,1CCO3,114,V,5,09:00:00,10:59:00,119,False
