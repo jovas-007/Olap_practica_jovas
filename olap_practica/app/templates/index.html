@@ -1,0 +1,128 @@
+{% extends 'base.html' %}
+{% block title %}Consultas OLAP{% endblock %}
+{% block content %}
+<section class="card">
+    <h1>Consultas sobre horarios</h1>
+    <form action="{{ url_for('web.run_query') }}" method="post" id="query-form">
+        <label for="operation">Operación</label>
+        <select name="operation" id="operation" required>
+            <option value="horario_docente">Horario semanal de un docente</option>
+            <option value="docentes_por_materia">Docentes que imparten una materia</option>
+            <option value="docentes_en_edificio">Docentes en un edificio a una hora</option>
+        </select>
+        <div class="field" data-operation="horario_docente">
+            <label for="docente">Docente</label>
+            <input type="text" name="docente" id="docente" placeholder="Ej. Pérez" required>
+        </div>
+        <div class="field" data-operation="docentes_por_materia">
+            <label for="clave">Clave</label>
+            <input type="text" name="clave" id="clave" placeholder="Ej. MAT101">
+        </div>
+        <div class="field" data-operation="docentes_por_materia">
+            <label for="texto">Texto en nombre</label>
+            <input type="text" name="texto" id="texto" placeholder="Ej. Cálculo">
+            <small>Se prioriza la clave si se proporciona.</small>
+        </div>
+        <div class="field" data-operation="docentes_en_edificio">
+            <label for="edificio">Edificio</label>
+            <input type="text" name="edificio" id="edificio" placeholder="Ej. 1CCO4">
+        </div>
+        <div class="field" data-operation="docentes_en_edificio">
+            <label for="hora">Hora</label>
+            <input type="time" name="hora" id="hora" step="900" value="09:00">
+        </div>
+        <div class="field checkbox" data-operation="docentes_en_edificio">
+            <label>
+                <input type="checkbox" name="usar_slots"> Usar tabla de slots (si está disponible)
+            </label>
+        </div>
+        <button type="submit">Ejecutar consulta</button>
+    </form>
+</section>
+<section class="card info-section">
+    <h2>Explora el cubo OLAP</h2>
+    <p>
+        Las siguientes secciones describen los componentes cargados por la ETL. Úsalas como guía para
+        navegar por las tablas dimensionales, las vistas agregadas y los datos crudos disponibles
+        en el repositorio.
+    </p>
+    <div class="preview-actions">
+        <div class="preview-group">
+            <h3>Cubo completo</h3>
+            <a class="btn" href="{{ url_for('web.preview', target='fact_clase') }}">Ver fact_clase</a>
+        </div>
+        <div class="preview-group">
+            <h3>Vistas OLAP</h3>
+            <a class="btn" href="{{ url_for('web.preview', target='fact_clase_slot') }}">Ver fact_clase_slot</a>
+        </div>
+        <div class="preview-group">
+            <h3>Dimensiones</h3>
+            <div class="btn-group">
+                <a class="btn" href="{{ url_for('web.preview', target='dim_docente') }}">dim_docente</a>
+                <a class="btn" href="{{ url_for('web.preview', target='dim_asignatura') }}">dim_asignatura</a>
+                <a class="btn" href="{{ url_for('web.preview', target='dim_grupo') }}">dim_grupo</a>
+                <a class="btn" href="{{ url_for('web.preview', target='dim_tiempo') }}">dim_tiempo</a>
+                <a class="btn" href="{{ url_for('web.preview', target='dim_espacio') }}">dim_espacio</a>
+            </div>
+        </div>
+        <div class="preview-group">
+            <h3>Datos crudos</h3>
+            <div class="btn-group">
+                <a class="btn" href="{{ url_for('web.preview', target='staging') }}">staging.csv</a>
+                <a class="btn" href="{{ url_for('web.preview', target='fact_ready') }}">fact_ready.csv</a>
+            </div>
+        </div>
+    </div>
+    <div class="info-grid">
+        <article>
+            <h3>Tablas base del cubo</h3>
+            <ul>
+                <li><strong>dim_docente</strong>: catálogo de profesores normalizados.</li>
+                <li><strong>dim_asignatura</strong>: claves y nombres de materias por programa.</li>
+                <li><strong>dim_grupo</strong>: NRC, sección y bandera de cursos cruzados.</li>
+                <li><strong>dim_tiempo</strong>: códigos de día y orden cronológico.</li>
+                <li><strong>dim_espacio</strong>: edificios y salones disponibles.</li>
+                <li><strong>fact_clase</strong>: hechos de clase con periodo, plan y horario.</li>
+            </ul>
+            <p class="mini-note">Consulta los DDL completos en <code>data/dw/schema_mysql.sql</code> o <code>data/dw/schema_postgres.sql</code>.</p>
+        </article>
+        <article>
+            <h3>Vistas y consultas analíticas</h3>
+            <ul>
+                <li><strong>fact_clase_slot</strong>: vista opcional de slots de 60 minutos (archivo <code>data/dw/views.sql</code>).</li>
+                <li><strong>Consultas OLAP</strong>: definidas en <code>data/dw/queries.sql</code> para docente, materia y edificio.</li>
+                <li><strong>Índices</strong>: scripts en <code>data/dw/indexes.sql</code> optimizan búsquedas por docente y espacio.</li>
+            </ul>
+            <p class="mini-note">Aplica las vistas después del esquema para habilitar la opción de slots desde el formulario.</p>
+        </article>
+        <article>
+            <h3>Datos crudos y etapas de depuración</h3>
+            <ul>
+                <li><strong>data/raw/</strong>: PDFs originales extraídos desde Servicios Escolares.</li>
+                <li><strong>data/staging/staging.csv</strong>: resultado directo del extractor.</li>
+                <li><strong>data/staging/fact_ready.csv</strong>: dataset listo para carga en el DW.</li>
+            </ul>
+            <p class="mini-note">Estos archivos permiten auditar la limpieza (por ejemplo, profesores normalizados y horarios divididos por día).</p>
+        </article>
+    </div>
+</section>
+<script>
+const form = document.getElementById('query-form');
+const fields = document.querySelectorAll('.field');
+const operationSelect = document.getElementById('operation');
+
+function updateVisibility() {
+    const op = operationSelect.value;
+    fields.forEach(field => {
+        if (field.dataset.operation === op) {
+            field.style.display = 'block';
+        } else {
+            field.style.display = 'none';
+        }
+    });
+}
+
+operationSelect.addEventListener('change', updateVisibility);
+updateVisibility();
+</script>
+{% endblock %}
