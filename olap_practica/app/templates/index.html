@@ -31,9 +31,6 @@
             <input type="text" name="edificio" id="edificio" placeholder="Ej. 1CCO4 o 1CCO4/307" required>
             <label for="hora">Hora</label>
             <input type="time" name="hora" id="hora" step="900" value="09:00" required>
-            <label class="checkbox">
-                <input type="checkbox" name="usar_slots"> Usar tabla de slots (si está disponible)
-            </label>
             <button type="submit">Ejecutar consulta</button>
         </form>
     </div>
@@ -48,7 +45,7 @@
             </div>
             <div class="toolbar-group">
                 <span>Vistas</span>
-                <a class="btn" href="{{ url_for('web.preview', target='fact_clase_slot') }}">fact_clase_slot</a>
+                
                 <a class="btn" href="{{ url_for('web.preview', target='vista_docentes_por_materia') }}">docentes por materia</a>
                 <a class="btn" href="{{ url_for('web.preview', target='vista_ocupacion_edificio') }}">ocupación por edificio</a>
                 <a class="btn" href="{{ url_for('web.preview', target='vista_carga_docente') }}">carga docente</a>
@@ -81,7 +78,7 @@
         <div class="preview-group">
             <h3>Vistas OLAP</h3>
             <div class="btn-group">
-                <a class="btn" href="{{ url_for('web.preview', target='fact_clase_slot') }}">fact_clase_slot</a>
+                
                 <a class="btn" href="{{ url_for('web.preview', target='vista_docentes_por_materia') }}">docentes por materia</a>
                 <a class="btn" href="{{ url_for('web.preview', target='vista_ocupacion_edificio') }}">ocupación por edificio</a>
                 <a class="btn" href="{{ url_for('web.preview', target='vista_carga_docente') }}">carga docente</a>
@@ -116,12 +113,11 @@
                 <li><strong>dim_espacio</strong>: edificios y salones disponibles.</li>
                 <li><strong>fact_clase</strong>: hechos de clase con periodo, plan y horario.</li>
             </ul>
-            <p class="mini-note">Consulta los DDL completos en <code>data/dw/schema_mysql.sql</code> o <code>data/dw/schema_postgres.sql</code>.</p>
+            <p class="mini-note">Consulta los DDL completos en <code>data/dw/schema_mysql.sql</code></p>
         </article>
         <article>
             <h3>Vistas y consultas analíticas</h3>
             <ul>
-                <li><strong>fact_clase_slot</strong>: vista opcional de slots de 60 minutos (archivo <code>data/dw/views.sql</code>).</li>
                 <li><strong>docentes por materia</strong>: resumen de asignaturas y número de docentes por clave.</li>
                 <li><strong>ocupación por edificio</strong>: conteo de sesiones por día y edificio.</li>
                 <li><strong>carga docente</strong>: total de clases, primer inicio y último fin por profesor.</li>
