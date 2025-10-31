@@ -1,0 +1,20 @@
+periodo: "Otoño 2025"
+plan: "Semestral"
+programas:
+  ITI: "Ingeniería en Tecnologías de la Información"
+  ICC: "Ingeniería en Ciencias de la Computación"
+  LCC: "Licenciatura en Ciencias de la Computación"
+day_map:
+  L: {nombre: "Lunes", orden: 1}
+  A: {nombre: "Martes", orden: 2}
+  M: {nombre: "Miércoles", orden: 3}
+  J: {nombre: "Jueves", orden: 4}
+  V: {nombre: "Viernes", orden: 5}
+  S: {nombre: "Sábado", orden: 6}
+salon_regex: "^[0-9A-Z]+[0-9]?/[0-9]{3}$"
+db:
+  url: "mysql+pymysql://root@localhost:3307/horarios?charset=utf8mb4"
+app:
+  host: "0.0.0.0"
+  port: 8080
+  debug: true
