@@ -1,0 +1,83 @@
+{% extends 'base.html' %}
+{% block title %}Resultados{% endblock %}
+{% block content %}
+<section class="card results-card">
+    <h1>{{ title }}</h1>
+    <a href="{{ url_for('web.index') }}" class="back-link">&#8592; {{ back_text|default('Nueva consulta') }}</a>
+    <div class="table-wrapper">
+        <table class="results-table">
+            <thead>
+                <tr>
+                    {% for header in headers %}
+                        <th>{{ header|replace('_', ' ')|title }}</th>
+                    {% endfor %}
+                </tr>
+            </thead>
+            <tbody id="results-body">
+                {% set limit = page_size|default(20) %}
+                {% for row in rows[:limit] %}
+                    <tr>
+                        {% for header in headers %}
+                            <td>{{ row[header] }}</td>
+                        {% endfor %}
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    <div class="pagination-controls" role="navigation" aria-label="Paginación de resultados">
+        <button type="button" id="prev-page" class="btn secondary" disabled>Anterior</button>
+        <span id="page-info"></span>
+        <button type="button" id="next-page" class="btn secondary">Siguiente</button>
+    </div>
+</section>
+<script>
+    const headers = {{ headers|tojson }};
+    const dataRows = {{ rows|tojson }};
+    const pageSize = {{ page_size|default(20) }};
+    const tbody = document.getElementById('results-body');
+    const prevBtn = document.getElementById('prev-page');
+    const nextBtn = document.getElementById('next-page');
+    const pageInfo = document.getElementById('page-info');
+
+    let currentPage = 1;
+    const totalPages = Math.max(1, Math.ceil(dataRows.length / pageSize));
+
+    function renderPage(page) {
+        const start = (page - 1) * pageSize;
+        const end = start + pageSize;
+        const slice = dataRows.slice(start, end);
+        tbody.innerHTML = '';
+
+        slice.forEach((row) => {
+            const tr = document.createElement('tr');
+            headers.forEach((header) => {
+                const td = document.createElement('td');
+                const value = row[header];
+                td.textContent = value === null || value === undefined ? '' : value;
+                tr.appendChild(td);
+            });
+            tbody.appendChild(tr);
+        });
+
+        currentPage = page;
+        pageInfo.textContent = `Página ${currentPage} de ${totalPages}`;
+        prevBtn.disabled = currentPage === 1;
+        nextBtn.disabled = currentPage === totalPages;
+    }
+
+    prevBtn?.addEventListener('click', () => {
+        if (currentPage > 1) {
+            renderPage(currentPage - 1);
+        }
+    });
+
+    nextBtn?.addEventListener('click', () => {
+        if (currentPage < totalPages) {
+            renderPage(currentPage + 1);
+        }
+    });
+
+    renderPage(1);
+</script>
+{% endblock %}
