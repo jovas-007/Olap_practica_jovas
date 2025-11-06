@@ -1,0 +1,65 @@
+{% extends 'base.html' %}
+{% block title %}Resultados{% endblock %}
+{% block content %}
+<section class="card results-card">
+    <h1>{{ title }}</h1>
+    <a href="{{ url_for('web.index') }}" class="back-link">&#8592; {{ back_text|default('Nueva consulta') }}</a>
+    {% if schedule_rows %}
+        <div class="schedule-wrapper">
+            <table class="schedule-table">
+                <thead>
+                    <tr>
+                        <th>Hora</th>
+                        {% for day in schedule_days %}
+                            <th>{{ day.nombre }}</th>
+                        {% endfor %}
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for slot in schedule_rows %}
+                        <tr>
+                            <td class="hour-cell">{{ slot.hora }}</td>
+                            {% for day in schedule_days %}
+                                {% set events = slot.dias[day.codigo] %}
+                                <td class="slot-cell">
+                                    {% if events %}
+                                        {% for event in events %}
+                                            <div class="slot-item">
+                                                <strong>{{ event.materia }}</strong>
+                                                <span>{{ event.clave }} · {{ event.espacio }}</span>
+                                                <span>{{ event.inicio }} - {{ event.fin }}</span>
+                                            </div>
+                                        {% endfor %}
+                                    {% else %}
+                                        <span class="slot-empty">-</span>
+                                    {% endif %}
+                                </td>
+                            {% endfor %}
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    {% endif %}
+    <div class="table-wrapper no-pagination">
+        <table class="results-table wide">
+            <thead>
+                <tr>
+                    {% for header in headers %}
+                        <th>{{ header|replace('_', ' ')|title }}</th>
+                    {% endfor %}
+                </tr>
+            </thead>
+            <tbody>
+                {% for row in rows %}
+                    <tr>
+                        {% for header in headers %}
+                            <td>{{ row[header] }}</td>
+                        {% endfor %}
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</section>
+{% endblock %}
