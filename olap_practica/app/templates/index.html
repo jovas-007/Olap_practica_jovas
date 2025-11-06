@@ -1,0 +1,176 @@
+{% extends 'base.html' %}
+{% block title %}Consultas OLAP{% endblock %}
+{% block content %}
+<section class="card">
+    <h1>Consultas sobre horarios</h1>
+    <div class="query-grid">
+        <form action="{{ url_for('web.run_query') }}" method="post" class="query-box">
+            <input type="hidden" name="operation" value="horario_docente">
+            <h2>Horario semanal de un docente</h2>
+            <p>Selecciona un docente y genera automáticamente su horario semanal.</p>
+            <label for="docente">Docente</label>
+            <select name="docente" id="docente" required>
+                <option value="">Selecciona un docente</option>
+                {% for docente in docentes %}
+                    <option value="{{ docente }}">{{ docente }}</option>
+                {% endfor %}
+            </select>
+            <button type="submit">Ejecutar consulta</button>
+        </form>
+        <form action="{{ url_for('web.run_query') }}" method="post" class="query-box">
+            <input type="hidden" name="operation" value="docentes_por_materia">
+            <h2>Docentes que imparten una materia</h2>
+            <p>Elige una clave oficial o una materia por nombre para listar a los docentes disponibles.</p>
+            <label for="clave">Clave de materia</label>
+            <select name="clave" id="clave">
+                <option value="">Todas las claves</option>
+                {% for materia in materias %}
+                    <option value="{{ materia.clave }}">{{ materia.clave }} - {{ materia.nombre }}</option>
+                {% endfor %}
+            </select>
+            <label for="texto">Nombre de materia</label>
+            <select name="texto" id="texto">
+                <option value="">Todos los nombres</option>
+                {% for materia in materias %}
+                    <option value="{{ materia.nombre }}">{{ materia.nombre }}</option>
+                {% endfor %}
+            </select>
+            <small class="helper-text">Si seleccionas clave y nombre, se prioriza la clave.</small>
+            <button type="submit">Ejecutar consulta</button>
+        </form>
+        <form action="{{ url_for('web.run_query') }}" method="post" class="query-box">
+            <input type="hidden" name="operation" value="docentes_en_edificio">
+            <h2>Docentes en un edificio a una hora</h2>
+            <p>Selecciona un edificio (o salón específico) y una hora disponible.</p>
+            <label for="edificio">Edificio o salón</label>
+            <select name="edificio" id="edificio" required>
+                <option value="">Selecciona una opción</option>
+                <optgroup label="Edificios">
+                    {% for edificio in espacios.edificios %}
+                        <option value="{{ edificio }}">{{ edificio }}</option>
+                    {% endfor %}
+                </optgroup>
+                <optgroup label="Salones">
+                    {% for salon in espacios.salones %}
+                        <option value="{{ salon }}">{{ salon }}</option>
+                    {% endfor %}
+                </optgroup>
+            </select>
+            <label for="hora">Hora</label>
+            <select name="hora" id="hora" required>
+                <option value="">Selecciona una hora</option>
+                {% for hora in horas %}
+                    <option value="{{ hora }}">{{ hora }}</option>
+                {% endfor %}
+            </select>
+            <label class="checkbox">
+                <input type="checkbox" name="usar_slots"> Usar tabla de slots (si está disponible)
+            </label>
+            <button type="submit">Ejecutar consulta</button>
+        </form>
+    </div>
+</section>
+<section class="card info-section">
+    <div class="info-header">
+        <h2>Explora el cubo OLAP</h2>
+        <div class="preview-toolbar">
+            <div class="toolbar-group">
+                <span>Cubo</span>
+                <a class="btn" href="{{ url_for('web.preview', target='fact_clase') }}">fact_clase</a>
+            </div>
+            <div class="toolbar-group">
+                <span>Vistas</span>
+                <a class="btn" href="{{ url_for('web.preview', target='fact_clase_slot') }}">fact_clase_slot</a>
+                <a class="btn" href="{{ url_for('web.preview', target='vista_docentes_por_materia') }}">docentes por materia</a>
+                <a class="btn" href="{{ url_for('web.preview', target='vista_ocupacion_edificio') }}">ocupación por edificio</a>
+                <a class="btn" href="{{ url_for('web.preview', target='vista_carga_docente') }}">carga docente</a>
+            </div>
+            <div class="toolbar-group">
+                <span>Dimensiones</span>
+                <a class="btn" href="{{ url_for('web.preview', target='dim_docente') }}">docente</a>
+                <a class="btn" href="{{ url_for('web.preview', target='dim_asignatura') }}">asignatura</a>
+                <a class="btn" href="{{ url_for('web.preview', target='dim_grupo') }}">grupo</a>
+                <a class="btn" href="{{ url_for('web.preview', target='dim_tiempo') }}">tiempo</a>
+                <a class="btn" href="{{ url_for('web.preview', target='dim_espacio') }}">espacio</a>
+            </div>
+            <div class="toolbar-group">
+                <span>Datos crudos</span>
+                <a class="btn" href="{{ url_for('web.preview', target='staging') }}">staging.csv</a>
+                <a class="btn" href="{{ url_for('web.preview', target='fact_ready') }}">fact_ready.csv</a>
+            </div>
+        </div>
+    </div>
+    <p>
+        Las siguientes secciones describen los componentes cargados por la ETL. Úsalas como guía para
+        navegar por las tablas dimensionales, las vistas agregadas y los datos crudos disponibles
+        en el repositorio.
+    </p>
+    <div class="preview-actions">
+        <div class="preview-group">
+            <h3>Cubo completo</h3>
+            <a class="btn" href="{{ url_for('web.preview', target='fact_clase') }}">Ver fact_clase</a>
+        </div>
+        <div class="preview-group">
+            <h3>Vistas OLAP</h3>
+            <div class="btn-group">
+                <a class="btn" href="{{ url_for('web.preview', target='fact_clase_slot') }}">fact_clase_slot</a>
+                <a class="btn" href="{{ url_for('web.preview', target='vista_docentes_por_materia') }}">docentes por materia</a>
+                <a class="btn" href="{{ url_for('web.preview', target='vista_ocupacion_edificio') }}">ocupación por edificio</a>
+                <a class="btn" href="{{ url_for('web.preview', target='vista_carga_docente') }}">carga docente</a>
+            </div>
+        </div>
+        <div class="preview-group">
+            <h3>Dimensiones</h3>
+            <div class="btn-group">
+                <a class="btn" href="{{ url_for('web.preview', target='dim_docente') }}">dim_docente</a>
+                <a class="btn" href="{{ url_for('web.preview', target='dim_asignatura') }}">dim_asignatura</a>
+                <a class="btn" href="{{ url_for('web.preview', target='dim_grupo') }}">dim_grupo</a>
+                <a class="btn" href="{{ url_for('web.preview', target='dim_tiempo') }}">dim_tiempo</a>
+                <a class="btn" href="{{ url_for('web.preview', target='dim_espacio') }}">dim_espacio</a>
+            </div>
+        </div>
+        <div class="preview-group">
+            <h3>Datos crudos</h3>
+            <div class="btn-group">
+                <a class="btn" href="{{ url_for('web.preview', target='staging') }}">staging.csv</a>
+                <a class="btn" href="{{ url_for('web.preview', target='fact_ready') }}">fact_ready.csv</a>
+            </div>
+        </div>
+    </div>
+    <div class="info-grid">
+        <article>
+            <h3>Tablas base del cubo</h3>
+            <ul>
+                <li><strong>dim_docente</strong>: catálogo de profesores normalizados.</li>
+                <li><strong>dim_asignatura</strong>: claves y nombres de materias por programa.</li>
+                <li><strong>dim_grupo</strong>: NRC, sección y bandera de cursos cruzados.</li>
+                <li><strong>dim_tiempo</strong>: códigos de día y orden cronológico.</li>
+                <li><strong>dim_espacio</strong>: edificios y salones disponibles.</li>
+                <li><strong>fact_clase</strong>: hechos de clase con periodo, plan y horario.</li>
+            </ul>
+            <p class="mini-note">Consulta los DDL completos en <code>data/dw/schema_mysql.sql</code> o <code>data/dw/schema_postgres.sql</code>.</p>
+        </article>
+        <article>
+            <h3>Vistas y consultas analíticas</h3>
+            <ul>
+                <li><strong>fact_clase_slot</strong>: vista opcional de slots de 60 minutos (archivo <code>data/dw/views.sql</code>).</li>
+                <li><strong>docentes por materia</strong>: resumen de asignaturas y número de docentes por clave.</li>
+                <li><strong>ocupación por edificio</strong>: conteo de sesiones por día y edificio.</li>
+                <li><strong>carga docente</strong>: total de clases, primer inicio y último fin por profesor.</li>
+                <li><strong>Consultas OLAP</strong>: definidas en <code>data/dw/queries.sql</code> para docente, materia y edificio.</li>
+                <li><strong>Índices</strong>: scripts en <code>data/dw/indexes.sql</code> optimizan búsquedas por docente y espacio.</li>
+            </ul>
+            <p class="mini-note">Aplica las vistas después del esquema para habilitar la opción de slots desde el formulario.</p>
+        </article>
+        <article>
+            <h3>Datos crudos y etapas de depuración</h3>
+            <ul>
+                <li><strong>data/raw/</strong>: PDFs originales extraídos desde Servicios Escolares.</li>
+                <li><strong>data/staging/staging.csv</strong>: resultado directo del extractor.</li>
+                <li><strong>data/staging/fact_ready.csv</strong>: dataset listo para carga en el DW.</li>
+            </ul>
+            <p class="mini-note">Estos archivos permiten auditar la limpieza (por ejemplo, profesores normalizados y horarios divididos por día).</p>
+        </article>
+    </div>
+</section>
+{% endblock %}
