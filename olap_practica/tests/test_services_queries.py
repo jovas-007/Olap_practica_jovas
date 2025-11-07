@@ -1,0 +1,187 @@
+import pytest
+
+from app.services import queries
+
+
+def test_docentes_por_materia_prefers_clave(monkeypatch):
+    captured = {}
+
+    def fake_fetch_all(query, params):
+        captured["query"] = query
+        captured["params"] = params
+        return []
+
+    monkeypatch.setattr("app.services.queries.fetch_all", fake_fetch_all)
+    queries.docentes_por_materia(clave=" mat101 ", texto="Calculo")
+    assert captured["params"]["clave"] == "MAT101"
+    assert captured["params"]["texto"] is None
+    assert captured["params"]["periodo"]
+    assert captured["params"]["plan"]
+
+
+def test_docentes_por_materia_uses_text_when_no_clave(monkeypatch):
+    captured = {}
+
+    def fake_fetch_all(query, params):
+        captured["params"] = params
+        return []
+
+    monkeypatch.setattr("app.services.queries.fetch_all", fake_fetch_all)
+    queries.docentes_por_materia(texto="  bases de datos  ")
+    assert captured["params"]["clave"] is None
+    assert captured["params"]["texto"] == "bases de datos"
+    assert captured["params"]["periodo"]
+    assert captured["params"]["plan"]
+
+
+def test_docentes_en_edificio_normalizes_inputs(monkeypatch):
+    captured = {}
+
+    def fake_fetch_all(query, params):
+        captured["params"] = params
+        return []
+
+    monkeypatch.setattr("app.services.queries.fetch_all", fake_fetch_all)
+    queries.docentes_en_edificio_a_hora(" 1CCO4 ", "0900")
+    assert captured["params"]["edificio"] == "1CCO4"
+    assert captured["params"]["hora"] == "09:00"
+    assert captured["params"]["salon"] is None
+    assert captured["params"]["periodo"]
+    assert captured["params"]["plan"]
+
+
+def test_docentes_en_edificio_accepts_salon(monkeypatch):
+    captured = {}
+
+    def fake_fetch_all(query, params):
+        captured["params"] = params
+        return []
+
+    monkeypatch.setattr("app.services.queries.fetch_all", fake_fetch_all)
+    queries.docentes_en_edificio_a_hora("1CCO4/307", "0930")
+    assert captured["params"]["edificio"] == "1CCO4"
+    assert captured["params"]["salon"] == "1CCO4/307"
+    assert captured["params"]["hora"] == "09:30"
+
+
+def test_docentes_en_edificio_includes_day_and_slots(monkeypatch):
+    responses = [
+        [{"nombre_completo": "Ana", "dia_codigo": "L"}, {"nombre_completo": "Ana", "dia_codigo": "M"}],
+        [{"nombre_completo": "Ana"}],
+    ]
+
+    def fake_fetch_all(query, params):
+        assert params["periodo"]
+        assert params["plan"]
+        return responses.pop(0)
+
+    monkeypatch.setattr("app.services.queries.fetch_all", fake_fetch_all)
+    result = queries.docentes_en_edificio_a_hora("1CCO4", "1000", usar_slots=True)
+    assert {row["dia"] for row in result} == {"Lunes", "Miércoles"}
+    assert {row["docente"] for row in result} == {"Ana"}
+
+
+def test_list_docentes(monkeypatch):
+    expected = [
+        {"nombre_completo": "Ana"},
+        {"nombre_completo": "Luis"},
+    ]
+
+    monkeypatch.setattr(
+        "app.services.queries.fetch_all",
+        lambda query, params: expected,
+    )
+
+    result = queries.list_docentes()
+    assert result == ["Ana", "Luis"]
+
+
+def test_list_materias(monkeypatch):
+    expected = [
+        {"clave": "MAT101", "nombre": "Cálculo"},
+        {"clave": "CS102", "nombre": "Programación"},
+    ]
+
+    monkeypatch.setattr(
+        "app.services.queries.fetch_all",
+        lambda query, params: expected,
+    )
+
+    result = queries.list_materias()
+    assert result[0]["clave"] == "MAT101"
+    assert result[1]["nombre"] == "Programación"
+
+
+def test_list_espacios(monkeypatch):
+    expected = [
+        {"edificio": "1CCO4", "salon": "307"},
+        {"edificio": "1CCO4", "salon": "405"},
+        {"edificio": "2ABC", "salon": "101"},
+    ]
+
+    monkeypatch.setattr(
+        "app.services.queries.fetch_all",
+        lambda query, params: expected,
+    )
+
+    result = queries.list_espacios()
+    assert result["edificios"] == ["1CCO4", "2ABC"]
+    assert "1CCO4/307" in result["salones"]
+    assert "2ABC/101" in result["salones"]
+
+
+def test_list_horas_disponibles(monkeypatch):
+    expected = [{"hora": "08:00"}, {"hora": "09:30"}]
+
+    monkeypatch.setattr(
+        "app.services.queries.fetch_all",
+        lambda query, params: expected,
+    )
+
+    assert queries.list_horas_disponibles() == ["08:00", "09:30"]
+
+
+def test_preview_dataset_for_table(monkeypatch, tmp_path):
+    expected_rows = [{"id": 1, "nombre_completo": "Ana", "clave": "MAT101"}]
+
+    def fake_fetch_all(query, params):
+        assert "LIMIT" in query.upper()
+        assert params["limit"] == 100
+        return expected_rows
+
+    monkeypatch.setattr("app.services.queries.fetch_all", fake_fetch_all)
+    title, headers, rows = queries.preview_dataset("fact_clase")
+    assert "fact_clase" in title
+    assert "nombre_completo" in headers
+    assert rows == expected_rows
+
+
+def test_preview_dataset_for_view_uses_context(monkeypatch):
+    captured = {}
+
+    def fake_fetch_all(query, params):
+        captured["params"] = params
+        return [{"clave": "MAT101", "materia": "Cálculo", "docentes": 2}]
+
+    monkeypatch.setattr("app.services.queries.fetch_all", fake_fetch_all)
+    title, headers, rows = queries.preview_dataset("vista_docentes_por_materia")
+    assert "Docentes por materia" in title
+    assert headers == ["clave", "materia", "docentes"]
+    assert rows[0]["materia"] == "Cálculo"
+    assert captured["params"]["periodo"]
+    assert captured["params"]["plan"]
+
+
+def test_preview_dataset_reads_csv(monkeypatch, tmp_path):
+    csv_path = tmp_path / "fact_ready.csv"
+    csv_path.write_text("col1,col2\nA,B\n", encoding="utf-8")
+    monkeypatch.setattr("app.services.queries.CSV_PREVIEWS", {"fact_ready": (csv_path, "Test")})
+    title, headers, rows = queries.preview_dataset("fact_ready")
+    assert title == "Test"
+    assert headers == ["col1", "col2"]
+    assert rows[0]["col1"] == "A"
+
+
+def test_preview_dataset_missing_target():
+    with pytest.raises(ValueError):
+        queries.preview_dataset("desconocido")
