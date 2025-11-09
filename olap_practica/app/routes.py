@@ -200,17 +200,19 @@ def _build_schedule_view(data: List[Dict[str, Any]]) -> tuple[List[Dict[str, str
             day_events = events_by_day.get(codigo, [])
             cell_events: List[Dict[str, str]] = []
             for event in day_events:
-                if event["fin"] <= current or event["inicio"] >= slot_end:
-                    continue
-                cell_events.append(
-                    {
-                        "materia": event["materia"],
-                        "clave": event["clave"],
-                        "espacio": event["espacio"],
-                        "inicio": event["inicio"].strftime("%H:%M"),
-                        "fin": event["fin"].strftime("%H:%M"),
-                    }
-                )
+                # Solo mostrar el evento si INICIA en este slot
+                # Esto evita duplicados cuando una clase dura más de 1 hora
+                event_start_hour = event["inicio"].replace(minute=0, second=0, microsecond=0)
+                if event_start_hour == current:
+                    cell_events.append(
+                        {
+                            "materia": event["materia"],
+                            "clave": event["clave"],
+                            "espacio": event["espacio"],
+                            "inicio": event["inicio"].strftime("%H:%M"),
+                            "fin": event["fin"].strftime("%H:%M"),
+                        }
+                    )
             dia_map[codigo] = cell_events
         schedule_rows.append({"hora": label, "dias": dia_map})
         current = slot_end

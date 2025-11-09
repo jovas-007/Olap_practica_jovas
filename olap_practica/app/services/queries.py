@@ -15,14 +15,31 @@ from .db import fetch_all
 SETTINGS = load_settings()
 
 QUERY_HORARIO_DOCENTE = """
-SELECT d.nombre_completo, t.dia_codigo, f.inicio, f.fin, a.clave, a.nombre AS materia, e.edificio, e.salon
+SELECT 
+    d.nombre_completo, 
+    t.dia_codigo, 
+    MIN(f.inicio) as inicio, 
+    MIN(f.fin) as fin, 
+    a.clave, 
+    a.nombre AS materia, 
+    e.edificio, 
+    e.salon
 FROM fact_clase f
 JOIN dim_docente d ON f.fk_docente = d.id
 JOIN dim_asignatura a ON f.fk_asignatura = a.id
 JOIN dim_tiempo t ON f.fk_tiempo = t.id
 JOIN dim_espacio e ON f.fk_espacio = e.id
-WHERE f.periodo = :periodo AND f.plan = :plan AND LOWER(d.nombre_completo) LIKE LOWER(:docente)
-ORDER BY d.nombre_completo, t.dia_codigo, f.inicio;
+WHERE f.periodo = :periodo 
+  AND f.plan = :plan 
+  AND LOWER(d.nombre_completo) LIKE LOWER(:docente)
+GROUP BY 
+    d.nombre_completo,
+    t.dia_codigo,
+    a.clave,
+    a.nombre,
+    e.edificio,
+    e.salon
+ORDER BY d.nombre_completo, t.dia_codigo, MIN(f.inicio);
 """
 
 QUERY_DOCENTES_MATERIA = """
