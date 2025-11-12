@@ -347,6 +347,45 @@ th {
     color: #a0a7b5;
 }
 
+.page-footer {
+    margin: 2rem auto 0 auto;
+    max-width: 1400px;
+    padding: 1rem 1.5rem;
+    background-color: #273c75;
+    color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.25rem;
+}
+
+.footer-logo {
+    width: 100px;
+    height: auto;
+}
+
+.footer-text {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    font-size: 0.95rem;
+    line-height: 1.4;
+}
+
+.footer-text strong {
+    font-size: 1.1rem;
+}
+
+.footer-text p {
+    margin: 0;
+}
+
 @media (max-width: 600px) {
     .card {
         padding: 1.5rem;

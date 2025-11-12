@@ -29,13 +29,3 @@ WHERE f.periodo = 'Otoño 2025' AND f.plan = 'Semestral'
   AND f.inicio <= CAST(:hora AS TIME)
   AND f.fin > CAST(:hora AS TIME)
 ORDER BY d.nombre_completo, t.dia_codigo;
-
--- 3b) Versión con slots
-SELECT DISTINCT d.nombre_completo
-FROM fact_clase_slot s
-JOIN dim_docente d ON s.fk_docente = d.id
-JOIN dim_espacio e ON s.fk_espacio = e.id
-WHERE LOWER(e.edificio) = LOWER(:edificio)
-  AND (:salon IS NULL OR LOWER(CONCAT(e.edificio, '/', e.salon)) = LOWER(:salon))
-  AND s.slot_inicio <= CAST(:hora AS TIME)
-  AND s.slot_fin > CAST(:hora AS TIME);
