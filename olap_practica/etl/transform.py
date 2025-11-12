@@ -58,21 +58,6 @@ def _normalise_clave(value: str) -> str:
 
 
 def transform(staging_csv: str, settings: Dict | AppSettings | None = None) -> Path:
-    """Transform the staging CSV into a fact-ready dataset.
-
-    Parameters
-    ----------
-    staging_csv:
-        Path to the CSV created by :mod:`etl.extract_pdf`.
-    settings:
-        Optional settings object or dictionary. When ``None`` it is loaded from
-        ``config/settings.yaml``.
-
-    Returns
-    -------
-    Path
-        Path to the generated ``fact_ready.csv``.
-    """
 
     logger = get_logger()
     if settings is None:
@@ -90,7 +75,7 @@ def transform(staging_csv: str, settings: Dict | AppSettings | None = None) -> P
             start_time, end_time = _split_hour_range(row["hora"])
             minutos = int(
                 (dt.datetime.combine(dt.date.today(), end_time)
-                 - dt.datetime.combine(dt.date.today(), start_time)).total_seconds()
+                - dt.datetime.combine(dt.date.today(), start_time)).total_seconds()
                 // 60
             )
             dias = [char for char in row["dias"] if char]

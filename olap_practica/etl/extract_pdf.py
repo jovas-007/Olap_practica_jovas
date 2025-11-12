@@ -45,7 +45,6 @@ EXPECTED_COLUMNS = [
 
 
 def _detect_program(file_name: str) -> str:
-    """Infer the academic program from the PDF filename."""
 
     file_name = file_name.upper()
     for code in ("ITI", "ICC", "LCC"):
@@ -55,7 +54,6 @@ def _detect_program(file_name: str) -> str:
 
 
 def _move_source_pdfs(base_dir: Path, raw_dir: Path) -> List[Path]:
-    """Move candidate PDFs located at the repository root to ``raw_dir``."""
 
     pattern = "PA_OTOÑO_2025_SEMESTRAL_*.pdf"
     moved_files: List[Path] = []
@@ -114,19 +112,7 @@ def _parse_table_rows(table: Iterable[Iterable[str]], programa: str, logger) -> 
 
 
 def extract_all(output_path: str = "data/staging/staging.csv") -> Path:
-    """Run the PDF extraction workflow and generate the staging CSV file.
-
-    Parameters
-    ----------
-    output_path:
-        Destination CSV path. Parent directories are created automatically.
-
-    Returns
-    -------
-    Path
-        Path to the generated CSV file.
-    """
-
+   
     settings = load_settings()
     logger = get_logger()
     base_path = os.environ.get("OLAP_BASE_DIR")

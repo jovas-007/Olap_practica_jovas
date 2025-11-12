@@ -28,8 +28,7 @@ except ImportError:  # pragma: no cover - fallback for ``python etl/load.py``
 
 
 class DimensionCache:
-    """Helper that caches lookups to dimension IDs."""
-
+   
     def __init__(self, table: Table, unique_fields: Tuple[str, ...]):
         self.table = table
         self.unique_fields = unique_fields
@@ -67,8 +66,7 @@ def _ensure_dim_tiempo(engine: Engine, settings: AppSettings, dim_tiempo: Table)
 
 
 def load(fact_csv: str = "data/staging/fact_ready.csv", settings: AppSettings | None = None) -> None:
-    """Load the transformed CSV into the data warehouse."""
-
+    
     logger = get_logger()
     if settings is None:
         settings = load_settings()
